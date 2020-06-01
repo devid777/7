@@ -1,0 +1,123 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 group-title="Россия центральные",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",Первый канал HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Россия центральные",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",НТВ
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
+#EXTINF:-1 group-title="Россия центральные",Че
+http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные", Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",ТВЦ [HD]
+http://rt-sth-astrh-htlive-lb.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2&offset=-1
+#EXTINF:-1 group-title="Россия центральные",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
+#EXTINF:-1group-title="Россия центральные" ,2х2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",Канал Disney
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия центральные",Мир [FHD]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1 group-title="Россия центральные",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Россия центральные",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",ТНТ HD
+http://195.191.208.2:8086/udp/229.54.15.106:1234
+#EXTINF:-1 group-title="Россия центральные",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Россия центральные",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",CTC Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Россия центральные",ТВ-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Украина центральные",Бигуди
+http://50.7.222.90:8081/bigydi/index.m3u8?wmsAuthSign=8a489dab1055df49da1e63d7022a85fb-1590959461-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",2+2
+http://50.7.222.90:8081/2pl2/index.m3u8?wmsAuthSign=4a54cadb733f09cc837316eecc613b91-1590959196-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",ТЕТ
+http://50.7.222.90:8081/tet/index.m3u8?wmsAuthSign=3ec193b8aba4b1e6b4ed6020b06a9e0c-1590959317-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",Новый канал
+http://50.7.222.90:8081/113/index.m3u8?wmsAuthSign=22e7176c419e4adec56f1a551cb738a5-1590955987-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",СТБ
+http://50.7.120.165:8081/111/index.m3u8?wmsAuthSign=5e55e1eac0958bd4fb2d51093a6cab01-1590956162-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",1+1
+http://50.7.120.165:8081/1pl1/index.m3u8?wmsAuthSign=03b8ff29b473cab29b4a9952014b030a-1590958866-13i74i75i391
+#EXTINF:-1 group-title="Украина центральные",ICTV
+http://50.7.222.90:8081/112/index.m3u8?wmsAuthSign=d9a4aaca924c6b459a0c37cf2ebfa316-1590959069-13i74i75i391
+#EXTINF:-1 group-title="Кино", TV1000
+http://50.7.222.90:8081/tv1000/index.m3u8?wmsAuthSign=b50a02594713ca454a44df9673063adf-1590955851-13i74i75i391
+#EXTINF:-1 group-title="Кино", TV1000 Action
+http://50.7.222.90:8081/tv1000action/index.m3u8?wmsAuthSign=524c3c2fdb4f81a201bdca1b0587d814-1590955741-13i74i75i391
+#EXTINF:-1 group-title="Кино",ViP Comedy HD
+http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",ViP Megahit HD
+http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",ViP Premiere HD
+http://178.217.72.66/225.201.2.172/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", FOX
+http://50.7.222.90:8081/fox/index.m3u8?wmsAuthSign=b10b701bdcdc35b13d58167025415572-1590955501-13i74i75i391
+#EXTINF:-1 group-title="Кино", Страшное HD
+http://50.7.222.90:8081/strachnoe/index.m3u8?wmsAuthSign=ea2d94b51fa0603e3f495684368e7707-1590955343-13i74i75i391
+#EXTINF:-1 group-title="Кино",HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema FulHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Остросюжетное HD [HD]
+http://50.7.222.90:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=a1a31f3df4504b50b3dddd24909489a5-1590955101-13i74i75i391
+#EXTINF:-1 group-title="Кино",НСТ
+http://50.7.222.90:8081/nst/index.m3u8?wmsAuthSign=38c5a4135ec01a16d474b3ec31183951-1590955656-13i74i75i391
+#EXTINF:-1 group-title="Кино",Кинозал 12 (БОЕВИК TV)
+http://v2.catcast.me/content/37713/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV HD
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",Nano TV HD
+http://185.46.48.16/NANO/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery HD Showcase
+http://cdn.iptv.monster/play/272/F46FF4842F422F5/mpegts
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Армения",USArmenia
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 group-title="Армения",ARTN Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 group-title="Армения",Luys TV
+http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
+#EXTINF:-1 group-title="Армения",ARARAT HD
+http://streams.livetv.az/azerbaijan/24/playlist.m3u8
+#EXTINF:-1 group-title="Армения",SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Армения",VM Music
+http://livestream.vnvn.net/vnatv573.m3u8
+#EXTINF:-1 group-title="Армения",TBN (ARM)
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1 group-title="Армения",ATV HD
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 group-title="Армения",Armenia 1 TV
+https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
