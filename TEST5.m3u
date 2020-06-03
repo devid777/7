@@ -37,6 +37,8 @@ https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",СТС Love HD
 http://217.25.226.215:4022/udp/235.1.10.187:10000
+#EXTINF:-1 group-title="Россия центральные",СТС International
+http://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 group-title="Россия центральные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",ТНТ4
@@ -91,6 +93,8 @@ http://185.22.183.150:8085/media/hls_183_150/fox_hd/index.m3u8
 http://185.22.183.150:8085/media/hls_183_150/foxlife_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
 http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
+#EXTINF:-1 group-title="Кино",Sony Turbo
+http://83.172.32.25:8012/tv/sonyturbo
 #EXTINF:-1 group-title="Кино",Hollywood HD
 http://185.22.183.154:8085/media/hls_183_154/hollywood_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас HD
@@ -111,14 +115,14 @@ http://83.172.32.25:8012/tv/amedia1
 http://83.172.32.25:8012/tv/amedia2
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
 http://83.172.32.25:8012/tv/amediapremiumhd
-#EXTINF:-1 group-title="Кино",Sony Sci-Fi
-http://83.172.32.25:8012/tv/sonyscifi
-#EXTINF:-1 group-title="Кино",Sony Turbo
-http://83.172.32.25:8012/tv/sonyturbo
 #EXTINF:-1 group-title="Кино",Paramount Comedy
 http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
 #EXTINF:-1 group-title="Кино",Paramount Comedy HD
 http://95.47.243.141:80/paramountcomedyhd/mono.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit
+http://188.35.9.11:2016
+#EXTINF:-1 group-title="Кино",VIP Premiere
+http://188.35.9.11:2013
 #EXTINF:-1 group-title="Детские",Disney
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
@@ -165,3 +169,4 @@ http://185.22.183.147:8085/media/hls_183_147/animal_planet_hq/index.m3u8
 http://79.142.197.7:8888/Travel_HD/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 http://hlstv.kem.211.ru/239.211.211.105/stream.m3u8
+
