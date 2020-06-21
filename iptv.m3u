@@ -25,12 +25,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Россия центральные",Пятница!
+#EXTINF:-1 group-title="Россия центральные",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",Пятница HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1 group-title="Россия центральные",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",СТС HD
+http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/13/stream.m3u8
 #EXTINF:-1 group-title="Россия центральные",СТС Love
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4396
 #EXTINF:-1 group-title="Россия центральные",ТНТ
@@ -39,12 +41,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4393
 #EXTINF:-1 group-title="Россия центральные",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Россия центральные",ТНТ4 HD
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4768
 #EXTINF:-1 group-title="Россия центральные",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Украина центральные",ICTV
+http://188.35.9.11:11043/q
 #EXTINF:-1 group-title="Украина центральные",News One
 http://212.66.34.126/play/28/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",Прямый
@@ -55,6 +61,8 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина центральные",К2
+http://188.40.48.89:80/restrimfree/fWVyipZrS0/4728
 #EXTINF:-1 group-title="Украина центральные",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 group-title="Украина центральные",НТН
@@ -75,12 +83,6 @@ http://212.66.34.126/play/89/index.m3u8
 http://212.66.34.126/play/22/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",Zik
 http://212.66.34.126/play/45/index.m3u8
-#EXTINF:-1 group-title="Кино",TV 1000 Comedy HD
-http://212.66.34.126/play/76/index.m3u8
-#EXTINF:-1 group-title="Кино",TV 1000 Megahit HD
-http://212.66.34.126/play/44/index.m3u8
-#EXTINF:-1 group-title="Кино",TV 1000 Premium HD
-http://212.66.34.126/play/59/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 http://persik.tv/stream/6299/10/10237.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
