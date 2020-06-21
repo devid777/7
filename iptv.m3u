@@ -49,8 +49,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Украина центральные",2+2
+https://95-213-224-187.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина центральные",ICTV
-http://79.142.197.7:8888/ICTV/mono.m3u8
+http://79.142.197.7:8888/ICTV/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",News One
 http://212.66.34.126/play/28/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",Прямый
