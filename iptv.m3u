@@ -49,8 +49,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Россия центральные",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Украина центральные",2+2
-https://95-213-224-187.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина центральные",ICTV
 http://79.142.197.7:8888/ICTV/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",News One
@@ -85,6 +83,8 @@ http://212.66.34.126/play/89/index.m3u8
 http://212.66.34.126/play/22/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",Zik
 http://212.66.34.126/play/45/index.m3u8
+#EXTINF:-1 group-title="Украина центральные",НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 http://persik.tv/stream/6299/10/10237.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
@@ -179,6 +179,8 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",MTV HITS
 http://182.73.122.74:10005/bysid/412
+#EXTINF:-1 group-title="Музыка",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Армения",USArmenia
