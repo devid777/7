@@ -79,11 +79,11 @@ http://212.66.34.126/play/35/index.m3u8
 http://212.66.34.126/play/82/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",Новый Канал
 http://212.66.34.126/play/83/index.m3u8
-#EXTINF:-1group-title="Украина центральные" ,Мега
+#EXTINF:-1group-title="Украина центральные",Мега
 http://212.66.34.126/play/89/index.m3u8
-#EXTINF:-1 group-title="Украина центральные",НЛО ТВ
+#EXTINF:-1 group-title="Украина центральные",НЛО-ТВ
 http://212.66.34.126/play/22/index.m3u8
-#EXTINF:-1 group-title="Украина центральные",Zik
+#EXTINF:-1 group-title="Украина центральные",ZIK
 http://212.66.34.126/play/45/index.m3u8
 #EXTINF:-1 group-title="Украина центральные",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
@@ -91,9 +91,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 http://persik.tv/stream/6299/10/10237.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
-#EXTINF:-1 group-title="Кино",TV 1000 Action HD
+#EXTINF:-1 group-title="Кино",TV1000 Action HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4334
-#EXTINF:-1 group-title="Кино",TV 1000 Русское кино HD
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4335
 #EXTINF:-1 group-title="Кино",VIP Megahit HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4337
@@ -117,7 +117,7 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4345
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4344
 #EXTINF:-1 group-title="Кино",Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:-1 group-title="Кино",HCT
+#EXTINF:-1 group-title="Кино",Настоящее Страшное Телевидение
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4353
 #EXTINF:-1 group-title="Кино",Страшное HD
 http://188.40.48.89:80/restrimfree/fWVyipZrS0/4352
