@@ -68,7 +68,9 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 group-title="Украина центральные",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 group-title="Украина центральные",1+1
-http://188.35.9.11:11011/a
+http://79.142.197.7:8888/1plus1/mono.m3u8
+#EXTINF:-1 group-title="Украина центральные",2+2
+https://95-213-224-183.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина центральные",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 group-title="Украина центральные",Фауна
