@@ -159,6 +159,8 @@ http://media1.skifnet.by/starcinema/tracks-v1a1/mono.m3u8
 http://83.172.32.25:8012/tv/amedia1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Кино",Amedia 2
 http://83.172.32.25:8012/tv/amedia2
+#EXTINF:-1 tvg-logo=""http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Кино", Amedia Hit
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium" group-title="Кино",Amedia Premium HD
 http://178.33.37.66/stream/5D8B9HMY3B/151.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy HD" group-title="Кино",Paramount Comedy
