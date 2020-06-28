@@ -194,7 +194,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" tvg-name="Матч! Футбол 3 HD" group-title="Спортивные",Матч! Футбол 3 HD
 http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYCHANNEL/variant.m3u8
+http://media1.skifnet.by/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1612.png" tvg-name="Discovery Channel HD" group-title="Познавательные",Discovery Channel HD
 http://178.217.72.66:80/225.201.2.50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science
