@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz" 
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия центральные",Первый канал
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия центральные",Первый канал HD
@@ -38,7 +38,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name= group-title="Россия центральные",СТС HD
 http://85.143.191.135/42/caf6231c3057cc3ce510df95183ec91738bea51f/13/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name=СТС Love" group-title="Россия центральные",СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+http://astra.realcrimea.net:8000/play/a02v
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия центральные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия центральные",ТНТ HD
@@ -77,20 +77,18 @@ http://79.142.197.7:8888/1plus1/mono.m3u8
 http://cdn.iptv.monster/play/656/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина центральные",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="Фауна" group-title="Украина центральные",Фауна
-http://212.66.34.126/play/35/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина центральные",СТБ
 http://cdn.iptv.monster/play/401/test/video.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина центральные",ТЕТ
 http://cdn.iptv.monster/play/405/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина центральные",Новый Канал
-javascript:'http://cdnstreamlive.com/fan-tv/novii_kanal.php'.httpGet({headers:{'Referer':'http://fan-tv.name/channels/29-novyj-kanal.html'}}).match(/file:"(.*?)"/)[1]
+http://iptv.prosto.tv:7000/ch6/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина центральные",Мега
-http://188.35.9.11:11082/s
+http://iptv.prosto.tv:7000/ch11/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина центральные",НЛО TV
-http://212.66.34.126/play/22/index.m3u8
+http://iptv.prosto.tv:7000/ch14/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина центральные",ZIK 
-http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+http://iptv.prosto.tv:7000/ch28/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина центральные",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Кино",TV1000 HD
@@ -106,7 +104,7 @@ http://cdn.iptv.monster/play/196/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
 http://cdn.iptv.monster/play/194/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
-http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
+http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" vg-name="Epic Drama",Epic Drama
 http://185.109.55.59:9000/play/3912_EpicDrama_LAN_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" vg-name="Epic Drama",Epic Drama HD
@@ -152,7 +150,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://cdn.iptv.monster/play/235/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
-http://live02-cdn.tv.ti.ru:80/dtv/id397_NBN_SG--SETHD/04/plst.m3u8
+http://iptv.prosto.tv:7000/ch204/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Кино",Hollywood
 http://178.217.72.66/225.201.2.76/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
