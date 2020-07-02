@@ -78,7 +78,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Фауна" group-title="Украина центральные",Фауна
 http://212.66.34.126/play/35/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина центральные",СТБ
-http://212.66.34.126/play/82/index.m3u8
+http://cdn.iptv.monster/play/401/test/video.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина центральные",ТЕТ
+http://cdn.iptv.monster/play/405/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина центральные",Новый Канал
 http://212.66.34.126/play/83/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина центральные",Мега
@@ -196,7 +198,7 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2278.png" tvg-name="Шансон ТВ" group-title="Музыкальные",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1723.png" tvg-name="MTV Hits" group-title="Музыкальные",MTV HITS
-http://182.73.122.74:10005/bysid/412
+http://mu03.amzlive.net:8880/ANLM4323/93783128/28070
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" tvg-name="RU.TV" group-title="Музыкальные",RU.TV
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ
@@ -216,7 +218,7 @@ http://178.217.72.66:80/225.201.2.50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science HD
 http://cdn.iptv.monster/play/391/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2494.png" tvg-name="Discovery HD Showcase" group-title="Познавательные",Discovery Showcase HD
-http://54.38.180.196/play/272/2D6E866C992891C/video.m3u8
+http://cdn.iptv.monster/play/272/test/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2009.png" tvg-name="Investigation Discovery" group-title="Познавательные",Investigation Discovery
 http://77.89.204.107:8000/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/389.png" tvg-name="National Geographic HD" group-title="Познавательные",National Geographic HD
