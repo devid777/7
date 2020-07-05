@@ -33,12 +33,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?vers
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2765.png" tvg-name="Пятница HD" group-title="Россия центральные",Пятница! HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name= group-title="Россия центральные",СТС 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия центральные",СТС 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name= group-title="Россия центральные",СТС HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС HD" group-title="Россия центральные",СТС HD 
 http://185.112.140.9:8000/play/a04a
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name=СТС Love" group-title="Россия центральные",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="СТС International" group-title="Россия центральные",СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия центральные",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия центральные",ТНТ HD
@@ -112,7 +114,7 @@ http://185.109.55.59:9000/play/3912_EpicDrama_LAN_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama HD
 http://185.109.55.59:9000/play/3912_EpicDramaHD_HAR_mpeg4_HD_S
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Кино",Премиальное HD ---
-http://s06.iptvx.tv:8090/s/0c440ef0/kino-premium-hd.m3u8
+http://163.172.221.234:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Кино",Хит HD ---
 http://s06.iptvx.tv:8090/s/0c440ef0/hit-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
@@ -148,7 +150,7 @@ http://188.40.48.89:80/restrimfree/fWVyipZrS0/4762
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Кино",Шокирующее HD ---
 http://s06.iptvx.tv:8090/s/0c440ef0/kinopokaz-hd1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD ---
-http://188.40.48.89:80/restrimfree/fWVyipZrS0/4352
+http://tv545.com/stream/PzDAvbQ/channel/967.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://live02-cdn.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
