@@ -138,7 +138,7 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
 http://main.simpletv.eu:8080/RUS-strashnoehd/index.m3u8?token=63f31b9d83b098b16a77f75ee439f18b
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино", Остросюжетное HD
-http://188.35.9.11:2015
+http://1plus49.ottolok.net/iptv/MV49HFZZTAWFEA/904/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://vs-msk-02.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottglanz.tv:80/icon/1593.png" tvg-name="BCU Кинозал Premiere 1 HD" group-title="Кино", Premiere 1 HD
@@ -148,7 +148,7 @@ http://main.simpletv.eu:8080/ru-Premiere2HD/index.m3u8?token=d2f3c0ad01cf151505d
 #EXTINF:-1 tvg-logo="http://pl.ottglanz.tv:80/icon/4185.png" tvg-name="BCU Кинозал Premiere 3 HD" group-title="Кино", Premiere 3 HD
 http://main.simpletv.eu:8080/ru-Premiere3HD/index.m3u8?token=d2f3c0ad01cf151505dcc13c55d7a30f
 #EXTINF:-1 tvg-logo="http://pl.ottglanz.tv:80/icon/9245.png" tvg-name="BCU Кинозал Premiere 4 HD" group-title="Кино", Premiere 4 HD
-http://main.simpletv.eu:8080/ru-Premiere4HD/index.m3u8?token=d2f3c0ad01cf151505dcc13c55d7a30f
+http://main.simpletv.eu:8080/ru-Premiere4HD/index.m3u8
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
 http://astra.realcrimea.net:8000/play/a078
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
