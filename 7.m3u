@@ -138,7 +138,7 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
 http://main.simpletv.eu:8080/RUS-strashnoehd/index.m3u8?token=63f31b9d83b098b16a77f75ee439f18b
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино", Остросюжетное HD
-http://1plus49.ottolok.net/iptv/MV49HFZZTAWFEA/904/index.m3u8
+http://50.7.172.58:8081/578/index.m3u8?wmsAuthSign=1594334397p23i74i75i391S9b95ffeb7bcae142057c0e85ef1c9155
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://vs-msk-02.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://pl.ottglanz.tv:80/icon/1593.png" tvg-name="BCU Кинозал Premiere 1 HD" group-title="Кино", Premiere 1 HD
