@@ -90,7 +90,7 @@ http://iptv.prosto.tv:7000/ch11/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина центральные",НЛО TV
 http://iptv.prosto.tv:7000/ch14/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина центральные",ZIK HD
-http://193.34.172.141:8000/play/a022/index.m3u8 
+http://iptv.prosto.tv:7000/ch28/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина центральные",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Фауна" group-title="Украина центральные",Фауна
