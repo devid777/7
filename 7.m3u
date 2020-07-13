@@ -167,12 +167,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
 http://83.172.32.25:8012/tv/amedia1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Кино",Amedia 2
 http://83.172.32.25:8012/tv/amedia2
-#EXTINF:-1 tvg-logo=""http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Кино", Amedia Hit
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
-http://83.172.32.25:8012/tv/amediapremiumhd
+http://178.69.23.26:8000/play/36-ntv-amedia-premium-52cf229
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
-http://83.172.32.25:8012/tv/nickelodeonhd
+http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
 http://stream3.kuvalda.tv/hls/disney.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/923.png" tvg-name="Детский мир" group-title="Детские",Детский мир
@@ -180,7 +178,7 @@ http://83.172.32.25:8012/tv/detskiymir
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1766.png" tvg-name="Мульт" group-title="Детские",Мульт HD
 http://vs-msk-02.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
-http://vs-msk-02.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
+http://hlstv.kem.211.ru/239.211.211.3/stream.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music 
