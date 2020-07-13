@@ -29,6 +29,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия центральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия центральные",Домашний HD
+http://tviptv.iptv-channel.ru:8000/live/test/test/10.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия центральные",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2765.png" tvg-name="Пятница! HD" group-title="Россия центральные",Пятница! HD
@@ -106,13 +108,13 @@ http://iptv.prosto.tv:7000/ch45/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
 http://iptv.prosto.tv:7000/ch44/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
-http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
+http://main.simpletv.eu:8080/ru-VIP-Serial/index.m3u8?token=a5e39d00a9454e0202f526c92820932e
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama
 http://185.109.55.59:9000/play/3912_EpicDrama_LAN_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama HD
 http://185.109.55.59:9000/play/3912_EpicDramaHD_HAR_mpeg4_HD_S
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
-http://31.128.159.9:80/kinopokaz/mpegts 
+http://31.128.159.9:80/kinopokaz/mpegts
 #EXTINF:-1 tvg-logo="" vg-name="КиноМеню HD" group-title="Кино", КиноМеню HD
 http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия HD
