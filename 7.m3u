@@ -102,11 +102,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino",TV1000 World Kino
 http://185.109.55.59:9000/play/3684_TV1000WorldKino_LAN_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
-http://iptv.prosto.tv:7000/ch43/video.m3u8?secret=65xtpm8y
+http://astra.realcrimea.net:8000/play/a071
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
-http://iptv.prosto.tv:7000/ch45/video.m3u8?secret=65xtpm8y
+http://astra.realcrimea.net:8000/play/a072
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
-http://iptv.prosto.tv:7000/ch44/video.m3u8?secret=65xtpm8y
+http://astra.realcrimea.net:8000/play/a070
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
 http://main.simpletv.eu:8080/ru-VIP-Serial/index.m3u8?token=a5e39d00a9454e0202f526c92820932e
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama
@@ -117,8 +117,6 @@ http://185.109.55.59:9000/play/3912_EpicDramaHD_HAR_mpeg4_HD_S
 http://31.128.159.9:80/kinopokaz/mpegts
 #EXTINF:-1 tvg-logo="" vg-name="КиноМеню HD" group-title="Кино", КиноМеню HD
 http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Кино",Премиальное HD
-http://188.35.9.11:2017
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия HD
 http://83.172.32.25:8012/tv/mnogotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит HD
