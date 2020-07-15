@@ -29,8 +29,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия центральные",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия центральные",Домашний HD
-http://tviptv.iptv-channel.ru:8000/live/test/test/10.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия центральные",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2765.png" tvg-name="Пятница! HD" group-title="Россия центральные",Пятница! HD
@@ -115,8 +113,6 @@ http://185.109.55.59:9000/play/3912_EpicDrama_LAN_mpeg2
 http://185.109.55.59:9000/play/3912_EpicDramaHD_HAR_mpeg4_HD_S
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
 http://31.128.159.9:80/kinopokaz/mpegts
-#EXTINF:-1 tvg-logo="" vg-name="КиноМеню HD" group-title="Кино", КиноМеню HD
-http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия HD
 http://83.172.32.25:8012/tv/mnogotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит HD
@@ -186,7 +182,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music 
 http://vs-msk-02.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png"tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2278.png" tvg-name="Шансон ТВ" group-title="Музыкальные",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1723.png" tvg-name="MTV Hits" group-title="Музыкальные",MTV HITS
