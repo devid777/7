@@ -53,18 +53,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия центральные",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV" group-title="Украина центральные",ICTV HD
-http://iptv.prosto.tv:7000/ch2/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2095.png" tvg-name="NewsOne" group-title="Украина центральные",NewsOne HD
-http://iptv.prosto.tv:7000/ch23/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2212.png" tvg-name="Прямий HD" group-title="Украина центральные",Прямий HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV" group-title="Украина центральные",ICTV
+http://79.142.197.7:8888/ICTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2095.png" tvg-name="NewsOne" group-title="Украина центральные",NewsOne
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2212.png" tvg-name="Прямий HD" group-title="Украина центральные",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2093.png" tvg-name="112 Україна" group-title="Украина центральные",112 Украина HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2093.png" tvg-name="112 Україна" group-title="Украина центральные",112 Украина
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина центральные",К1
-http://iptv.prosto.tv:7000/ch9/video.m3u8?secret=65xtpm8y 
+http://109.68.40.72/life/k1_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина центральные",К2
-http://iptv.prosto.tv:7000/ch10/video.m3u8?secret=65xtpm8y
+http://79.142.197.7:8888/K2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина центральные",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Iнтер+" group-title="Украина центральные",Iнтер+
@@ -73,26 +73,26 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id501_NBN_SG--interplus/03/plst.m3u8
 http://185.109.55.59:9000/play/56_EnterFilm_COS_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина центральные",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина центральные",1+1 HD
-http://iptv.prosto.tv:7000/ch1/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина центральные",2+2 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина центральные",1+1
+http://79.142.197.7:8888/1plus1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина центральные",2+2
 http://185.109.55.59:9000/play/57_2plus2_COS_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина центральные",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина центральные",СТБ HD
-http://iptv.prosto.tv:7000/ch4/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина центральные",ТЕТ HD
-http://iptv.prosto.tv:7000/ch7/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина центральные",Новый Канал HD
-http://iptv.prosto.tv:7000/ch6/video.m3u8?secret=65xtpm8y
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина центральные",СТБ
+http://185.109.55.59:9000/play/145_STB_COS_mpeg2 
+#EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина центральные",ТЕТ
+http://185.109.55.59:9000/play/150_TET_TBS1_mpeg4_T2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина центральные",Новый Канал
+http://185.109.55.59:9000/play/127_Noviy_TBS1_mpeg4_T2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина центральные",Мега
-http://iptv.prosto.tv:7000/ch11/video.m3u8?secret=65xtpm8y
+http://188.35.9.5:10007/stolen/140r/parasite.install
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина центральные",НЛО TV
 http://iptv.prosto.tv:7000/ch14/video.m3u8?secret=65xtpm8y
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина центральные",ZIK HD
-http://iptv.prosto.tv:7000/ch28/video.m3u8?secret=65xtpm8y
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина центральные",ZIK 
+http://185.109.55.59:9000/play/93_ZIK_COS_mpeg2
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина центральные",НАШ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+http://193.33.39.107:8088/maxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Кино",TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
