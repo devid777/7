@@ -84,7 +84,7 @@ http://79.142.197.7:8888/1plus1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина центральные",2+2
 http://185.109.55.59:9000/play/57_2plus2_COS_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина центральные",Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина центральные",СТБ
 http://185.109.55.59:9000/play/145_STB_COS_mpeg2 
 #EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина центральные",ТЕТ
@@ -92,7 +92,7 @@ http://185.109.55.59:9000/play/150_TET_TBS1_mpeg4_T2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина центральные",Новый Канал
 http://185.109.55.59:9000/play/127_Noviy_TBS1_mpeg4_T2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина центральные",Мега
-http://188.35.9.5:10007/stolen/140r/parasite.install
+http://edge.19741977.network:8080/Q8E2rPzpet/z3dif3ppSF/55861
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина центральные",НЛО TV
 http://iptv.prosto.tv:7000/ch14/video.m3u8?secret=65xtpm8y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина центральные",ZIK 
@@ -137,6 +137,8 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 http://vs-msk-02.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="МУЖСКОЕ КИНО" group-title="Кино",Мужское кино HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="РОДНОЕ КИНО" group-title="Кино",Родное кино
+http://persik.by/stream/6606/411484/312.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
 http://main.simpletv.eu:8080/RUS-strashnoehd/index.m3u8?token=63f31b9d83b098b16a77f75ee439f18b
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
