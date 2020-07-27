@@ -75,8 +75,6 @@ http://79.142.197.7:8888/K2/index.m3u8
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Украина",Iнтер+
 http://vs-msk-02.tv.ti.ru:80/dtv/id501_NBN_SG--interplus/03/plst.m3u8
-#EXTINF:-1  tvg-logo="" tvg-name="" group-title="Украина",EnterFilm
-http://185.109.55.59:9000/play/56_EnterFilm_COS_mpeg2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1
@@ -110,11 +108,11 @@ http://astra.realcrimea.net:8000/play/a071
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
 http://astra.realcrimea.net:8000/play/a072
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
-http://mystrah.online/iptv/XZRBCCH/channel/588.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial" group-title="Кино",VIP Serial HD ---
-https://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
+http://178.217.72.66/225.201.2.170/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial" group-title="Кино",VIP Serial HD
+http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama
-http://185.109.55.59:9000/play/3912_EpicDrama_LAN_mpeg2
+http://st4lhx0m.megogo.xyz/iptv/7TZE29CSZSQU8L/1048/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama HD
 http://185.109.55.59:9000/play/3912_EpicDramaHD_HAR_mpeg4_HD_S
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ
@@ -148,11 +146,11 @@ http://vs-msk-02.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
 http://astra.realcrimea.net:8000/play/a078
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://185.109.55.59:9000/play/238_FOXHD_TBS1_mpeg4_HD_NTV
+http://178.217.72.66:80/225.201.2.13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://194.190.2.12:8800/udp/224.0.90.82:1234
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD ---
-http://185.109.55.59:9000/play/235_FoxLifeHD_ITTV_mpeg4_ip
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
+http://127.0.0.1:6878/hls/manifest.m3u8?id=e1b682595ae741b97327f2319742c0c29db711b2&.mp4
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://vs-msk-02.tv.ti.ru:80/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
