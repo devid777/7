@@ -140,9 +140,9 @@ http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://vs-msk-02.tv.ti.ru:80/dtv/id130_NBN_SG--nstv/03/plst.m3u8
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
-http://astra.realcrimea.net:8000/play/a078
+http://hlstv.kem.211.ru/239.211.211.91/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://178.217.72.66:80/225.201.2.13/tracks-v1a1/mono.m3u8
+http://31.131.136.5:9112/foxhd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://194.190.2.12:8800/udp/224.0.90.82:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
@@ -189,12 +189,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 http://vs-msk-02.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png"tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
 http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2278.png" tvg-name="Шансон ТВ" group-title="Музыкальные",Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1723.png" tvg-name="MTV Hits" group-title="Музыкальные",MTV HITS
 http://vs-msk-02.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" tvg-name="RU.TV" group-title="Музыкальные",RU.TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
