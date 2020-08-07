@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" deinterlace="1" cache="500"
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия ",Первый канал
 http://vs-msk-02.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
@@ -182,7 +182,7 @@ http://46.8.46.4:8080/detmir/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1766.png" tvg-name="Мульт" group-title="Детские",Мульт HD
 http://vs-msk-02.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
-http://hlstv.kem.211.ru/239.211.211.3/stream.m3u8
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music 
