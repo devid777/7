@@ -88,27 +88,27 @@ http://31.42.161.33:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
 http://91.234.24.5:8080/tet_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
-http://iptv.prosto.tv:7000/ch6/video.m3u8?secret=40gnildi
+http://31.42.161.33:8000/play/novy_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега
 http://91.234.24.5:8080/mega/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО-ТВ" group-title="Украина",НЛО TV
 http://91.234.24.5:8080/nlo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
-http://iptv.prosto.tv:7000/ch28/video.m3u8?secret=40gnildi
+http://zigfreed.ru/Z5O/1387.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина",НАШ
-http://iptv.prosto.tv:7000/ch27/video.m3u8?secret=40gnildi
+http://193.33.39.108:2090/maxxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Кино",TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino",TV1000 World Kino
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Кино",TV1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8?secret=40gnildi
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
-http://iptv.prosto.tv:7000/ch43/video.m3u8?secret=40gnildi
+http://cloudcdn.tk:80/6MKPhO6fns/BRSyjpPF0N/15227
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
-http://iptv.prosto.tv:7000/ch45/video.m3u8?secret=40gnildi
+http://37.193.132.221:81/udp/239.1.21.38:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
-http://iptv.prosto.tv:7000/ch44/video.m3u8?secret=40gnildi
+http://cloudcdn.tk:80/6MKPhO6fns/BRSyjpPF0N/15229
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ
 http://31.128.159.9:80/kinopokaz/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
@@ -136,19 +136,21 @@ https://hls.goodgame.ru/hls/178436.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="" group-title="Кино",Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
-http://mnogotv.club:7720/ch106/index.m3u8?|User-agent=smartlabs
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
+http://45.142.214.249:3000/euston/lGUiZO/5
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Мистика 
+http://mnogotv.club/hls/mistika/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
 http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
-#EXTINF:0 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
+#EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
 http://194.190.2.12:8800/udp/224.0.90.81:1234
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://92.38.57.4:81/udp/230.1.1.235:1234
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
+http://37.193.5.222:81/udp/239.1.17.5:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://194.190.2.12:8800/udp/224.0.90.82:1234
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/index_6.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
+http://37.193.132.221:81/udp/239.1.9.3:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://91.234.24.5:80/sony_sci_fi/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
@@ -156,9 +158,9 @@ http://31.128.159.9:80/sonyturbo/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
 http://46.8.46.4:8080/sonytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Кино", Hollywood
-http://iptv.prosto.tv:7000/ch157/video.m3u8?secret=40gnildi
+http://46.8.46.4:8080/amc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
-http://iptv.prosto.tv:7000/ch50/video.m3u8?secret=40gnildi
+http://80.94.225.126:8080/HollywoodHD/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Кино",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy
