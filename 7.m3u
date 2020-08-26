@@ -96,7 +96,7 @@ http://91.234.24.5:8080/nlo_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
 http://193.34.172.141:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина",НАШ
-http://193.33.39.108:2090/maxxi/index.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Кино",TV1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
@@ -131,8 +131,6 @@ http://178.57.97.6:80/kinouzhas/index.m3u8
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="РОДНОЕ КИНО" group-title="Кино",Родное кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:0 tvg-logo="" tvg-name="" group-title="Кино",Фантастика HD
-https://hls.goodgame.ru/hls/178436.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="" group-title="Кино",Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
