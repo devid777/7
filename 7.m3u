@@ -134,7 +134,7 @@ https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:0 tvg-logo="" tvg-name="" group-title="Кино",Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
-http://45.142.214.249:3000/euston/lGUiZO/5
+http://mnogotv.club:7720/ch106/index.m3u8?
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Мистика 
 http://mnogotv.club/hls/mistika/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
@@ -146,7 +146,7 @@ http://91.234.24.5:8080/fox/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
 http://45.159.16.20:8000/play/a0aq
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
-http://46.8.132.159:999/udp/239.191.254.108:13343
+http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
 http://193.233.173.103:999/udp/239.191.254.231:15283
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
