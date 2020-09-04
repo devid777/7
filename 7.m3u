@@ -124,7 +124,7 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
-http://mnogotv.club:7720/ch106/index.m3u8?
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
 http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
@@ -132,11 +132,11 @@ http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
 http://212.87.175.249:10002/play/19115
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://live-ng-01.more.tv/hls/FOX_HD/index_6.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/index_6.m3u8 
+http://live-ng-01.more.tv/hls/Fox_Life_HD/index_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://astra.realcrimea.net:8000/play/a09f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
@@ -160,7 +160,7 @@ http://188.93.95.67:80/amedia/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Кино",Amedia 2
 https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Кино", Amedia Hit HD
-http://37.193.202.185:81/udp/239.1.21.14:1234
+http://31.128.159.6:5000/channel_239.1.10.21/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
 http://91.103.248.78:8000/play/50/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
