@@ -95,12 +95,14 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Кино",TV1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8?secret=tifelrzz
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
-http://37.193.44.7:81/udp/239.1.21.39:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",VIP Serial HD
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNl9WSUFTQVRHT0xGSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино"catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,VIP Megahit HD
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19UVjEwMDBNRUdBSElUSEQvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
-http://37.193.44.7:81/udp/239.1.21.38:1234
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9UVjEwMDBQUkVNSVVNSEQvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
-http://37.193.44.7:81/udp/239.1.21.40:1234
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19UVjEwMDBDT01FRFlIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ
 http://31.128.159.9:80/kinopokaz/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
@@ -127,20 +129,20 @@ https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD ---
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_C01_STRASHNOEHD/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TVFJBU0hOT0VIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD ---
 http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
 http://212.87.175.249:10002/play/19115
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD ---
-http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9GT1hIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://37.193.44.7:81/udp/239.1.9.3:1234
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9GT1hMSUZFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://astra.realcrimea.net:8000/play/a09f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
