@@ -62,7 +62,7 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина",К2
-http://91.234.24.5:80/k2/mpegts
+http://79.142.197.7:8888/K2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1  tvg-logo="" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
@@ -94,7 +94,7 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Кино",TV1000 World Kino
-http://iptv.prosto.tv:7000/ch48/video.m3u8?secret=tifelrzz
+http://194.1.195.31:9377/1dcdb055af715b68ad94840c9e3fe99f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNl9WSUFTQVRHT0xGSEQvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
@@ -131,7 +131,7 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TVFJBU0hOT0VIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD ---
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
 http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
