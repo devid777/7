@@ -144,7 +144,7 @@ http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9GT1hMSUZFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
-http://astra.realcrimea.net:8000/play/a09f
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NPTllTQ0lGSS92YXJpYW50Lm0zdTg=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://31.128.159.9:80/sonyturbo/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
@@ -170,7 +170,7 @@ http://31.128.159.6:5000/channel_239.1.10.21/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
 http://91.103.248.78:8000/play/50/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
-http://astra.realcrimea.net:8000/play/a0a6
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9OSUNLRUxPREVPTkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
