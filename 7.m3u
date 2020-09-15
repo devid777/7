@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.it999.ru/epg.xml.gz" cache=1000
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" deinterlace=1 m3uautoload=1 cache=1000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
@@ -74,16 +74,16 @@ http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 HD
 http://51.195.44.53:8081/tv/1+1/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
-http://tinyurl.com/ybpnzobg/233.191.133.117:1234
+http://163.172.71.147:8080/2plus2/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина",СТБ HD
-http://31.42.161.3:9988/udp/233.191.133.249:1234
+http://194.1.195.31:9377/c3ca8fe201789c6ab540513c13f2edc9
 #EXTINF:-1 tvg-logo="" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
 http://51.195.44.53:8081/tv/tet/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
 http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега ---
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега
 http://62.16.31.18:5555/udp/239.1.5.10:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО-ТВ" group-title="Украина",НЛО TV ---
 http://iptv.prosto.tv:7000/ch14/video.m3u8?secret=65xtpm8y
@@ -125,12 +125,16 @@ http://user69050.clients-cdnnow.ru/stream/Kinouzhas/index.m3u8
 http://176.122.202.5:9018/play/k30
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="РОДНОЕ КИНО" group-title="Кино",Родное кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Ужасы HD
+https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Кино новинки HD
+https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Фантастика Sci-Fi
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD ---
-http://myott.top/stream/V6HWCJ4ZSA/226.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_C01_STRASHNOEHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
 http://188.35.9.11:2015
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
