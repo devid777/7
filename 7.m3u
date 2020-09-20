@@ -64,15 +64,15 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина",К2 ---
-http://31.202.57.42:4022/udp/239.2.1.3:1234
+http://5.105.98.245:1234/udp/239.0.0.32:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2102.png" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
-http://livegopanel.club:8080/vasil/123456/21622
+http://livegopanel.club:8080/nicholas/nicholas2020/21622
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 HD
- http://91.234.24.5:8080/1plus1/tracks-v1a1/mono.m3u8
+http://91.234.24.5:8080/1plus1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
 http://163.172.71.147:8080/2plus2/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
@@ -107,8 +107,6 @@ http://c145c5d4.edemist.com/iptv/TQQ69C5DVZQ4WU/200/index.m3u8
 http://31.128.159.9:80/kinopokaz/mpegts
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",ПРЕМЬЕРА
 https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Память ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1tvg-logo="" tvg-name="" group-title="Кино",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
@@ -136,7 +134,9 @@ https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Фантастика Sci-Fi
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD
-http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TVFJBU0hOT0VIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+http://play.101film.org:25461/live/101f/101ftest/95.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Кино",Шокирующее HD
+http://play.101film.org:25461/live/101f/101ftest/96.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",Ужасы HD
 https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
@@ -150,9 +150,9 @@ http://31.131.136.5:9112/foxhd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9GT1hMSUZFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+http://ingrid.ltd:25461/frank1/frank/39989
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
-http://79.133.100.253:999/udp/239.191.254.55:13343
+http://93.125.121.60:8181/play/NTV36Bk711
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://31.128.159.9:80/sonyturbo/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
