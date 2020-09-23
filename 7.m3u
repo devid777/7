@@ -103,10 +103,6 @@ http://c145c5d4.edemist.com/iptv/TQQ69C5DVZQ4WU/202/index.m3u8
 http://c145c5d4.edemist.com/iptv/TQQ69C5DVZQ4WU/200/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ
 http://31.128.159.9:80/kinopokaz/mpegts
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",ПРЕМЬЕРА
-https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:-1tvg-logo="" tvg-name="" group-title="Кино",Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
 http://46.8.46.4/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит HD
@@ -181,8 +177,6 @@ http://46.8.46.4:8080/nickelodeon/playlist.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские", МультСказки
-https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
