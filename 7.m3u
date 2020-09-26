@@ -66,7 +66,7 @@ http://portal.ott.pink/watch/124/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2102.png" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
-http://livegopanel.club:8080/nicholas/nicholas2020/21622
+https://hls14.sweet.tv/stream/kstxze77rs35vdj6kwehtnvypei7nt3wheamzq27es7fbpnbr7z25s9kace5a2iw8b5jeed9j9z4xvthbu87sa4hbpkznncb3ukui4nszdwhuzxayb5dqba=.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 HD
