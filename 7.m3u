@@ -58,7 +58,7 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина",К2
-http://portal.ott.pink/watch/124/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
+https://hls14.sweet.tv/stream/kmipchsgy944wfdy5pidwwsi8tbc2ewn4rb254qenjhrmfc4654b8cykk8kfhxawzv7ywafiyb3g4fefg6qj2r49txnwmuguh7cgvhktg6cbc8mxfrmahhs=.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2102.png" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
@@ -66,21 +66,21 @@ https://hls15.sweet.tv/stream/35w3nfs4rbr7e466seke2sq8kvm4rpsb3me49qef3fj2swdh4i
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 HD
-http://portal.ott.pink/watch/45/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
+https://hls15.sweet.tv/stream/z6i5hffyfu2z36gwfeyjyfwub6dvejb24evsg322w5wyf5qq27rcymn67hrasdy64hi4ut9r2q798d2uyfc7tprrnn7f9ags5nsb9utne6wvrvj495rs====.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
 http://pro100tv.usite.pro/CH_22_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина",СТБ
-http://portal.ott.pink/watch/30/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
+http://51.15.176.84/hls/stb-1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
 http://163.172.71.147:8080/tet/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
 http://163.172.71.147:8080/novyy/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега
-http://portal.ott.pink/watch/12/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО-ТВ" group-title="Украина",НЛО TV
-http://portal.ott.pink/watch/48/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
+http://37.203.12.150:5555/udp/239.1.5.10:1234?6483500608
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина",НЛО TV
+https://hls14.sweet.tv/stream/zixbyjbbnuvamypw7jv2hzympzmymrhgvdkb7tguge7b4gb8smn64vt5c96qs8v4vcmgirr89ae3u6m3as2y8539sixrmcz4tmyteffaq7tb8hm2dnwn2ztp.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
 http://193.34.172.141:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина",НАШ
@@ -123,14 +123,12 @@ http://user69050.clients-cdnnow.ru/stream/nashe_kino/index.m3u8
 http://188.35.9.11:2015 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Кино",Премиальное HD
 http://188.35.9.11:2017
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Кино",Epic Drama HD 
-http://portal.ott.pink/watch/8/video.m3u8?token=4079DD709B32E87E267DB5AB72D1D36D
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",КиноНовинки HD
 https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo= tvg-name="Fox HD" group-title="Кино",FOX
-http://212.87.175.249:10002/play/19115
+http://79.133.120.60:999/udp/239.191.254.107:13343
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
