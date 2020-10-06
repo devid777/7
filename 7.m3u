@@ -187,7 +187,7 @@ http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 http://play.101film.org:25461/936960/624006/84
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские",2x2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" group-title="Детские",2x2
 http://31.128.159.9:80/2x2/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
 https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
