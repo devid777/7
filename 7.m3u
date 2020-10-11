@@ -146,13 +146,13 @@ https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://89.189.191.250/239.211.200.17/stream.m3u8
+http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Fox HD" group-title="Кино",FOX
-http://185.134.38.106:4022/udp/234.0.0.184:2000
+http://217.199.224.5:1212/udp/239.192.1.41:2121
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://89.189.191.250/239.211.200.18/stream.m3u8
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
-http://89.189.191.250/239.211.211.92/stream.m3u8
+http://185.181.43.126:8008/play/fox_life/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?offset=1&token=www.denms.ru
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
