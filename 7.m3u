@@ -148,7 +148,7 @@ http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
 http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Fox HD" group-title="Кино",FOX
-http://88.218.240.74:8586/crypted/hls/CH_FOX/bw2000000/variant.m3u8
+http://89.189.191.250/239.211.211.91/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
