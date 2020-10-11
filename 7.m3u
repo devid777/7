@@ -124,7 +124,7 @@ https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="КИНОМИКС" group-title="Кино",Киномикс
 http://46.8.46.4:8080/kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Кино",Киноужас-
-http://45.67.229.107:7523/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9LSU5PVVpIQVNIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_KINOUZHASHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="МУЖСКОЕ КИНО" group-title="Кино",Мужское кино
 http://93.158.222.99/interesnoetv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="РОДНОЕ КИНО" group-title="Кино",Родное кино
