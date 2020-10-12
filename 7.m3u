@@ -134,7 +134,9 @@ http://88.218.240.74:8586/crypted/hls/CH_C01_STRASHNOEHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Кино",Шокирующее HD
 http://play.101film.org:25461/813593/412167/96
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Кино",Хит HD
-http://178.159.85.72:81/udp/239.195.6.32:1234
+http://88.218.240.74:8586/crypted/hls/CH_HITHD/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Кино",Камеди HD 
+http://88.218.240.74:8586/crypted/hls/CH_COMEDYHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Кино",Блокбастер HD
 http://178.159.85.72:81/udp/239.195.6.31:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Кино",Премиальное HD
@@ -154,7 +156,7 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
-http://live03-cdn.tv.ti.ru/dtv/id158_NBN_SG--SonySciFi/03/plst.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://31.128.159.9:80/sonyturbo/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
@@ -178,21 +180,7 @@ https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Кино",Amedia Hit HD
 http://185.36.100.33/amediahit/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
-http://178.217.159.164:9981/stream/channelid/1789579850?profile=tv
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD 
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-de-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD (Kinolux)
-https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD (Классика)
-http://v2.catcast.me/content/37033/index.m3u8?bw1560368266.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD (EVGEN VHS)
-http://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD (Кино-Сериал)
-http://autopilot.catcast.tv/content/37388/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Кинотеатр HD (Drama Tic)
-https://v2.catcast.tv/content/36732/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кинотеатр",Film TV HD
-http://hls.goodgame.ru/hls/178880.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Детские",Кинотеатр HD (МультСказки)
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
