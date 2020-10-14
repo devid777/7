@@ -47,7 +47,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Эфирные" tvg-id="rentv",Рен ТВ HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
 http://88.218.240.74:8586/crypted/hls/CH_RENTVHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
@@ -71,8 +71,8 @@ http://193.34.172.141:8000/play/a052/index.m3u8
 http://tinyurl.com/y3p4r733/122/video.m3u8?token=9F210F989BE7CC9BA66884791FA4CF06
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 HD-
-http://185.246.210.53:2200/EX/1plus1-ru/index.m3u8?token=
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1
+http://78.129.228.178/iptv/M79S4QCZ6D8NY6/987/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
 http://pro100tv.usite.pro/CH_22_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
@@ -99,8 +99,6 @@ http://e01.plius.tv:64144/n157/tracks-v1a3/mono.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Кино",TV1000 World Kino-
-http://play.101film.org:25461/936960/624006/41
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
@@ -148,11 +146,11 @@ https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
 http://31.128.159.9:80/nst/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
-http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Fox HD" group-title="Кино",FOX
 http://89.189.191.250/239.211.211.91/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_C04_FOXLIFEHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
@@ -160,7 +158,7 @@ http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://31.128.159.9:80/sonyturbo/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
-http://46.8.46.4:8080/sonytv/playlist.m3u8
+http://88.218.240.74:8586/crypted/hls/CH_SET/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Кино",Hollywood
 http://46.8.46.4/amc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
