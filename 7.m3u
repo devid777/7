@@ -99,8 +99,8 @@ http://88.218.240.74:8586/crypted/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
 http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ
-http://31.128.159.9:80/kinopokaz/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
+http://88.218.240.74:8586/crypted/hls/CH_KINOPOKAZHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
 http://46.8.46.4/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит
@@ -132,7 +132,7 @@ http://88.218.240.74:8586/crypted/hls/CH_BLOCKBUSTERHD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",КиноНовинки HD
 https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
-http://31.128.159.9:80/nst/mpegts
+http://88.218.240.74:8586/crypted/hls/CH_NSTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
 http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Fox HD" group-title="Кино",FOX
@@ -144,7 +144,7 @@ http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
-http://31.128.159.9:80/sonyturbo/mpegts
+http://88.218.240.74:8586/crypted/hls/CH_SONYTURBO/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
 http://88.218.240.74:8586/crypted/hls/CH_SET/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Кино",Hollywood
@@ -153,8 +153,8 @@ http://46.8.46.4/amc/index.m3u8
 http://80.94.225.126:8080/HollywoodHD/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Кино",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy
-http://31.128.159.9:80/paramountcomedy/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy HD
+http://88.218.240.74:8586/crypted/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" tvg-name="Paramount Channel" group-title="Кино",Paramount Channel
 http://182.73.122.74:10004/bysid/1105
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" tvg-name="Иллюзион +" group-title="Кино",Иллюзион +
@@ -172,11 +172,11 @@ http://88.218.240.74:8586/crypted/hls/CH_C01_NICKELODEONHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1766.png" tvg-name="Мульт" group-title="Детские",Мульт HD
-http://31.128.159.9:80/multhd/mpegts
+http://88.218.240.74:8586/crypted/hls/CH_TLUMHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" group-title="Детские",2x2
-http://31.128.159.9:80/2x2/mpegts
+http://88.218.240.74:8586/crypted/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
 https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png"tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
