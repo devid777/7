@@ -100,7 +100,7 @@ http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
 http://88.218.240.74:8586/crypted/hls/CH_KINOPOKAZHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
-http://46.8.46.4/kinoseria/tracks-v1a1/mono.m3u8
+http://e01.plius.tv:64144/n162/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит
 https://imedi-tv.cdn.xsg.ge/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" tvg-name="КИНОСЕМЬЯ" group-title="Кино",Киносемья
