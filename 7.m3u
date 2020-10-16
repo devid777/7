@@ -1,187 +1,187 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=2000 deinterlace=1
+#EXTINF:-1 tvg-name="Первый HD" group-title="Россия",Первый канал HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
+#EXTINF:-1 tvg-name="Первый канал" group-title="Россия",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Россия",Россия 1 HD
+#EXTINF:-1 tvg-name="Россия HD" group-title="Россия",Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" group-title="Россия",Россия 1
+#EXTINF:-1 tvg-name="Россия 1" group-title="Россия",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия-24" group-title="Россия",Россия 24 
+#EXTINF:-1 tvg-name="Россия-24" group-title="Россия",Россия 24 
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2361.png" tvg-name="Мир HD" group-title="Россия",Мир HD
+#EXTINF:-1 tvg-name="Мир HD" group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" tvg-name="НТВ HD" group-title="Россия",НТВ HD
+#EXTINF:-1 tvg-name="НТВ HD" group-title="Россия",НТВ HD
 http://88.218.240.74:8586/crypted/hls/CH_NTV_HD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
+#EXTINF:-1 tvg-name="НТВ" group-title="Россия",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
+#EXTINF:-1 tvg-name="ТВ3" group-title="Россия",ТВ-3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-shift=-4 tvg-name="ТВ3" group-title="Россия",ТВ-3 (+4)
+#EXTINF:-1 tvg-shift=-4 tvg-name="ТВ3" group-title="Россия",ТВ-3 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Супер
+#EXTINF:-1 tvg-name="Супер" group-title="Россия",Супер
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
+#EXTINF:-1 tvg-name="Че" group-title="Россия",Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
+#EXTINF:-1 tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний
+#EXTINF:-1 tvg-name="Домашний" group-title="Россия",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия",Пятница!
+#EXTINF:-1 tvg-name="Пятница!" group-title="Россия",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС 
+#EXTINF:-1 tvg-name="СТС" group-title="Россия",СТС 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" group-title="Россия",СТС Love
+#EXTINF:-1 tvg-name="СТС Love" group-title="Россия",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:1 tvg-logo="http://epg.it999.ru/img/2481.png" tvg-name="СТС Kids HD" group-title="Россия",СТС Kids HD
+#EXTINF:-1 tvg-name="СТС Kids HD" group-title="Россия",СТС Kids HD
 http://88.218.240.74:8586/crypted/hls/CH_STSKIDSHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
 http://88.218.240.74:8586/crypted/hls/CH_TNTHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия",ТНТ
+#EXTINF:-1 tvg-name="ТНТ" group-title="Россия",ТНТ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-shift=-4 tvg-name="" group-title="Россия",ТНТ (+4)
+#EXTINF:-1 tvg-shift=-4 tvg-name="" group-title="Россия",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Россия",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-4 tvg-name="ТНТ4" group-title="Россия",ТНТ4 (+4)
+#EXTINF:-1 tvg-shift=-4 tvg-name="ТНТ4" group-title="Россия",ТНТ4 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Россия",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
+#EXTINF:-1 tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
 http://88.218.240.74:8586/crypted/hls/CH_RENTVHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
+#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV" group-title="Украина",ICTV
+#EXTINF:-1 tvg-name="ICTV" group-title="Украина",ICTV
 http://51.195.44.53:8081/tv/ictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2095.png" tvg-name="NewsOne" group-title="Украина",NewsOne HD
+#EXTINF:-1 tvg-name="NewsOne" group-title="Украина",NewsOne HD
 https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2212.png" tvg-name="Прямий HD" group-title="Украина",Прямий HD
+#EXTINF:-1 tvg-name="Прямий HD" group-title="Украина",Прямий HD
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2093.png" tvg-name="112 Україна" group-title="Украина",112 Украина HD
+#EXTINF:-1 tvg-name="112 Україна" group-title="Украина",112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
+#EXTINF:-1 tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
+#EXTINF:-1 tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png" tvg-name="Интер+" group-title="Украина",Інтер + 
+#EXTINF:-1 tvg-name="Интер+" group-title="Украина",Інтер + 
 http://193.34.172.141:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН
+#EXTINF:-1 tvg-name="НТН" group-title="Украина",НТН
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1 International
+#EXTINF:-1 tvg-name="1+1" group-title="Украина",1+1 International
 http://193.34.172.141:8000/play/a053/index.m3u8?bw6483500608.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
+#EXTINF:-1 tvg-name="2+2" group-title="Украина",2+2
 http://pro100tv.usite.pro/CH_22_HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
+#EXTINF:-1 tvg-name="Сонце" group-title="Украина",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ" group-title="Украина",СТБ
+#EXTINF:-1 tvg-name="СТБ" group-title="Украина",СТБ
 http://51.15.176.84/hls/stb-1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
+#EXTINF:-1 tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
 http://163.172.71.147:8080/tet/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
+#EXTINF:-1 tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
 http://163.172.71.147:8080/novyy/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
+#EXTINF:-1 tvg-name="ZIK" group-title="Украина",ZIK HD
 http://193.34.172.141:8000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" tvg-name="24 Канал" group-title="Украина",24 Новини 
+#EXTINF:-1 tvg-name="24 Канал" group-title="Украина",24 Новини 
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="НАШ" group-title="Украина",НАШ
+#EXTINF:-1 tvg-name="НАШ" group-title="Украина",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Кино",TV1000 HD
+#EXTINF:-1 tvg-name="TV1000" group-title="Фильмы и сериалы",TV1000 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Кино",TV1000 Action HD
+#EXTINF:-1 tvg-name="TV1000 Action" group-title="Кино",TV1000 Action HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
-http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
-http://88.218.240.74:8586/crypted/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
+#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
+#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
+http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
+http://88.218.240.74:8586/crypted/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
+#EXTINF:-1 vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
+#EXTINF:-1 tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
 http://88.218.240.74:8586/crypted/hls/CH_KINOPOKAZHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино",Киносерия
+#EXTINF:-1 tvg-name="Киносерия" group-title="Кино",Киносерия
 http://e01.plius.tv:64144/n162/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино",Кинохит
 https://imedi-tv.cdn.xsg.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" tvg-name="КИНОСЕМЬЯ" group-title="Кино",Киносемья
+#EXTINF:-1 tvg-name="Киносемья" group-title="Кино",Киносемья
 http://89.189.191.250/239.211.211.140/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2519.png" tvg-name="КИНОКОМЕДИЯ" group-title="Кино",Кинокомедия 
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино",Кинокомедия 
 https://imedi-tv.cdn.xsg.ge/kinokomediya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" tvg-name="КИНОСВИДАНИЕ" group-title="Кино",Киносвидание
+#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино",Киносвидание
 http://93.158.222.99/kinosvidanie/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="КИНОПРЕМЬЕРА HD" group-title="Кино",Кинопремьера
+#EXTINF:-1 tvg-name="Кинопремьера" group-title="Кино",Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="КИНОМИКС" group-title="Кино",Киномикс
+#EXTINF:-1 tvg-name="Киномикс" group-title="Кино",Киномикс
 http://176.115.152.6:4002/play/a00b/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Кино",Киноужас
+#EXTINF:-1 tvg-name="Киноужас" group-title="Кино",Киноужас
 http://88.218.240.74:8586/crypted/hls/CH_KINOUZHASHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="МУЖСКОЕ КИНО" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-name="Мужское кино" group-title="Кино",Мужское кино
 http://93.158.222.99/interesnoetv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="РОДНОЕ КИНО" group-title="Кино",Родное кино
+#EXTINF:-1 tvg-name="Родное кино" group-title="Кино",Родное кино
 http://87.251.176.10:8080/41/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Кино",Страшное HD 
+#EXTINF:-1 tvg-name="Страшное HD" group-title="Кино",Страшное HD 
 http://88.218.240.74:8586/crypted/hls/CH_C01_STRASHNOEHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Кино",Хит HD
+#EXTINF:-1 tvg-name="Хит HD" group-title="Кино",Хит HD
 http://88.218.240.74:8586/crypted/hls/CH_HITHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Кино",Камеди HD 
+#EXTINF:-1 tvg-name="Камеди HD" group-title="Кино",Камеди HD 
 http://88.218.240.74:8586/crypted/hls/CH_COMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Кино",Блокбастер HD
+#EXTINF:-1 tvg-name="Блокбастер HD" group-title="Кино",Блокбастер HD
 http://88.218.240.74:8586/crypted/hls/CH_BLOCKBUSTERHD/variant.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Кино",КиноНовинки HD
+#EXTINF:-1 tvg-name="КиноНовинки" group-title="Кино",КиноНовинки HD
 https://v2.catcast.tv/content/38791/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Кино",НСТ
+#EXTINF:-1 tvg-name="НСТ" group-title="Кино",НСТ
 http://88.218.240.74:8586/crypted/hls/CH_NSTV/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Кино",FOX HD
+#EXTINF:-1 tvg-name="Fox HD" group-title="Кино",FOX HD
 http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="Fox HD" group-title="Кино",FOX
+#EXTINF:-1 tvg-name="Fox HD" group-title="Кино",FOX
 http://89.189.191.250/239.211.211.91/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Кино",Fox Life HD
+#EXTINF:-1 tvg-name="Fox Life" group-title="Кино",Fox Life HD
 http://88.218.240.74:8586/crypted/hls/CH_C04_FOXLIFEHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Кино",Fox Life
+#EXTINF:-1 tvg-name="Fox Life" group-title="Кино",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
+#EXTINF:-1 tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
 http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
+#EXTINF:-1 tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
 http://88.218.240.74:8586/crypted/hls/CH_SONYTURBO/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
+#EXTINF:-1 tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
 http://88.218.240.74:8586/crypted/hls/CH_SET/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Кино",Hollywood
+#EXTINF:-1 tvg-name="Hollywood" group-title="Кино",Hollywood
 http://46.8.46.4/amc/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
 http://80.94.225.126:8080/HollywoodHD/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Кино",Ultra HD Cinema
+#EXTINF:-1 tvg-name="Ultra HD Cinema 4K" group-title="Кино",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy HD
+#EXTINF:-1 tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" tvg-name="Paramount Channel" group-title="Кино",Paramount Channel
+#EXTINF:-1 tvg-name="Paramount Channel" group-title="Кино",Paramount Channel
 http://182.73.122.74:10004/bysid/1105
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" tvg-name="Иллюзион +" group-title="Кино",Иллюзион +
+#EXTINF:-1 tvg-name="Иллюзион +" group-title="Кино",Иллюзион +
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Кино",Amedia 1
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино",Amedia 1
 http://185.36.100.33/amedia/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Кино",Amedia 2
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино",Amedia 2
 https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Кино",Amedia Hit HD
+#EXTINF:-1 tvg-name="AMEDIA HIT" group-title="Кино",Amedia Hit HD
 http://185.36.100.33/amediahit/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
 http://88.218.240.74:8586/crypted/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
+#EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
 http://88.218.240.74:8586/crypted/hls/CH_C01_NICKELODEONHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
+#EXTINF:-1 tvg-name="Disney" group-title="Детские",Disney
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1766.png" tvg-name="Мульт" group-title="Детские",Мульт HD
+#EXTINF:-1 tvg-name="Мульт" group-title="Детские",Мульт HD
 http://88.218.240.74:8586/crypted/hls/CH_TLUMHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
+#EXTINF:-1 tvg-name="Мультиландия" group-title="Детские",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" group-title="Детские",2x2
+#EXTINF:-1 tvg-name="2X2" group-title="Детские",2x2
 http://88.218.240.74:8586/crypted/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
+#EXTINF:-1 tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
 https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png"tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
+#EXTINF:-1 tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ
+#EXTINF:-1 tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/990.png" tvg-name="Animal Planet HD" group-title="Познавательные",Animal Planet HD
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познавательные",Animal Planet HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_ANIMALPLANETHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
+#EXTINF:-1 tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
