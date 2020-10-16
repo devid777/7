@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" m3uautoload=1 cache=2000 deinterlace=1
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 #EXTINF:-1 tvg-name="Первый HD" group-title="Россия",Первый канал HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:-1 tvg-name="Первый канал" group-title="Россия",Первый канал
@@ -85,85 +85,87 @@ http://193.34.172.141:8000/play/a04b/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
-#EXTINF:-1 tvg-name="TV1000" group-title="Фильмы и сериалы",TV1000 HD
+#EXTINF:-1 tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000HD.m3u8
-#EXTINF:-1 tvg-name="TV1000 Action" group-title="Кино",TV1000 Action HD
+#EXTINF:-1 tvg-name="TV 1000 Action" group-title="Фильмы и сериалы",TV1000 Action HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
-#EXTINF:-1 tvg-name="VIP Comedy" group-title="Кино",ViP Comedy HD
+#EXTINF:-1 tvg-name="VIP Comedy" group-title="Фильмы и сериалы",ViP Comedy HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-name="VIP Megahit" group-title="Кино",VIP Megahit HD
+#EXTINF:-1 tvg-name="VIP Megahit" group-title="Фильмы и сериалы",VIP Megahit HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
-#EXTINF:-1 tvg-name="VIP Premiere" group-title="Кино",ViP Premiere HD
+#EXTINF:-1 tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://88.218.240.74:8586/crypted/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
-#EXTINF:-1 vg-name="VIP Serial HD" group-title="Кино",VIP Serial HD
+#EXTINF:-1 vg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ HD" group-title="Кино",Кинопоказ HD
+#EXTINF:-1 tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ HD
 http://88.218.240.74:8586/crypted/hls/CH_KINOPOKAZHD/variant.m3u8
-#EXTINF:-1 tvg-name="Киносерия" group-title="Кино",Киносерия
+#EXTINF:-1 tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия
 http://e01.plius.tv:64144/n162/video.m3u8
-#EXTINF:-1 tvg-name="Кинохит" group-title="Кино",Кинохит
+#EXTINF:-1 tvg-name="Кинохит" group-title="Фильмы и сериалы",Кинохит
 https://imedi-tv.cdn.xsg.ge/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Киносемья" group-title="Кино",Киносемья
+#EXTINF:-1 tvg-name="Киносемья" group-title="Фильмы и сериалы",Киносемья
 http://89.189.191.250/239.211.211.140/stream.m3u8
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="Кино",Кинокомедия 
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="Фильмы и сериалы",Кинокомедия 
 https://imedi-tv.cdn.xsg.ge/kinokomediya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино",Киносвидание
+#EXTINF:-1 tvg-name="Киносвидание" group-title="Фильмы и сериалы",Киносвидание
 http://93.158.222.99/kinosvidanie/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Кинопремьера" group-title="Кино",Кинопремьера
+#EXTINF:-1 tvg-name="Кинопремьера HD" group-title="Фильмы и сериалы",Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 tvg-name="Киномикс" group-title="Кино",Киномикс
+#EXTINF:-1 tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс
 http://176.115.152.6:4002/play/a00b/index.m3u8
-#EXTINF:-1 tvg-name="Киноужас" group-title="Кино",Киноужас
+#EXTINF:-1 tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас
 http://88.218.240.74:8586/crypted/hls/CH_KINOUZHASHD/variant.m3u8
-#EXTINF:-1 tvg-name="Мужское кино" group-title="Кино",Мужское кино
+#EXTINF:-1 tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино
 http://93.158.222.99/interesnoetv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Родное кино" group-title="Кино",Родное кино
+#EXTINF:-1 tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино
 http://87.251.176.10:8080/41/playlist.m3u8
-#EXTINF:-1 tvg-name="Страшное HD" group-title="Кино",Страшное HD 
+#EXTINF:-1 tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD 
 http://88.218.240.74:8586/crypted/hls/CH_C01_STRASHNOEHD/variant.m3u8
-#EXTINF:-1 tvg-name="Хит HD" group-title="Кино",Хит HD
+#EXTINF:-1 tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
 http://88.218.240.74:8586/crypted/hls/CH_HITHD/variant.m3u8
-#EXTINF:-1 tvg-name="Камеди HD" group-title="Кино",Камеди HD 
+#EXTINF:-1 tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD 
 http://88.218.240.74:8586/crypted/hls/CH_COMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-name="Блокбастер HD" group-title="Кино",Блокбастер HD
+#EXTINF:-1 tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
 http://88.218.240.74:8586/crypted/hls/CH_BLOCKBUSTERHD/variant.m3u8
-#EXTINF:-1 tvg-name="КиноНовинки" group-title="Кино",КиноНовинки HD
+#EXTINF:-1 tvg-name="КиноНовинки" group-title="Фильмы и сериалы",КиноНовинки HD
 https://v2.catcast.tv/content/38791/index.m3u8
-#EXTINF:-1 tvg-name="НСТ" group-title="Кино",НСТ
+#EXTINF:-1 tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
+http://188.35.9.26:5050/002
+#EXTINF:-1 tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://88.218.240.74:8586/crypted/hls/CH_NSTV/variant.m3u8
-#EXTINF:-1 tvg-name="Fox HD" group-title="Кино",FOX HD
+#EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://88.218.240.74:8586/crypted/hls/CH_C02_FOXHD/variant.m3u8
-#EXTINF:-1 tvg-name="Fox HD" group-title="Кино",FOX
+#EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
 http://89.189.191.250/239.211.211.91/stream.m3u8
-#EXTINF:-1 tvg-name="Fox Life" group-title="Кино",Fox Life HD
+#EXTINF:-1 tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD
 http://88.218.240.74:8586/crypted/hls/CH_C04_FOXLIFEHD/variant.m3u8
-#EXTINF:-1 tvg-name="Fox Life" group-title="Кино",Fox Life
+#EXTINF:-1 tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
-#EXTINF:-1 tvg-name="Sony Sci-Fi" group-title="Кино",Sony Sci-Fi
+#EXTINF:-1 tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
 http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
-#EXTINF:-1 tvg-name="Sony Turbo" group-title="Кино",Sony Turbo
+#EXTINF:-1 tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://88.218.240.74:8586/crypted/hls/CH_SONYTURBO/variant.m3u8
-#EXTINF:-1 tvg-name="Sony Channel HD" group-title="Кино",Sony Channel
+#EXTINF:-1 tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
 http://88.218.240.74:8586/crypted/hls/CH_SET/variant.m3u8
-#EXTINF:-1 tvg-name="Hollywood" group-title="Кино",Hollywood
+#EXTINF:-1 tvg-name="Hollywood" group-title="Фильмы и сериалы",Hollywood
 http://46.8.46.4/amc/index.m3u8
-#EXTINF:-1 tvg-name="Hollywood HD" group-title="Кино",Hollywood HD
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
 http://80.94.225.126:8080/HollywoodHD/mpegts
-#EXTINF:-1 tvg-name="Ultra HD Cinema 4K" group-title="Кино",Ultra HD Cinema
+#EXTINF:-1 tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 tvg-name="Paramount Comedy Russia" group-title="Кино",Paramount Comedy HD
+#EXTINF:-1 tvg-name="Paramount Comedy Russia" group-title="Фильмы и сериалы",Paramount Comedy HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8
-#EXTINF:-1 tvg-name="Paramount Channel" group-title="Кино",Paramount Channel
+#EXTINF:-1 tvg-name="Paramount Channel" group-title="Фильмы и сериалы",Paramount Channel
 http://182.73.122.74:10004/bysid/1105
-#EXTINF:-1 tvg-name="Иллюзион +" group-title="Кино",Иллюзион +
+#EXTINF:-1 tvg-name="Иллюзион +" group-title="Остросюжетное HD",Иллюзион +
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" group-title="Кино",Amedia 1
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Остросюжетное HD",Amedia 1
 http://185.36.100.33/amedia/mpegts
-#EXTINF:-1 tvg-name="Amedia 2" group-title="Кино",Amedia 2
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Остросюжетное HD",Amedia 2
 https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1 tvg-name="AMEDIA HIT" group-title="Кино",Amedia Hit HD
+#EXTINF:-1 tvg-name="AMEDIA HIT" group-title="Остросюжетное HD",Amedia Hit HD
 http://185.36.100.33/amediahit/mpegts
-#EXTINF:-1 tvg-name="Amedia Premium HD" group-title="Кино",Amedia Premium HD
+#EXTINF:-1 tvg-name="Amedia Premium HD" group-title="Остросюжетное HD",Amedia Premium HD
 http://88.218.240.74:8586/crypted/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
 http://88.218.240.74:8586/crypted/hls/CH_C01_NICKELODEONHD/variant.m3u8
