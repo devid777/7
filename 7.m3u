@@ -76,7 +76,7 @@ http://pro100tv.usite.pro/CH_22_HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ UA" group-title="Украина",СТБ
-http://212.79.122.11:7164/stb
+http://playlist.hmara.tv/b2083d16/44c35e1d1ca8d90db99733ebccbdf9c0ee2ca642.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
 http://163.172.71.147:8080/tet/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
@@ -131,6 +131,8 @@ http://88.218.240.74:8586/crypted/hls/CH_HITHD/variant.m3u8
 http://88.218.240.74:8586/crypted/hls/CH_COMEDYHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
 http://88.218.240.74:8586/crypted/hls/CH_BLOCKBUSTERHD/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
+http://188.35.9.18:14050/udp/238.0.14.2:69000
 #EXTINF:-1 tvg-name="КиноНовинки" group-title="Фильмы и сериалы",КиноНовинки HD
 https://v2.catcast.tv/content/38791/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
@@ -146,7 +148,7 @@ http://88.218.240.74:8586/crypted/hls/CH_C04_FOXLIFEHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
 http://89.189.191.250/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
-http://88.218.240.74:8586/crypted/hls/CH_SONYSCIFI/bw2000000/variant.m3u8
+http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://88.218.240.74:8586/crypted/hls/CH_SONYTURBO/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
@@ -189,5 +191,5 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/990.png" tvg-name="Animal Planet HD" group-title="Познавательные",Animal Planet HD
 http://88.218.240.74:8586/crypted/hls/CH_C03_ANIMALPLANETHD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета HD
+http://live03-cdn.tv.ti.ru/dtv/id667_NBN_SG--PlanetaHD/04/plst.m3u8
