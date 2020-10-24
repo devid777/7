@@ -76,11 +76,13 @@ http://163.172.71.147:8080/tet/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал HD
 http://163.172.71.147:8080/novyy/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD-
-http://193.160.224.14:4000/play/a02r
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" tvg-name="24 Канал" group-title="Украина",24 Новини 
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",НАШ
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ HD 
+http://192.162.212.48/kino_tv_hd/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ
 http://192.162.212.48/kino-tv/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 HD
@@ -95,6 +97,8 @@ http://mnogotv.club:8084/tv/ch123/playlist.m3u8
 http://mnogotv.club:8084/tv/ch124/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
+#EXTINF:-1 tvg-name="TV3 Film" group-title="Фильмы и сериалы",TV3 Film HD 
+http://e01.plius.tv:64144/n156/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-name="VIP FAMILY" group-title="Фильмы и сериалы",VIP FAMILY
 http://188.93.95.67:80/tv5/mpegts
 #EXTINF:-1 tvg-name="VIP HIT" group-title="Фильмы и сериалы",VIP HIT
@@ -122,7 +126,7 @@ http://93.158.222.99/interesnoetv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино
 http://87.251.176.10:8080/41/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD-
-https://rebrand.ly/heqe5sn/ROSTIK-TV/STRASHNOE-TV
+http://tv545.com/stream/PzDAvbQ/channel/967.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://51.195.44.53:8081/tv/nst/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD- 
