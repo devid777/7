@@ -105,8 +105,12 @@ http://mnogotv.club:8084/tv/ch124/playlist.m3u8
 http://mnogotv.club:8084/tv/ch962/playlist.m3u8
 #EXTINF:-1 tvg-name="VIP FAMILY" group-title="Фильмы и сериалы",VIP FAMILY
 http://188.93.95.83:80/tv5/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
 http://192.162.212.48/kinopokaz/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Наш кинопоказ HD" group-title="Фильмы и сериалы",Наш кинопоказ 
+http://mnogotv.club:8084/tv/ch126/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино
+http://94.232.231.220:8080/nashenovoekino/index.m3u8?token=416483500608
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия
 http://e01.plius.tv:64144/n162/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Фильмы и сериалы",Кинохит
@@ -167,6 +171,8 @@ http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
 http://176.115.152.6:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
 http://84.201.130.61:8080/314/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" tvg-name="Bollywood HD" group-title="Фильмы и сериалы",Bollywood HD 
+http://e04.plius.tv:64144/n138/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Фильмы и сериалы",Hollywood-
 http://46.8.46.4/amc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD-
