@@ -100,7 +100,7 @@ http://31.131.136.5:9112/VIPMegahit
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://31.131.136.5:9112/VIPPremiere
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://mnogotv.club:8084/tv/ch962/playlist.m3u8
+http://vip-iptvsmart.usite.pro/server-1/88_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
 http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
 #EXTINF:-1 tvg-name="VIP FAMILY" group-title="Фильмы и сериалы",VIP FAMILY
@@ -113,6 +113,8 @@ http://192.162.212.48/kinopokaz/mpegts
 http://mnogotv.club:8084/tv/ch126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино
 http://e04.plius.tv:64144/n160/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2019.png" tvg-name="Наш Кинороман HD" group-title="Фильмы и сериалы",Наш кинороман
+http://51.68.141.106:8081/tv/nash-kinoroman/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2835.png" tvg-name="Наше Мужское HD" group-title="Фильмы и сериалы",Наше Мужское
 http://vip-iptvsmart.usite.pro/server-2/398_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия
