@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
+#EXTINF:-1 tvg-logo="" group-title="INFO",=== ОНОВЛЕНО 09.11.20 ===
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
@@ -80,7 +81,9 @@ http://163.172.71.147:8080/stb/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ
 http://163.172.71.147:8080/tet/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
-http://163.172.71.147:8080/novyy/mpegts
+http://176.98.26.37:8000/live/tivi/best/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО TV" group-title="Украина",НЛО TV
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/344.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" tvg-name="24 Канал" group-title="Украина",24 Новини 
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",НАШ
@@ -100,11 +103,9 @@ http://31.131.136.5:9112/VIPMegahit
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://31.131.136.5:9112/VIPPremiere
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://vip-iptvsmart.usite.pro/server-1/88_playlist.m3u8
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/311.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
 http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
-#EXTINF:-1 tvg-name="VIP FAMILY" group-title="Фильмы и сериалы",VIP FAMILY
-http://188.93.95.67:80/tv5/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
 http://vip-iptvsmart.usite.pro/server-2/360_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
@@ -116,7 +117,9 @@ http://e04.plius.tv:64144/n160/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2019.png" tvg-name="Наш Кинороман HD" group-title="Фильмы и сериалы",Наш кинороман
 http://51.68.141.106:8081/tv/nash-kinoroman/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2835.png" tvg-name="Наше Мужское HD" group-title="Фильмы и сериалы",Наше Мужское
-http://vip-iptvsmart.usite.pro/server-2/398_playlist.m3u8
+http://vip-iptvsmart.usite.pro/server-2/398_playlist.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
+http://persik.tv/stream/8951/415654/10454.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия
 http://51.195.44.53:8081/tv/kinoseria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Фильмы и сериалы",Кинохит
@@ -143,15 +146,17 @@ http://185.181.43.126:8006/play/india_tv/index.m3u8
 http://51.195.44.53:8081/tv/nst/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" tvg-name="TRASH HD" group-title="Фильмы и сериалы",TRASH HD 
 http://cdn1.ott.ist/thrash_hd/index.m3u8?416483500608
-#EXTINF:-1 tvg-name="VIP HIT" group-title="Фильмы и сериалы",VIP HIT
-http://188.93.95.83/healthtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD 
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/226.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
 http://51.195.44.53:8081/tv/ostros/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
 http://vip-iptvsmart.usite.pro/server-3/418_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
 http://vip-iptvsmart.usite.pro/server-2/400_playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
 http://mnogotv.club:8084/tv/ch103/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD 
 http://e01.plius.tv:64144/n157/tracks-v1a3/mono.m3u8
@@ -174,7 +179,7 @@ http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
-http://84.201.130.61:8080/314/index.m3u8
+http://s6.lifetv.host:8080/s6-26/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" tvg-name="Bollywood HD" group-title="Фильмы и сериалы",Bollywood HD 
 http://e04.plius.tv:64144/n138/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" tvg-name="Еврокино" group-title="Фильмы и сериалы",Еврокино 
