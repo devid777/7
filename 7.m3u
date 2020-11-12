@@ -143,7 +143,7 @@ http://cdn1.ott.ist/thrash_hd/index.m3u8?416483500608
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/226.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-shift=+4 tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-shift=-6 tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
 http://45.133.96.152:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
 http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/playlist.m3u8?utcstart=1572699600&version=2
