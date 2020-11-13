@@ -51,8 +51,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://194.28.155.203:81/udp/225.0.56.99:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV UA" group-title="Украина",ICTV
@@ -186,11 +184,11 @@ http://zigfreed.ru/YDi/18.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Фильмы и сериалы",Amedia 1
 http://37.193.199.183:81/udp/239.1.4.4:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Фильмы и сериалы",Amedia 2
-http://109.239.208.82:80/amedia2/tracks-v1a1/mono.m3u8
+http://ott-cdn.ucom.am/s33/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Фильмы и сериалы",Amedia Hit HD
 http://37.193.199.183:81/udp/239.1.21.14:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
-http://zigfreed.ru/YDi/11.m3u8
+http://109.239.208.82:80/amediapremium/index.m3u8
 #EXTINF:-1 group-title="Армения",H1 
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
