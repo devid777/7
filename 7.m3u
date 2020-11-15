@@ -183,11 +183,11 @@ http://ott-cdn.ucom.am/s33/index.m3u8
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
 http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2060.png" tvg-name="Առաջին Ալիք" group-title="Армения",Առաջին Ալիք
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2060.png" tvg-name="Առաջին Ալիք" group-title="Армения",H1
 http://82.146.51.215:9000/rudemo1/mCOxN3/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2062.png" tvg-name="Հ2" group-title="Армения",Հ2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2062.png" tvg-name="Հ2" group-title="Армения",H2
 http://82.146.51.215:9000/rudemo1/mCOxN3/2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2063.png" tvg-name="Շանթ" group-title="Армения",Շանթ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2063.png" tvg-name="Շանթ" group-title="Армения",Shant
 http://82.146.51.215:9000/rudemo1/mCOxN3/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2633.png" tvg-name="Shant Premium HD AM" group-title="Армения",Shant Premium
 http://82.146.51.215:9000/rudemo1/mCOxN3/371.m3u8
@@ -197,49 +197,49 @@ http://82.146.51.215:9000/rudemo1/mCOxN3/365.m3u8
 http://82.146.51.215:9000/rudemo1/mCOxN3/372.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2532.png" tvg-name="SHANT Music HD" group-title="Армения",Shant Music
 http://82.146.51.215:9000/rudemo1/mCOxN3/364.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2064.png" group-title="Армения",Armenia TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2064.png" tvg-name="Արմենիա Tv HD" group-title="Армения",Armenia TV HD
 http://82.146.51.215:9000/rudemo1/mCOxN3/4.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2065.png" group-title="Армения",Kentron TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2065.png" tvg-name="Կենտրոն" group-title="Армения",Kentron TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/5.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2066.png" group-title="Армения",Erkir media
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2066.png" tvg-name="Երկիր մեդիա" group-title="Армения",Erkir media
 http://82.146.51.215:9000/rudemo1/mCOxN3/7.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2067.png" group-title="Армения",ATV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2067.png" tvg-name="ATV" group-title="Армения",ATV
 http://82.146.51.215:9000/rudemo1/mCOxN3/8.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2068.png" group-title="Армения",Ar TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2068.png" tvg-name="Ար" group-title="Армения",Ar TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/9.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2061.png" group-title="Армения",Dar21
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2061.png" tvg-name="Դար 21" group-title="Армения",Dar 21
 http://82.146.51.215:9000/rudemo1/mCOxN3/10.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2069.png" group-title="Армения",Arm News
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2069.png" tvg-name="Արմնյուզ" group-title="Армения",Arm News
 http://82.146.51.215:9000/rudemo1/mCOxN3/11.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2385.png" group-title="Армения",Azatutyun TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2385.png" tvg-name="Ազատություն TV" group-title="Армения",Azatutyun TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/12.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2395.png" group-title="Армения",Nor Hayastan
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2395.png" tvg-name="նոր ՀԱՅԱՍՏԱՆ" group-title="Армения",Nor Hayastan
 http://82.146.51.215:9000/rudemo1/mCOxN3/13.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2071.png" group-title="Армения",Shoxakat
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2071.png" tvg-name="Շողակաթ" group-title="Армения",Shoxakat
 http://82.146.51.215:9000/rudemo1/mCOxN3/14.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3360.png" tvg-name="SONG TV HD AM" group-title="Армения",Song TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/373.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2384.png" tvg-name="Armenia Premium" group-title="Армения",Armenia Premium
 http://82.146.51.215:9000/rudemo1/mCOxN3/15.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2397.png" group-title="Армения",Hay Kino
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2397.png" tvg-name="հայ կինո" group-title="Армения",Hay Kino
 http://82.146.51.215:9000/rudemo1/mCOxN3/16.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2394.png" group-title="Армения",Cineman
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2394.png" tvg-name="սինեման" group-title="Армения",Cineman
 http://82.146.51.215:9000/rudemo1/mCOxN3/17.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2388.png" group-title="Армения",Armenia Comedy
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2388.png" tvg-name="քոմեդի" group-title="Армения",Armenia Comedy
 http://82.146.51.215:9000/rudemo1/mCOxN3/18.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2396.png" group-title="Армения",Jan TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2396.png" tvg-name="ջան tv" group-title="Армения",Jan TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/19.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2390.png" group-title="Армения",Tuntunik
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2390.png" tvg-name="տունտունիկ" group-title="Армения",Tuntunik
 http://82.146.51.215:9000/rudemo1/mCOxN3/20.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2386.png" group-title="Армения",ATV Filmzone
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2386.png" tvg-name="ՖՒԼՄԶՈՆ" group-title="Армения",ATV Filmzone
 http://82.146.51.215:9000/rudemo1/mCOxN3/21.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2393.png" group-title="Армения",ATV Kinoman
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2393.png" tvg-name="ԿԻՆՈՄԱՆ" group-title="Армения",ATV Kinoman
 http://82.146.51.215:9000/rudemo1/mCOxN3/22.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2392.png" group-title="Армения",ATV Tava
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2392.png" tvg-name="ԹԱՎԱ TV" group-title="Армения",ATV Tava
 http://82.146.51.215:9000/rudemo1/mCOxN3/23.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2391.png" group-title="Армения",ATV Hay
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2391.png" tvg-name="ՀԱՅ TV" group-title="Армения",ATV Hay
 http://82.146.51.215:9000/rudemo1/mCOxN3/24.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2387.png" group-title="Армения",Khakhaliq
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2387.png" tvg-name="ԽԱՂԱԼԻՔ" group-title="Армения",Khakhaliq
 http://82.146.51.215:9000/rudemo1/mCOxN3/25.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
 http://192.162.212.48/nickelodeon/mpegts
