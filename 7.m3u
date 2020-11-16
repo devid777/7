@@ -233,8 +233,6 @@ http://82.146.51.215:9000/rudemo1/mCOxN3/11.m3u8
 http://82.146.51.215:9000/rudemo1/mCOxN3/12.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2395.png" tvg-name="նոր ՀԱՅԱՍՏԱՆ" group-title="Армения",Nor Hayastan
 http://82.146.51.215:9000/rudemo1/mCOxN3/13.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2071.png" tvg-name="Շողակաթ" group-title="Армения",Shoxakat
-http://ott-cdn.ucom.am/s13/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3360.png" tvg-name="SONG TV HD AM" group-title="Армения",Song TV
 http://82.146.51.215:9000/rudemo1/mCOxN3/373.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2384.png" tvg-name="Armenia Premium" group-title="Армения",Armenia Premium
