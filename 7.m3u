@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=3000
+##EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=3000
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
@@ -152,9 +152,9 @@ http://51.195.44.53:8081/tv/nst/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" tvg-name="TRASH HD" group-title="Фильмы и сериалы",TRASH
 http://cdn1.ott.ist/thrash_hd/index.m3u8?416483500608
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер
-http://mnogotv.club:8084/tv/ch503/playlist.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/blokbaster-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит
-http://mnogotv.club:8084/tv/ch103/playlist.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/hit-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
 http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/strashnoe-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
