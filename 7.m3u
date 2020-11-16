@@ -114,7 +114,7 @@ http://31.131.136.5:9112/VIPMegahit
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://31.131.136.5:9112/VIPPremiere
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/311.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/vip-serial-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/74.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
@@ -154,9 +154,9 @@ http://mnogotv.club:8084/tv/ch503/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит
 http://mnogotv.club:8084/tv/ch103/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/226.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/strashnoe-hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/kinopokaz-hd1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-shift=-4 tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное
 http://45.133.96.152:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
@@ -170,7 +170,7 @@ http://77.243.112.149:8080/fox_life_hd/index.m3u8?token=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
 http://77.243.112.149:8080/fox-life/index.m3u8?token=gelow74_denms_ru
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
-http://185.181.43.126:8008/play/sony_sci_fi/index.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/sony-sci-fi.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
@@ -256,7 +256,7 @@ http://82.146.51.215:9000/rudemo1/mCOxN3/24.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
 http://192.162.212.48/nickelodeon/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2678.png" tvg-name="Nick Jr" group-title="Детские",Nick Jr 
-http://176.98.26.37:8000/live/tivi/best/21.m3u8
+http://s06.iptvx.tv:8090/s/6a4e6f0a531266fdde97ee584b24192b/nickjr.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
