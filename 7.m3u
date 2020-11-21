@@ -163,7 +163,7 @@ http://185.74.7.220:8080/kinopremyera/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
 http://176.115.152.6:4002/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас HD
-http://str2.101film.org/ch211/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoTVRrMU1RPT0=
+http://192.162.212.48/kinoujas/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино HD
 http://31.131.136.5:9002/play/a00i
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
@@ -183,7 +183,7 @@ http://str2.101film.org/ch236/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoT
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
 http://str2.101film.org/ch234/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoTVRrMU1RPT0=
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
-http://mnogotv.club:8084/tv/ch512/playlist.m3u8
+http://server-iptv.ga/ch361/video.m3u8?token=UG91Z2Jkc2drfHxjWGRsY25SNWRXbHZjQT09
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-shift=-6 tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
 http://45.133.96.152:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
