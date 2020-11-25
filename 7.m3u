@@ -154,7 +154,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
-http://cdn.itvago.com/NoviyKanalHD-ua/video.m3u8?token=8AF7B7F5FDC3A
+http://portal.ott.pink/watch/9/video.m3u8?token=D3A713E5C73E21A29989C07CE5DF1B3D
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2180.png" tvg-name="Україна" group-title="Украина",Україна
 http://cdn.itvago.com/Ukraina-UA/video.m3u8?token=8AF7B7F5FDC3A
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
@@ -183,8 +183,8 @@ http://cdntv.online/high/exp4q9yadw/107.m3u8
 http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
 http://cdn.ottcdn.online/high/exp4q9yadw/1100.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-shift=-4 tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
-http://main.simpletv.eu:8080/t2-kinopremium-hd/mono.m3u8?token=14704325865faf2235ff8bd0aee320e4
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
+http://213.183.33.58/kino-premium-hd/video.m3u8?token=rostik_tv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/904/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер
@@ -224,7 +224,7 @@ http://cdn1.ott.ist/thrash_hd/index.m3u8?416483500608
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит
 http://cdn.ottcdn.online/high/exp4q9yadw/1025.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
-http://str2.101film.org/ch234/index.m3u8?token=T2xlZ01pc2hpbnx8ZG1Gc1pXNTBhVzVoTVRrMU1RPT0=
+http://213.183.33.58/strashnoe-hd/video.m3u8?token=4392178d
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
