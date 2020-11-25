@@ -15,12 +15,12 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2361.png" tvg-name="Мир HD" group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" tvg-name="НТВ HD" group-title="Россия",НТВ HD
-http://77.243.112.149:8080/ntv_hd/index.m3u8?token=gelow74_denms_ru
+http://nl.iptv.monster/play/220/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3292.png" tvg-name="СТС" group-title="Россия",СТС HD
-http://192.162.212.48/sts_hd/index.m3u8
+http://nl.iptv.monster/play/36/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС 
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -73,7 +73,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
-http://77.243.112.149:8080/tnt_hd/index.m3u8?token=416483500608
+http://nl.iptv.monster/play/86/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия",ТНТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8 
@@ -102,7 +102,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://nl.iptv.monster/play/111/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
@@ -226,7 +226,7 @@ http://cdn.ottcdn.online/high/exp4q9yadw/1025.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
 http://213.183.33.58/strashnoe-hd/video.m3u8?token=4392178d
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/75.m3u8
+http://nl.iptv.monster/play/137/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
 http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/playlist.m3u8?utcstart=1572699600&version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
