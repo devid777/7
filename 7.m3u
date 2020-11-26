@@ -126,17 +126,17 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина",К2
-http://cdn.itvago.com/K2-UA/video.m3u8?token=8AF7B7F5FDC3A
+http://nl.iptv.monster/play/652/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png" tvg-name="Интер+" group-title="Украина",Интер+ 
 http://31.41.96.212:81/udp/225.0.55.109:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2102.png" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
-http://cdn.itvago.com/EnterFilm-UA/video.m3u8?token=8AF7B7F5FDC3A
+http://nl.iptv.monster/play/648/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН 
-http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+http://nl.iptv.monster/play/402/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега 
-http://cdn.itvago.com/Mega-ua/video.m3u8?token=8AF7B7F5FDC3A
+http://nl.iptv.monster/play/654/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1
 http://nl.iptv.monster/play/400/BFD497676FE112D/video.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
@@ -156,9 +156,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playl
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
 http://portal.ott.pink/watch/9/video.m3u8?token=D3A713E5C73E21A29989C07CE5DF1B3D
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2180.png" tvg-name="Україна" group-title="Украина",Україна
-http://cdn.itvago.com/Ukraina-UA/video.m3u8?token=8AF7B7F5FDC3A
+http://nl.iptv.monster/play/908/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
-http://cdn.itvago.com/Zik-ua/video.m3u8?token=8AF7B7F5FDC3A
+http://nl.iptv.monster/play/2604/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
 http://nl.iptv.monster/play/150/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ HD 
