@@ -154,7 +154,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
-http://portal.ott.pink/watch/9/video.m3u8?token=D3A713E5C73E21A29989C07CE5DF1B3D
+http://51.15.176.84/hls/novy-live/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2180.png" tvg-name="Україна" group-title="Украина",Україна
 http://nl.iptv.monster/play/908/BFD497676FE112D/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK HD
@@ -219,8 +219,6 @@ http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/217.m3u8
 http://192.162.212.48/indiya/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://51.195.44.53:8081/tv/nst/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" tvg-name="TRASH HD" group-title="Фильмы и сериалы",TRASH
-http://cdn1.ott.ist/thrash_hd/index.m3u8?886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит
 http://cdn.ottcdn.online/high/exp4q9yadw/1025.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
@@ -295,7 +293,7 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/990.png" tvg-name="Animal Planet HD" group-title="Познавательные",Animal Planet HD
 http://51.195.44.53:8081/tv/animal-planet/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel HD
-http://31.131.136.5:9114/DiscoveryChannelHD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
+http://79.142.197.8:8888/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science 
 http://nl.iptv.monster/play/391/BFD497676FE112D/video.m3u8
