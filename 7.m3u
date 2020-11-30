@@ -130,7 +130,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 tvg-name="НАШ" group-title="Украина",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
-http://51.15.176.84/hls/novy-live/index.m3u8
+http://server-iptv.ml/ch317/video.m3u8?token=U2h1bGVybWFuMjE0fHxVbTl0WVRJd01UUT0=
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV 1000 HD
 http://195.191.208.78:8080/tv1000hd/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV 1000 Русское кино HD
@@ -145,9 +145,7 @@ http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://mnogotv.club:8084/tv/ch962/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
-http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
+http://server-iptv.tk/ch195/video.m3u8?token=U2h1bGVybWFuMjE0fHxVbTl0WVRJd01UUT0=
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино HD
 http://176.115.152.6:4002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия HD
