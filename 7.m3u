@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=3000 deinterlace=1
+##EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=3000 deinterlace=1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
@@ -24,7 +24,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1700.png" tvg-name="КВН ТВ" group-title="Россия",КВН ТВ
-http://zigfreed.ru/YNS/726.m3u8
+http://51.195.44.53:8081/tv/kvn-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3013.png" tvg-name="ТВ3 +2" group-title="Россия",ТВ-3 +2 
@@ -79,34 +79,42 @@ http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2099.png" tvg-name="К2" group-title="Украина",К2
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/324.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2098.png" tvg-name="Мега" group-title="Украина",Мега
+http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/325.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png" tvg-name="Интер+" group-title="Украина",Интер+
+http://31.41.99.0:81/udp/225.0.55.109:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН 
 http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1
 http://163.172.71.147:8080/1plus1/mpegts 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/173.m3u8
+https://95-213-172-213.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
 http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ UA" group-title="Украина",СТБ
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/156.m3u8
+http://193.33.39.107:8781/stb
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ
 http://163.172.71.147:8080/tet/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2179.png" tvg-name="НЛО UA" group-title="Украина",НЛО TV
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/344.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" tvg-name="24 Канал" group-title="Украина",24 Новини 
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 tvg-name="НАШ" group-title="Украина",Наш
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/maxxi-tv.png" tvg-name="НАШ" group-title="Украина",Наш
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2180.png" tvg-name="Україна" group-title="Украина",Україна
+http://51.15.176.84/hls/ukraina-live/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2104.png" tvg-name="Новий Канал" group-title="Украина",Новый Канал
-http://zigfreed.ru/YNS/1397.m3u8
+http://51.15.176.84/hls/novy-live/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
 http://cdn.ottcdn.online/high/exp4q9yadw/1100.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
-http://39dw.only4.tv:82/0121/video.m3u8?token=YrTlfooVfp
+http://spacetv.in/stream/DIPK8H19CP8/215.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
-http://39dw.only4.tv:82/0122/video.m3u8?token=YrTlfooVfp
+http://spacetv.in/stream/DIPK8H19CP8/214.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD 
 http://51.68.141.106:8081/tv/komediinoe/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ
@@ -122,7 +130,7 @@ http://195.189.105.158:9050/133/index.m3u8?bw886483500620.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://39dw.only4.tv:82/0109/video.m3u8?token=YrTlfooVfp
+http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино HD
 http://176.115.152.6:4002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия HD
@@ -146,7 +154,7 @@ http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
 http://185.74.7.220:8080/rodnoekino/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
-http://39dw.only4.tv:82/0119/video.m3u8?token=YrTlfooVfp
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://188.93.95.83/hctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD
@@ -163,7 +171,7 @@ http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/180.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
-http://s6.lifetv.host:8080/s6-26/index.m3u8?token=test
+http://spacetv.in/stream/DIPK8H19CP8/69.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" tvg-name="Bollywood HD" group-title="Фильмы и сериалы",Bollywood HD 
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2804.png" tvg-name="Кино UHD 4K" group-title="Фильмы и сериалы",Кино UHD
@@ -185,13 +193,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" tvg-name="Еврокино" group-title="Фильмы и сериалы",Еврокино 
 http://176.115.152.6:4000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
-http://zigfreed.ru/YNS/37.m3u8
+http://185.245.187.159:8080/Hollywood/index.m3u8?password=886483500620
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
+http://185.245.187.150:80/Paramount/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Фильмы и сериалы",Paramount Comedy
 http://zigfreed.ru/YNS/42.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
 http://zigfreed.ru/YNS/45.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3295.png" tvg-name="Spike HD" group-title="Фильмы и сериалы",Spike
-http://zigfreed.ru/YNS/50.m3u8
+http://185.245.187.150:80/Spike/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2076.png" tvg-name="Ararat" group-title="Армения",Ararat TV
 http://zigfreed.ru/YNS/1486.m3u8
 #EXTINF:-1 tvg-name="LIVEnews.am" group-title="Армения",LIVEnews.am
