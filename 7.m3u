@@ -271,6 +271,3 @@ http://zigfreed.ru/YNS/891.m3u8
 http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
 http://79.142.197.8:8888/Discovery/index.m3u8
-#EXTINF:-1 ,Мосфильм
-#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-http://cdnnow.goodgame.ru/hls/180913.m3u8
