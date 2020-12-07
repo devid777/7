@@ -115,6 +115,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3034.png" tvg-name="Рен ТВ +6" group-title="Россия",Рен ТВ +6
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="МосФильм" group-title="Россия",МосФильМ
+https://cdn-curie.wasd.tv/live/927775/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="ЛенФильм" group-title="Россия",ЛенФильМ
+https://cdn-curie.wasd.tv/live/927783/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK
 http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zanh6dDFySHZDZmo5SnV5YVhEYVBBND0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV UA" group-title="Украина",ICTV
