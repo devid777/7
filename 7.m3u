@@ -161,7 +161,7 @@ http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zc2ZqbmZadFlLcE94cnFqem1RV
 http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zb0dsSnRkaFhRd05BRTE5SEgxaWdEZ05hMHJnUnFBSGFxK2NuRERNL3luQw/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
 http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zcG9CRElleS85K2ZGNVBHNmt5WGZmdz0/video.ts
-#EXTINF:-1 tvg-name="Cinema" group-title="Фильмы и сериалы",Cinema
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png" tvg-name="Cinema" group-title="Фильмы и сериалы",Cinema
 http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zc1ArODVLYWpDUWR5M1Y0dmNCOGFWND0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD 
 http://78.26.128.16:8081/463/playlist.m3u8?password=886483500620
