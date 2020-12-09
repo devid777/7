@@ -187,7 +187,7 @@ http://st.cdn-tv.club/iptv/dzl0SVhockRhd29UWnkyaTlXS2g3amljc1ZrbHJ0UCswK3Z5Z2dIa
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
 http://spacetv.in/stream/DIPK8H19CP8/215.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
-http://spacetv.in/stream/DIPK8H19CP8/214.m3u8
+http://51.195.44.53:8081/tv/ostros/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD 
 http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ
@@ -217,9 +217,9 @@ http://188.93.95.83/fenikspluskino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4175.png" tvg-name="Любимое Кино orig" group-title="Фильмы и сериалы",Наше любимое кино 
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2019.png" tvg-name="Наш кинороман HD" group-title="Фильмы и сериалы",Наш Кинороман 
-http://51.68.141.106:8081/tv/nash-kinoroman/chunks.m3u8 
+http://51.68.141.106:8081/tv/nash-kinoroman/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2275.png" tvg-name="Мир Сериала" group-title="Фильмы и сериалы",Мир сериала 
-http://185.245.187.150:80/MirSeriala/index.m3u8?password=886483500620
+http://185.245.187.150:80/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4176.png" tvg-name="Русская Комедия orig" group-title="Фильмы и сериалы",Русская комедия 
 http://51.195.44.53:8081/tv/rus-comedy/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4174.png" tvg-name="Русский детектив orig" group-title="Фильмы и сериалы",Русский детектив 
@@ -234,6 +234,8 @@ http://185.74.7.220:8080/domkino/mpegts
 http://185.245.187.150:80/DomKinoPremiumFHD/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
 http://185.74.7.220:8080/kinopokaz/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" tvg-name="Наше крутое HD" group-title="Фильмы и сериалы",Наше Крутое HD
+http://51.68.141.106:8081/tv/nash-detektiv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино HD
 http://176.115.152.6:4002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия HD
@@ -299,7 +301,7 @@ http://185.245.187.150:80/ParamountComedy/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
 http://185.245.187.150:80/HistoryFHD/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2678.png" tvg-name="Nick Jr" group-title="Детские",Nick Jr.
-http://spacetv.in/stream/DIPK8H19CP8/220.m3u8
+http://185.245.187.150:80/NickJr/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png" tvg-name="Nickelodeon HD" group-title="Детские",Nickelodeon HD
 http://89.189.191.250/239.211.211.30/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" group-title="Детские",Disney
