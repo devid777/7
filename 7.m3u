@@ -402,3 +402,5 @@ http://songtvam.ru:8060/hd/playlist.m3u8
 https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png" tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/fashion-tv.jpg" tvg-name="Fashion TV RO" group-title="Разное",FashionTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
