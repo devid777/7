@@ -124,8 +124,8 @@ http://dmitry-tv.my1.ru/his/zabava/04/CH_GAGSNETWORKHD.m3u8
 http://dmitry-tv.my1.ru/his/zabava/04/CH_GAGSNETWORK.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" group-title="Юмор",Сарафан 
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnOVdIVm5UV09IME1nUlhRbVQvU2JvVT0/video.ts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK-
-http://91.234.24.5:8080/zik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2207.png" tvg-name="ZIK" group-title="Украина",ZIK
+http://193.34.172.141:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2103.png" tvg-name="ICTV UA" group-title="Украина",ICTV
 http://spacetv.in/stream/DIPK8H19CP8/158.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2095.png" tvg-name="NewsOne" group-title="Украина",NewsOne HD
@@ -232,7 +232,7 @@ http://185.74.7.220:8080/kinosvidanie/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="Кинопремьера HD" group-title="Фильмы и сериалы",Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
-http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас HD
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnd3d2cTlmRGgzUXM2RUhyRmlqdWZtWT0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино HD
@@ -253,7 +253,7 @@ http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/playlist.m
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdneDQ0ckZTVHUzYXNlT2RjUnZnK2pWcGxxMzFDcHQzS1cyQkI4L291bk5XNg/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
-###http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
+http://176.115.152.6:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/69.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" tvg-name="Иллюзион +" group-title="Фильмы и сериалы",Иллюзион +
@@ -357,38 +357,54 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2480.png" tvg-name="UFC ТВ" group-title="Спортивные",UFC HD 
 http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2394.png" tvg-name="սինեման" group-title="Армения",ATV Cineman
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s66/04.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2386.png" tvg-name="ՖՒԼՄԶՈՆ" group-title="Армения",ATV Filmzone 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2386.png" tvg-name="ՖՒԼՄԶՈՆ" group-title="Армения",ATV Filmzone
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s48/04.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2393.png" tvg-name="ԿԻՆՈՄԱՆ" group-title="Армения",ATV Kinoman 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2393.png" tvg-name="ԿԻՆՈՄԱՆ" group-title="Армения",ATV Kinoman
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s94/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2060.png" tvg-name="Առաջին Ալիք" group-title="Армения",H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4250.png" tvg-name="Հ2" group-title="Армения",H2 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4250.png" tvg-name="Հ2" group-title="Армения",H2
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2070.png" tvg-name="Հ3" group-title="Армения",H3 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2070.png" tvg-name="Հ3" group-title="Армения",H3
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s12/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2396.png" tvg-name="ջան tv" group-title="Армения",Jan TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s42/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2391.png" tvg-name="ՀԱՅ TV" group-title="Армения",Hay TV 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2391.png" tvg-name="ՀԱՅ TV" group-title="Армения",Hay TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s73/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2397.png" tvg-name="հայ կինո" group-title="Армения",Haykino ATV 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2397.png" tvg-name="հայ կինո" group-title="Армения",Haykino ATV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 group-title="Армения",Arm News/Film 
+#EXTINF:-1 group-title="Армения",Arm News/Film
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2385.png" tvg-name="Ազատություն TV" group-title="Армения",Azatutyun TV 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2385.png" tvg-name="Ազատություն TV" group-title="Армения",Azatutyun TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s3/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2064.png" tvg-name="Արմենիա Tv HD" group-title="Армения",Armenia TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s4/04.m3u8
 #EXTINF:-1 group-title="Армения",Live 5 
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s6/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2066.png" tvg-name="Երկիր մեդիա" group-title="Армения",Erkir media 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2066.png" tvg-name="Երկիր մեդիա" group-title="Армения",Erkir media
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s7/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2068.png" tvg-name="Ար" group-title="Армения",Ar TV 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2068.png" tvg-name="Ար" group-title="Армения",Ar TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s9/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2061.png" tvg-name="Դար 21" group-title="Армения",Dar 21 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2061.png" tvg-name="Դար 21" group-title="Армения",Dar 21
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s10/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2069.png" tvg-name="Արմնյուզ" group-title="Армения",Arm News 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2069.png" tvg-name="Արմնյուզ" group-title="Армения",Arm News
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s11/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3360.png" tvg-name="SONG TV HD AM" group-title="Армения",Song TV
 http://songtvam.ru:8060/hd/playlist.m3u8
