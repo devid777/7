@@ -232,7 +232,7 @@ http://185.74.7.220:8080/kinosvidanie/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="Кинопремьера HD" group-title="Фильмы и сериалы",Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
-###http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас HD
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnd3d2cTlmRGgzUXM2RUhyRmlqdWZtWT0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино HD
