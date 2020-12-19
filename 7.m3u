@@ -429,6 +429,5 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/fashion-tv.jpg" tvg-name="Fashion TV RO" group-title="Разное",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,Fast BOX
-#EXTGRP:Только Android
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s79/04.m3u8
