@@ -450,9 +450,6 @@ http://ott-cdn.ucom.am/s46/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2384.png" tvg-name="Armenia Premium" group-title="Армения",Armenia Premium
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s83/04.m3u8
-#EXTINF:-1 group-title="Армения",Armenia Comedy
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
-http://ott-cdn.ucom.am/s32/04.m3u8
 #EXTINF:-1 group-title="Армения",Bazmoc ATV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s74/04.m3u8
