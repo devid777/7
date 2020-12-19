@@ -253,14 +253,14 @@ http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/playlist.m
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdneDQ0ckZTVHUzYXNlT2RjUnZnK2pWcGxxMzFDcHQzS1cyQkI4L291bk5XNg/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
-http://176.115.152.6:4000/play/a005/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.151:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/69.m3u8
+http://84.201.130.61:8080/314/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png" tvg-name="Иллюзион +" group-title="Фильмы и сериалы",Иллюзион +
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" tvg-name="Еврокино" group-title="Фильмы и сериалы",Еврокино 
-http://176.115.152.6:4000/play/a00a/index.m3u8
+http://185.245.187.150:80/EvroKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
 http://185.245.187.159:8080/Hollywood/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
@@ -336,6 +336,18 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4105.png" tvg-name="Дикая рыбалка HD" group-title="Мужские",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKAHD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1681.png" tvg-name="Охотник и рыболов HD" group-title="Мужские",Охотник и рыболов HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" tvg-name="Наука HD" group-title="Познавательные",Наука
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" tvg-name="Приключения HD" group-title="Познавательные",Приключения HD
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s99/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4429.png" tvg-name="История" group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4436.png" tvg-name="Investigation Discovery" group-title="Познавательные",Investigation Discovery 
 http://185.245.187.150:80/IDXtra/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2801.png" tvg-name="LOVE NATURE 4K" group-title="Познавательные",LOVE NATURE 4K
@@ -351,6 +363,8 @@ http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 http://185.245.187.150:80/Morskoy/index.m3u8?password=886483500620 
 #EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2020/11/pv-logo-e1604451406694.jpg" tvg-name="Под водой" group-title="Познавательные",Под водой HD 
 http://194.190.78.91:8080/podvodoi/index.m3u8?password=886483500620
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/imagecache/film_poster/tv_channels/logos/tehno24.png" group-title="Познавательные",Техно 24 
+http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
@@ -414,4 +428,7 @@ https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/fashion-tv.jpg" tvg-name="Fashion TV RO" group-title="Разное",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
+#EXTINF:-1,Fast BOX
+#EXTGRP:Только Android
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s79/04.m3u8
