@@ -116,6 +116,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3034.png" tvg-name="Рен ТВ +6" group-title="Россия",Рен ТВ +6
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Christmas HD
+http://195.154.242.229:3000/test/test/19551
 #EXTINF:-1 tvg-logo="https://shgs.ru/images/tv/239.png" tvg-name="Cinema" group-title="Фильмы и сериалы",Cinema 
 http://89.189.191.250/239.211.211.106/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Фильмы и сериалы",Amedia 1
@@ -152,9 +154,13 @@ http://185.245.187.150:80/KinotvFHD/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ
 http://51.68.140.190:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
-http://spacetv.in/stream/DIPK8H19CP8/214.m3u8
+http://cdntv.online/hls/5wty783xkf/902.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
-http://spacetv.in/stream/DIPK8H19CP8/215.m3u8
+http://cdntv.online/hls/5wty783xkf/901.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
+http://cdntv.online/hls/5wty783xkf/906.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
+http://cdntv.online/hls/5wty783xkf/1031.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
 http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
@@ -438,6 +444,18 @@ http://ott-cdn.ucom.am/s10/04.m3u8
 http://ott-cdn.ucom.am/s11/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3360.png" tvg-name="SONG TV HD AM" group-title="Армения",Song TV
 http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2390.png" tvg-name="տունտունիկ" group-title="Армения",Tuntunik
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2384.png" tvg-name="Armenia Premium" group-title="Армения",Armenia Premium
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 group-title="Армения",Armenia Comedy
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
+http://ott-cdn.ucom.am/s32/04.m3u8
+#EXTINF:-1 group-title="Армения",Bazmoc ATV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
+http://ott-cdn.ucom.am/s74/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
 https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png" tvg-name="Russian Music Box" group-title="Музыкальные",Russian Music Box
