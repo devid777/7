@@ -291,7 +291,7 @@ http://51.68.140.190:8081/tv/ictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2095.png" tvg-name="NewsOne" group-title="Украина",NewsOne HD
 https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2212.png" tvg-name="Прямий HD" group-title="Украина",Прямий HD
-http://api-tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2093.png" tvg-name="112 Україна" group-title="Украина",112 Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2100.png" tvg-name="К1" group-title="Украина",К1
@@ -373,6 +373,11 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1681.png" tvg-name="Охотник и рыболов HD" group-title="Мужские",Охотник и рыболов HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1 tvg-logo="https://img15.lostpic.net/2019/11/12/680a3842560587f79b296189a2207da1.png" group-title="Познавательные",ULTRA REX
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2422.png" tvg-name="HD media orig" group-title="Познавательные",HD Media
+http://dmitry-tv.my1.ru/his/yatv/CH_HDMEDIA.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" tvg-name="Наука HD" group-title="Познавательные",Наука
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s98/04.m3u8
