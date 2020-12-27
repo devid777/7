@@ -180,11 +180,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино HD
 http://185.245.187.150:80/TV1000RusskoeKino/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Фильмы и сериалы",ViP Comedy HD
-http://195.189.105.158:9050/132/index.m3u8
+http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnOGJBaS9STHNLbVJqUHhaSlVCaXNObz0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Фильмы и сериалы",VIP Megahit HD
-http://195.189.105.158:9050/133/index.m3u8?bw886483500620.m3u8
+http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnNzlMK1g1VWk0VWVhL2RnWTJpNWFiOEJyV0ZvcVVIZ2RtcnpjWlc5Sno1cw/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
-http://195.189.105.158:9050/134/index.m3u8
+http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnM1VHdzNVdVN1emRhWDlMVnl0QWVLbm0ra2t1OVFwdFJ3ajRwN2E1YTlnUQ/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/311.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4076.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
