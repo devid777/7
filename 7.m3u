@@ -104,6 +104,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SRU5UVkhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
@@ -165,15 +168,16 @@ http://cdntv.online/hls/5wty783xkf/901.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
 http://cdntv.online/hls/5wty783xkf/906.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
-http://cdntv.online/hls/5wty783xkf/1031.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9CTE9DS0JVU1RFUkhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
 http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
-http://cdntv.online/hls/5wty783xkf/1100.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DT01FRFlIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
-http://tthf1345.ottrast.com/iptv/R3VBF6BXHVUSR6/2438/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
-http://tthf1345.ottrast.com/iptv/R3VBF6BXHVUSR6/2441/index.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9ISVRIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
 http://31.210.171.168:8007/worldkino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 HD
@@ -232,7 +236,8 @@ http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnNXpEeEQvdjQ1U0lSdENRRmZST
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/playlist.m3u8?utcstart=1572699600&version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
-http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdneDQ0ckZTVHUzYXNlT2RjUnZnK2pWcGxxMzFDcHQzS1cyQkI4L291bk5XNg/video.ts
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TT05ZU0NJRkkvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
 http://91.206.19.123:4022/udp/225.0.55.151:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2406.png" tvg-name="Sony Channel HD" group-title="Фильмы и сериалы",Sony Channel
@@ -400,9 +405,20 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/990.png" tvg-name="Animal Planet HD" group-title="Познавательные",Animal Planet
-http://spacetv.in/stream/DIPK8H19CP8/114.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9BTklNQUxQTEFORVQvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
-http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9ESVNDT1ZFUllDSEFOTkVML3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDVfRElTQ09WRVJZU0NJRU5DRUhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3752.png" tvg-name="Nat Geo Wild" group-title="Познавательные",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OQVRHRU9XSUxEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/national-geographic.jpg" group-title="Познавательные",National Geographic HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDRfTkdDSEQvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2028.png" tvg-name="Морской" group-title="Познавательные",Морской 
 http://185.245.187.150:80/Morskoy/index.m3u8?password=886483500620 
 #EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2020/11/pv-logo-e1604451406694.jpg" tvg-name="Под водой" group-title="Познавательные",Под водой HD 
@@ -414,6 +430,21 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2480.png" tvg-name="UFC ТВ" group-title="Спортивные",UFC HD 
 http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2532.png" tvg-name="SHANT Music HD" group-title="Армения",Shant Music HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TSEFOVE1VU0lDSEQvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2634.png" tvg-name="Shant Kids HD" group-title="Армения",Shant Kids HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TSEFOVEtJRFNIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2063.png" tvg-name="Շանթ" group-title="Армения",Shant News HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TSEFOVE5FV1NIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2633.png" tvg-name="Shant Premium HD AM" group-title="Армения",Shant Premium HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TSEFOVFBSRU1JVU1IRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2533.png" tvg-name="Shant Serial HD" group-title="Армения",Shant Serial
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TSEFOVFNFUklBTEhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2394.png" tvg-name="սինեման" group-title="Армения",ATV Cineman
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s66/04.m3u8 
