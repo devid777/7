@@ -32,7 +32,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" tvg-name="НТВ Сериал orig" group-title="Россия",НТВ Сериал 
 http://176.107.250.4:8004/ch122
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ntv_hit_0.png" tvg-name="НТВ-ХИТ orig" group-title="Россия",НТВ Хит 
-http://185.245.187.159:8080/StarCinema/index.m3u8
+http://89.189.191.250/239.211.211.181/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -138,7 +138,8 @@ http://185.245.187.150:80/AmediaPremiumFHD/index.m3u8?password=88648350062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
-http://185.245.187.159:8080/Fox/index.m3u8
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDJfRk9YSEQvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
 http://51.68.140.190:8081/tv/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD 
@@ -248,7 +249,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" tvg-name="Еврокино" group-title="Фильмы и сериалы",Еврокино 
 http://185.245.187.150:80/EvroKino/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
-http://185.245.187.159:8080/Hollywood/index.m3u8?password=886483500620
+http://185.245.187.150:80/HollywoodFHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
 http://185.245.187.150:80/Paramount/index.m3u8?password=886483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Фильмы и сериалы",Paramount Comedy
@@ -267,9 +268,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4175.png" tvg-name="Любимое Кино" group-title="Фильмы и сериалы",Наше любимое кино 
 http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2275.png" tvg-name="Мир Сериала" group-title="Фильмы и сериалы",Мир сериала 
-http://185.245.187.150:80/MirSeriala/index.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4174.png" tvg-name="Русский детектив orig" group-title="Фильмы и сериалы",Русский детектив 
-http://185.245.187.159:8080/FlixSnip/index.m3u8?password=886483500620 
+http://185.245.187.150:80/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4174.png" tvg-name="Русский детектив orig" group-title="Фильмы и сериалы",Русский детектив
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://193.34.79.137:7373/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDRfUlVTU0lBTkRFVEVDVElWRS92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" tvg-name="Русский роман" group-title="Фильмы и сериалы",Русский роман 
 http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4173.png" tvg-name="Русский бестселлер orig" group-title="Фильмы и сериалы",Русский бестселлер 
@@ -454,8 +456,6 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2393.png" tvg-name="ԿԻՆՈՄԱՆ" group-title="Армения",ATV Kinoman
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2060.png" tvg-name="Առաջին Ալիք" group-title="Армения",H1
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4250.png" tvg-name="Հ2" group-title="Армения",H2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)" 
 http://ott-cdn.ucom.am/s2/04.m3u8
