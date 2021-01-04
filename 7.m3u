@@ -116,7 +116,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3034.png" tvg-name="Рен ТВ +6" group-title="Россия",Рен ТВ +6
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Кино",FlixSnip 
+#EXTINF:-1 group-title="Фильмы и сериалы",FlixSnip 
 http://212.66.60.4:8000/play/a0ds
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/33e61c2ac8ef01eff083b39962b8e68c.png" group-title="Фильмы и сериалы",Ulto HD
 http://ultotv.ru:8888/live/uhd/chunks.m3u8
