@@ -162,7 +162,7 @@ http://212.66.60.4:8000/play/a0c9
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnd2Vvd3N4WDhjRHFtZUIzSHNYVDNaYz0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
-http://31.210.171.168:8038/shokiruyshee.m3u8
+http://212.66.60.4:8000/play/a090
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
 http://st.cdn-tv.club/iptv/U3J2c1hmKzFpeVl6cG5Hc0dzbXdnK1FNMHZMNE8zeVp2N3R5c1BJWTRYZz0/video.ts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
