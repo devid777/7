@@ -151,7 +151,8 @@ https://cdnhls.goodgame.ru/hls/181746.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2876.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
 http://cdntv.online/hls/5wty783xkf/901.m3u8
-#EXTINF:-1 tvg-logo="http://all3.tv-online.icu/wp-content/uploads/2020/07/13455234-1.png" group-title="Фильмы и сериалы",PZN HD 
+#EXTINF:-1 tvg-logo="http://all3.tv-online.icu/wp-content/uploads/2020/07/13455234-1.png" group-title="Фильмы и сериалы",PZN HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://hls.goodgame.ru/manifest/180960_master.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
 http://212.66.60.4:8000/play/a090
