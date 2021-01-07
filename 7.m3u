@@ -179,8 +179,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2749.png" tvg-name="Сериал UHD 4K" group-title="Фильмы и сериалы",Сериал UHD 
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.images.viaway.com/21961193_180.png" group-title="Фильмы и сериалы",ПРЕМЬЕРА 
-https://autopilot.catcast.tv/content/39161/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
 http://31.210.171.168:8007/worldkino.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 HD
