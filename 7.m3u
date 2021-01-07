@@ -158,8 +158,7 @@ http://185.245.187.159:8080/Fox/index.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
 http://51.68.140.190:8081/tv/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD 
-#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-http://222.236.226.110:15091/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDRfRk9YTElGRUhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
+http://222.236.226.110:7171/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDRfRk9YTElGRUhEL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI=/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
 http://51.68.140.190:8081/tv/fox-life/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Millenium TV HD
