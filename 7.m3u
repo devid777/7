@@ -48,6 +48,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2766.png" tvg-name="ТВ3" group-title="Россия",ТВ-3 HD
+http://f0488831.xsph.ru/tivimate.m3u8?media=tv3hd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
@@ -60,9 +62,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3015.png" tvg-name="ТВ3 +6" group-title="Россия",ТВ-3 +6
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний HD
+http://f0488831.xsph.ru/tivimate.m3u8?media=domashniihd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2765.png" tvg-name="Пятница! HD" group-title="Россия",Пятница! HD
+http://f0488831.xsph.ru/tivimate.m3u8?media=fridayhd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия",Пятница!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
@@ -89,6 +95,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3024.png" tvg-name="ТНТ +6" group-title="Россия",ТНТ +6
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия", ТНТ4 HD
+http://f0488831.xsph.ru/tivimate.m3u8?media=tnt4hd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
@@ -117,7 +125,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png" tvg-name="Комедийное HD" group-title="Фильмы и сериалы",Комедийное HD
-http://212.66.58.100:8000/play/a03p/index.m3u8
+http://212.66.60.4:8000/play/a0c9
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png" tvg-name="Камеди HD" group-title="Фильмы и сериалы",Камеди HD
 http://45.137.155.62:9573/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DT01FRFlIRC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
