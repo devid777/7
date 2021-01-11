@@ -56,22 +56,22 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3014.png" tvg-name="ТВ3 +4" group-title="Россия",ТВ-3 +4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3015.png" tvg-name="ТВ3 +6" group-title="Россия",ТВ-3 +6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3015.png" tvg-name="ТВ3 +6" group-title="Россия",ТВ-3 +7
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия" catchup="append" catchup-source="?offset=-${offset}" catchup-days="3",Пятница!
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия",Пятница!
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3016.png" tvg-name="Пятница +2" group-title="Россия" catchup="append" catchup-source="?offset=-${offset}" catchup-days="3",Пятница! +2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3016.png" tvg-name="Пятница +2" group-title="Россия",Пятница! +2
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3017.png" tvg-name="Пятница +4" group-title="Россия" catchup="append" catchup-source="?offset=-${offset}" catchup-days="3",Пятница! +4
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3017.png" tvg-name="Пятница +4" group-title="Россия",Пятница! +4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3018.png" tvg-name="Пятница +6" group-title="Россия" catchup="append" catchup-source="?offset=-${offset}" catchup-days="3",Пятница! +7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3018.png" tvg-name="Пятница +6" group-title="Россия",Пятница! +7
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
@@ -85,7 +85,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3023.png" tvg-name="ТНТ +4" group-title="Россия",ТНТ +4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3024.png" tvg-name="ТНТ +6" group-title="Россия",ТНТ +6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3024.png" tvg-name="ТНТ +6" group-title="Россия",ТНТ +7
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
@@ -97,7 +97,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-4 tvg-name="ТНТ4" group-title="Россия",ТНТ4 +4
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-6 tvg-name="ТНТ4" group-title="Россия",ТНТ4 +6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-6 tvg-name="ТНТ4" group-title="Россия",ТНТ4 +7
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
@@ -149,7 +149,7 @@ http://185.112.140.28/Kinopokaz/index.m3u8
 https://cdnhls.goodgame.ru/hls/181746.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2876.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
 http://cdntv.online/hls/5wty783xkf/901.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png" tvg-name="Шокирующее" group-title="Фильмы и сериалы",Шокирующее HD
