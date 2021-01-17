@@ -277,8 +277,6 @@ http://194.156.166.2:8000/play/a02t
 http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2084.png" tvg-name="24 Канал" group-title="Украина",24 Канал 
 http://46.63.0.9:8001/news24
-#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00073.jpg" tvg-name="Терра UA" group-title="Украина",Терра 
-http://185.206.37.17:5555/udp/239.0.251.44:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/maxxi-tv.png" tvg-name="НАШ" group-title="Украина",Наш
 http://46.63.0.9:8001/m1
 #EXTINF:-1 tvg-logo="http://img.rnx.ru/logotvchannel/437-250.jpg" group-title="Украина",Bolt HD 
