@@ -147,9 +147,9 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2876.png" tvg-name="Премиальное" group-title="Фильмы и сериалы",Премиальное HD
 http://188.35.9.11:2017
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
-http://212.79.122.24:7147/fox_hd
+http://136.243.177.164/FOX/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
-http://myott.top/stream/DIPK8H19CP8/182.m3u8
+http://51.195.44.53:8081/tv/fox/chunks.m3u8?token=null
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD 
 http://spacetv.in/stream/DIPK8H19CP8/129.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
