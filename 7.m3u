@@ -107,8 +107,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
-#EXTVLCOPT:http-user-agent=ZSmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s85/04.m3u8
