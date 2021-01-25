@@ -368,7 +368,7 @@ http://212.79.122.24:7143/dikij
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4400.png" tvg-name="Наша тема" group-title="Мужские",Наша Тема 
 http://hlstv.brn.211.ru/239.211.211.172/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4398.png" tvg-name="Охота и рыбалка" group-title="Мужские",Охота и рыбалка 
-http://158.46.65.252:81/udp/239.255.42.39:1234
+http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4104.png" tvg-name="Дикая охота HD" group-title="Мужские",Дикая охота HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2) 
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTAHD.m3u8
