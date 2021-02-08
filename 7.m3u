@@ -20,7 +20,7 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/zvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
 http://iptv.media-ix.com:11375/15/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3014.png" tvg-name="ТВ3 +4" group-title="Россия",ТВ-3 +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+http://185.220.34.89:7171/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9UVjNfNC92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС
 http://iptv.media-ix.com:11375/13/index.m3u8?bw876483500620.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3008.png" tvg-name="СТС +4" group-title="Россия",СТС +4
