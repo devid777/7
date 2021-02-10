@@ -52,7 +52,7 @@ http://persik.by/stream/2347/472449/385.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-shift=-4 tvg-name="Че" group-title="Россия",Че! +4
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
-https://video-4-206.rutube.ru/stream/194.190.76.10/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
+http://109.197.192.121:8080/utv/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний
 http://iptv.media-ix.com:11375/14/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3011.png" tvg-name="Домашний +4" group-title="Россия",Домашний +4
@@ -114,7 +114,7 @@ http://212.79.122.24:7126/amedia_premium
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Фильмы и сериалы",Amedia 1
 http://cdn.nexttvnet.ru/hlsl/1/amedia_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Фильмы и сериалы",Amedia 2
-http://de.iptv.monster/play/261/82FB3C67FAA04EF/video.m3u8
+https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" tvg-name="TRASH HD" group-title="Фильмы и сериалы",TRASH HD
@@ -163,7 +163,7 @@ http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Фильмы и сериалы",TV1000 Action HD
 http://31.210.208.168:8080/tv1000_action/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Фильмы и сериалы",ViP Comedy HD
-http://185.220.35.94:8080/VIPComedyHD/index.m3u8
+http://spacetv.in/stream/DIPK8H19CP8/201.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Фильмы и сериалы",VIP Megahit HD
 http://myott.top/stream/DIPK8H19CP8/200.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
@@ -183,7 +183,7 @@ http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
 http://185.220.35.94:80/kinomiks/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас HD
-http://109.197.192.121:8080/kinouzhas/index.m3u8
+http://spacetv.in/stream/DIPK8H19CP8/278.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино HD
 http://185.112.140.24:8888/muzhkino
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" tvg-name="Индийское Кино" group-title="Фильмы и сериалы",Индийское Кино
@@ -275,7 +275,7 @@ http://185.189.209.29/CTC_Kids_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" tvg-name="Мульт" group-title="Детские",Мульт
 http://spacetv.in/stream/DIPK8H19CP8/232.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/494.png" tvg-name="Jim Jam" group-title="Детские",Jim Jam
-http://persik.by/stream/2347/472449/454.m3u8
+http://cdn.nexttvnet.ru/hlsl/10/JimJam/JimJam_3/index.m3u8?bw876483500620.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4120.png" tvg-name="Cartoon Network HD orig" group-title="Детские",Cartoon network
 http://persik.by/stream/2347/472449/54.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2678.png" tvg-name="Nick Jr" group-title="Детские",Nick Jr.
