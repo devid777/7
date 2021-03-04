@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" group-title="Россия",Первый канал HD
 http://persik.by/stream/2347/472449/10021.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" group-title="Россия",Первый канал
-http://iptv.media-ix.com:11375/1/index.m3u8
+http://80.89.192.109/239.201.90.1/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Россия",Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" group-title="Россия",Россия 1
@@ -21,6 +21,8 @@ http://45.145.32.15:20000/pobeda/video.m3u8
 http://iptv.media-ix.com:11375/15/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС
 http://iptv.media-ix.com:11375/13/index.m3u8?bw876483500620.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" group-title="Россия",СТС Love
+http://31.210.208.168:8080/stslove/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
 http://31.210.208.188:8080/tnt_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия",ТНТ
@@ -37,8 +39,6 @@ http://iptv.media-ix.com:11375/4/index.m3u8
 http://91.192.168.251:8401
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" tvg-name="НТВ Сериал orig" group-title="Россия",НТВ Сериал
 http://45.145.32.11:20016/ntv_serial/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" group-title="Россия",СТС Love
-http://31.210.208.168:8080/stslove/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота HD
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
@@ -67,26 +67,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" group-title="Россия",Сарафан 
 http://31.210.208.168:8080/sarafan/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-marvel-hd.png" group-title="Фильмы и сериалы",BCU Marvel HD 
-http://45.139.184.105:8080/BCU_Marvel/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-cinema-hd.png" group-title="Фильмы и сериалы",BCU Cinema HD 
-http://45.139.184.105:8080/BCU_Cinema/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-vhs-hd.png" group-title="Фильмы и сериалы",BCU VHS HD 
-http://45.139.184.105:8080/BCU_VHS/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-premiere.png" group-title="Фильмы и сериалы",BCU Premiere HD 
-http://45.139.184.105:8080/BCU_Premiere/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-fantastic-hd.png" group-title="Фильмы и сериалы",BCU Fantastic HD 
-http://45.139.184.105:8080/BCU_Fantastic/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-action.png" group-title="Фильмы и сериалы",BCU Action HD 
-http://45.139.184.105:8080/BCU_Action/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-premiere.png" group-title="Фильмы и сериалы",BCU Premiere 1 HD 
-http://45.139.184.105:8080/BCU_Premiere_1/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-premiere.png" group-title="Фильмы и сериалы",BCU Premiere 2 HD 
-http://45.139.184.105:8080/BCU_Premiere_2/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-premiere.png" group-title="Фильмы и сериалы",BCU Premiere 3 HD 
-http://45.139.184.105:8080/BCU_Premiere_3/video.m3u8?token=freetest 
-#EXTINF:-1 tvg-logo="https://www.crdru.net/b/templates/ottch/bcu-premiere.png" group-title="Фильмы и сериалы",BCU Premiere 4 HD 
-http://45.139.184.105:8080/BCU_Premiere_4/video.m3u8?token=freetest
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 https://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
@@ -137,6 +117,8 @@ http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 http://81.163.39.156:8384/udp/233.166.172.133:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ
 http://45.145.32.15:20001/kino_tv/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2275.png" tvg-name="Мир Сериала" group-title="Фильмы и сериалы",Мир сериала
+http://91.201.177.2:2517/udp/239.192.3.150:2121
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4174.png" tvg-name="Русский детектив orig" group-title="Фильмы и сериалы",Русский детектив
 http://31.210.208.168:8080/russian_detek/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" tvg-name="Русский роман" group-title="Фильмы и сериалы",Русский роман 
@@ -209,20 +191,6 @@ http://31.210.208.168:8080/illuzion_plus/index.m3u8
 http://51.68.140.190:8081/tv/evrokino/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
 http://94.100.220.44:8080/HollywodHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/26f0316abe69b36560de4a1ab7ca6f65.png" group-title="Фильмы и сериалы",Premium HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19547 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/9bfc70cfeaa7a840c084673f26ec11dc.png" group-title="Фильмы и сериалы",РуКино HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19549 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/fd48379f478ddf1db0e1ba69255247eb.png" group-title="Фильмы и сериалы",Premiere HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19550 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/b058fde930f32cda05241addecca0b2a.png" group-title="Фильмы и сериалы",Thriller HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19677 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/83c57a81ab73ed1a3a3e3e5b4cc9127d.jpg" group-title="Фильмы и сериалы",Paradox HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/47349 
-#EXTINF:-1 group-title="Фильмы и сериалы",Paradise HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19551 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/f5e35b21846ab4a21be9c4fd5c92c80d.png" group-title="Фильмы и сериалы",Serial HD 
-http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/64127
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3691.png" group-title="Фильмы и сериалы",AMC 
 http://46.39.155.122:80/amc/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
