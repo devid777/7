@@ -39,8 +39,6 @@ http://31.210.208.168:8080/tnt4/tracks-v1a1/mono.m3u8
 http://31.210.208.166:8080/ntv_hd/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" tvg-name="НТВ-ХИТ orig" group-title="Россия",НТВ Хит 
-http://91.192.168.251:8401
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" tvg-name="НТВ Сериал orig" group-title="Россия",НТВ Сериал
 http://45.145.32.11:20016/ntv_serial/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота HD
@@ -72,10 +70,8 @@ http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" group-title="Россия",Сарафан 
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://img12.lostpic.net/2018/05/12/0261cea9d2a83afbd1d5afd38d28a591.png" group-title="Фильмы и сериалы",ФАНТАСТИКА HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 http://hls.goodgame.ru:80/hls/181070.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD 
-http://cache0.airnet.lt/z3/epicdramahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/6211.png" group-title="Фильмы и сериалы",Сиеста HD
 http://194.190.78.91:8080/siesta/index.m3u8?946483500620 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
