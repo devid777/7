@@ -35,6 +35,8 @@ http://iptv.media-ix.com:11375/19/index.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
 http://31.210.208.168:8080/tnt4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" tvg-name="НТВ HD" group-title="Россия",НТВ HD
+http://31.210.208.166:8080/ntv_hd/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" tvg-name="НТВ-ХИТ orig" group-title="Россия",НТВ Хит 
@@ -45,8 +47,6 @@ http://45.145.32.11:20016/ntv_serial/video.m3u8
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 http://31.210.208.168:8080/super/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://tsn.streaming-elbrus.tk:80/rentv/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
@@ -71,9 +71,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" group-title="Россия",Сарафан 
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы",ФАНТАСТИКА HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#EXTINF:-1 tvg-logo="http://img12.lostpic.net/2018/05/12/0261cea9d2a83afbd1d5afd38d28a591.png" group-title="Фильмы и сериалы",ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru:80/hls/181070.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD 
+http://cache0.airnet.lt/z3/epicdramahd/index.m3u8
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/6211.png" group-title="Фильмы и сериалы",Сиеста HD
+http://194.190.78.91:8080/siesta/index.m3u8?946483500620 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://94.232.127.13/z3/foxhd/index.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
