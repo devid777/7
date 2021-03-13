@@ -72,6 +72,7 @@ http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" group-title="Россия",Сарафан 
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://hls.goodgame.ru:80/hls/181070.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://94.232.127.13/z3/foxhd/index.m3u8
