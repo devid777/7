@@ -71,8 +71,8 @@ http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ 
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=anekdot
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/6211.png" group-title="Фильмы и сериалы",Сиеста HD
-http://194.190.78.91:8080/siesta/index.m3u8?946483500620 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
+https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://94.232.127.13/z3/foxhd/index.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
@@ -113,8 +113,6 @@ http://cdn.nexttvnet.ru/hlsl/1/TrashHD/index.m3u8
 http://persik.by/stream/0264/420211/10454.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4076.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
 http://31.210.208.168:8080/kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2876.png" tvg-name="Премиальное HD" group-title="Фильмы и сериалы",Премиальное HD
-http://45.141.194.15:20000/a2b46b340f431e5a574a3ff67df2e2e1/tracks-v1a1/mono.m3u8?wowzasessionid=946483500620&time=1463063123262
 #EXTINF:-1 tvg-logo="http://televizor.org/img/logopit/Millenium%20TV.png" group-title="Фильмы и сериалы",Millenium TV HD
 http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ HD
@@ -241,28 +239,30 @@ https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8?bw946483500620.m3u8
 http://iptv.prosto.tv:7000/ch10/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2545.png" tvg-name="ОНТ" group-title="Украина",ОНТ 
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер
-https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2263.png" tvg-name="Інтер" group-title="Украина",Интер---
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2154.png" tvg-name="Интер+" group-title="Украина",Интер+
 http://flu.ttk.mx:9090/Inter+/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2102.png" tvg-name="Enter-фільм" group-title="Украина",Enter-фильм
 http://iptv.prosto.tv:7000/ch54/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН 
-http://91.235.68.32:10542
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2105.png" tvg-name="НТН" group-title="Украина",НТН---
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8?bw946483500620.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2690.png" tvg-name="Zoom" group-title="Украина",Zoom 
+http://iptv.prosto.tv:7000/ch13/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2858.png" tvg-name="Україна 24 HD" group-title="Украина",Украина 24
+http://46.63.0.9:8002/indigo
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2194.png" tvg-name="1+1" group-title="Украина",1+1
 http://51.68.140.190:8081/tv/1+1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2195.png" tvg-name="2+2" group-title="Украина",2+2
-https://95-213-224-179.livesports24.online/ua2plus2.m3u8
+http://iptv.prosto.tv:7000/ch8/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ UA" group-title="Украина",СТБ
-http://45.141.194.12:20000/c354f18604bf745ee94f090b84aa9aac/tracks-v1a1/mono.m3u8?wowzasessionid=946483500620&time=1463063123262
+http://iptv.prosto.tv:7000/ch4/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2171.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ
-http://163.172.71.147:8080/tet/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2380.png" tvg-name="UKRAINE 1" group-title="Украина",UKRAINE 1 
-http://45.141.194.15:20000/8cac3f992dc19c5ca2efad1ca710d406/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/ukraine2.png" group-title="Украина",UKRAINE 2 
-http://45.141.194.12:20000/57b9a5fe4ec66d4b95334118cf514dc8/tracks-v1a1/mono.m3u8
+http://iptv.prosto.tv:7000/ch7/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3347.png" tvg-name="ОЦЕ" group-title="Украина",ОЦЕ HD 
-http://45.141.194.12:20000/d6bc9bd7402a45b96c9bf96ee9b1f862/tracks-v1a1/mono.m3u8
+http://iptv.prosto.tv:7000/ch18/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Украина",Інший
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2197.png" tvg-name="Бiгудi" group-title="Украина",Бигуди--
 http://91.235.68.32:10562
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2210.png" tvg-name="Сонце" group-title="Украина",Сонце
@@ -283,11 +283,11 @@ http://cdn.nexttvnet.ru/hlsl/10/O/index.m3u8
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4218.png" tvg-name="Карусель" group-title="Детские",Карусель 
 http://185.78.112.46:8077/karusel/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3350.png" tvg-name="ПлюсПлюс HD" group-title="Детские",ПлюсПлюс HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3350.png" tvg-name="ПлюсПлюс HD" group-title="Детские",ПлюсПлюс HD---
 http://212.66.58.100:8000/play/a034
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2203.png" tvg-name="Малятко ТВ" group-title="Детские",Малятко TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2203.png" tvg-name="Малятко ТВ" group-title="Детские",Малятко TV---
 http://46.63.0.9:8004/malyatkotv
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3316.png" tvg-name="Пиксель UA" group-title="Детские",Піксель TV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3316.png" tvg-name="Пиксель UA" group-title="Детские",Піксель TV---
 http://212.66.58.100:8000/play/a02y
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
 http://81.163.39.156:8384/udp/233.166.172.188:1234
@@ -401,4 +401,3 @@ https://v2.catcast.tv/content/35676/index.m3u8
 https://v2.catcast.tv/content/38710/index.m3u8
 #EXTINF:-1 group-title="Кинозал",(akudji) 
 https://hls.goodgame.ru/hls/5346.m3u8
-
