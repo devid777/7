@@ -71,6 +71,8 @@ http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ 
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=anekdot
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4459.png" tvg-name="FLUX HD" group-title="Фильмы и сериалы",Flux HD
+https://only.aurabook.site:10000/37/video.m3u8?token=ONLY
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
