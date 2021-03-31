@@ -160,7 +160,7 @@ http://94.232.127.13/z3/muzhskoekino/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://51.195.44.53:8081/tv/nst/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png" tvg-name="Страшное HD" group-title="Фильмы и сериалы",Страшное HD 
-http://tsn.streaming-elbrus.tk:8080/jghftyjfghcv/video.m3u8?token=tsn
+http://tsn.streaming-elbrus.tk:8080/jghftyjfghcv/mpegts?token=tsntop
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
 http://193.176.179.38:8087/xxi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
@@ -198,23 +198,31 @@ http://31.128.159.41:8080/mosfilm/index.m3u8?password=946483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://45.145.32.15:20001/mosfilm/video.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/1a/ee/c31aee9e-3d68-cf53-9abb-2f6254da3c38/source/200x200bb.jpg" group-title="Фильмы и сериалы",Мосфильм 
-http://2.57.186.111/online/mosfilm/index.m3u8?key=test18-03
+http://1.sr-vk.info/online/mosfilm/index.m3u8?key=file2
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/1b53dd8901120e020bda58a74bfcc197.png" group-title="Фильмы и сериалы",Ленфильм
-http://2.57.186.111/online/lenfilm/index.m3u8?key=test18-03 
+http://1.sr-vk.info/online/lenfilm/index.m3u8?key=file2
+#EXTINF:-1 group-title="Фильмы и сериалы",Беларусьфильм 
+http://sr-vk.info/online/belarusfilm/index.m3u8?key=file2 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/d8425f4ce702595b334548bff6b2c3b8.png" group-title="Фильмы и сериалы",Киностудия М. Горького
 http://2.57.186.111/online/gor/index.m3u8?key=test18-03 
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/7f47a1bb0836c7fab6a984eb7c0ed694.png" group-title="Фильмы и сериалы",СССР HD
-http://2.57.186.111/online/sssrhd/index.m3u8?key=test18-03 
+http://1.sr-vk.info/online/sssrhd/index.m3u8?key=file2
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/7f47a1bb0836c7fab6a984eb7c0ed694.png" group-title="Фильмы и сериалы",СССР 
-http://2.57.186.111/online/sssr/index.m3u8?key=test18-03 
+http://sr-vk.info/online/sssr/index.m3u8?key=file2
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/7f47a1bb0836c7fab6a984eb7c0ed694.png" group-title="Фильмы и сериалы",СССР 1
-http://2.57.186.111/online/sssr1/index.m3u8?key=test18-03 
+http://sr-vk.info/online/sssr1/index.m3u8?key=file2 
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/7f47a1bb0836c7fab6a984eb7c0ed694.png" group-title="Фильмы и сериалы",СССР 2 
-http://2.57.186.111/online/sssr2/index.m3u8?key=test18-03 
+http://sr-vk.info/online/sssr2/index.m3u8?key=file2 
 #EXTINF:-1 tvg-logo="http://www.heraldicum.ru/ukraine/images/ursr37.gif" group-title="Фильмы и сериалы",Украинская ССР 
 http://2.57.186.111/online/ussr/index.m3u8?key=test18-03
-#EXTINF:-1 tvg-logo="https://img16.lostpic.net/2019/11/28/7d3f0aec6df617370e88120083048c52.png" group-title="Фильмы и сериалы",Сделано в СССР
-http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1181277661613740033/jNraoBOz_200x200.jpg" group-title="Фильмы и сериалы",Сделано в СССР
+http://cdn-xtg83ww2.vse-tv.net/made_in_ussr/playlist.m3u8?token=2QyePt29xpnr4jfa6xvknnF9
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/1115.png" group-title="Фильмы и сериалы",Комедия 
+http://sr-vk.info/online/comedy/index.m3u8?key=file2
+#EXTINF:-1 group-title="Фильмы и сериалы",Советский кинопрокат 
+http://sr-vk.info/online/zarubez/index.m3u8?key=file2 
+#EXTINF:-1 group-title="Фильмы и сериалы",Милицейский канал 
+http://sr-vk.info/online/mentfilm/index.m3u8?key=file2 
 #EXTINF:-1 tvg-logo="https://love90.org/wp-content/uploads/2016/05/logo.png" group-title="Фильмы и сериалы",Фильмы 90-Х 
 http://2.57.186.111/online/90x/index.m3u8?key=test18-03
 #EXTINF:-1 tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/TOPUSSR200.png" group-title="Фильмы и сериалы",TOP СССР
