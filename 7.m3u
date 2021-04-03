@@ -72,87 +72,61 @@ http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ 
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=anekdot
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/2b792c2ed5518804c22fed12ed584692.jpg" group-title="Фильмы и сериалы",BCU Action
-http://87.99.87.203:1985/channel/n4327add2/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n4327add2/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/919f6072b7dd06bcaf2394c54d37f088.jpg" group-title="Фильмы и сериалы",BCU Catastrophe
-http://87.99.87.203:1985/channel/n53786a54/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n53786a54/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/179d30db67811263d7507c6630ad6296.jpg" group-title="Фильмы и сериалы",BCU Cinema
-http://87.99.87.203:1985/channel/n3f6c3917/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n3f6c3917/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c694a4d34b380968a5473da5c73cf6d8.jpg" group-title="Фильмы и сериалы",BCU Comedy HD
-http://87.99.87.203:1985/channel/n591a3315/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n591a3315/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/7a9fa402b1ea6eff7c0f8757e3694098.jpg" group-title="Фильмы и сериалы",BCU Criminal HD
-http://87.99.87.203:1985/channel/n2b1db083/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog
+http://87.99.87.203:1985/channel/n2b1db083/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6e5a8ed9ace4de129515212abff5a533.jpg" group-title="Фильмы и сериалы",BCU Fantastic HD
-http://87.99.87.203:1985/channel/n3cd192c7/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n3cd192c7/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/fe8a8586b3d547797fcf95a8db3bd964.jpg" group-title="Фильмы и сериалы",BCU FilMystic HD
-http://87.99.87.203:1985/channel/n578f933c/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/748845bfbcd7d24d8fdeda9f52b57ed2.png" group-title="Фильмы и сериалы",BCU HEVC
-http://87.99.87.203:1985/channel/n31ef24da/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n578f933c/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/456750026a8aeafce9278eb61e3c93b3.jpg" group-title="Фильмы и сериалы",BCU History
-http://87.99.87.203:1985/channel/5ab18f9c/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/5ab18f9c/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd24a344d18bc01cd339db36de9832b6.jpg" group-title="Фильмы и сериалы",BCU Kids HD
-http://87.99.87.203:1985/channel/n770c169/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n770c169/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f4920c77a4cfe0f61db080fde81cc16d.jpg" group-title="Фильмы и сериалы",BCU Kinorating HD
-http://87.99.87.203:1985/channel/4ebd3aa8/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/4ebd3aa8/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" group-title="Фильмы и сериалы",BCU Marvel DC
-http://87.99.87.203:1985/channel/n17349838/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n17349838/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" group-title="Фильмы и сериалы",BCU Premiere
-http://87.99.87.203:1985/channel/n1a7888f/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n1a7888f/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9500c3bceee76d081884b3a253d98ee2.jpg" group-title="Фильмы и сериалы",BCU RUSerial HD
-http://87.99.87.203:1985/channel/2c917ecd/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/2c917ecd/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/90ab1c7ba20febd12e9c44fb58f1ce0b.jpg" group-title="Фильмы и сериалы",BCU Romantic
-http://87.99.87.203:1985/channel/3c684769/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/3c684769/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f8e149b917568063a1e4315be5e8c4fb.jpg" group-title="Фильмы и сериалы",BCU Russian HD
-http://87.99.87.203:1985/channel/5af33ca1/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/5af33ca1/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9b1dcf5891c325c7ffd4e41f782bdaf3.jpg" group-title="Фильмы и сериалы",BCU Stars
-http://87.99.87.203:1985/channel/n7d046e97/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/d4adcf0dd49dd9b25331e689a92c932c.jpg" group-title="Фильмы и сериалы",BCU Ultra 4K
-http://87.99.87.203:1985/channel/n1e468f99/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n7d046e97/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c56d50fbede5ab938c67f4dfd99cf428.jpg" group-title="Фильмы и сериалы",BCU VHS HD
-http://87.99.87.203:1985/channel/n20de7a8d/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n20de7a8d/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" group-title="Фильмы и сериалы",BCU Кинозал Premiere 1 HD
-http://87.99.87.203:1985/channel/n2a540623/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n2a540623/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" group-title="Фильмы и сериалы",BCU Кинозал Premiere 2 HD
-http://87.99.87.203:1985/channel/n2a5391c4/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n2a5391c4/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" group-title="Фильмы и сериалы",BCU Кинозал Premiere 3 HD
-http://87.99.87.203:1985/channel/n2a531d65/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n2a531d65/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/282231e4df7f1332be5d9e8294197de2.jpg" group-title="Фильмы и сериалы",BCU Кинозал Premiere 4 HD
-http://87.99.87.203:1985/channel/n2a52a906/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/n2a52a906/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/07861ea2ebd468670d469513b60d2d8c.jpg" group-title="Фильмы и сериалы",BCU Мультсериал HD
-http://87.99.87.203:1985/channel/46ad0cd3/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/46ad0cd3/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/29b7544aa704d0a69c0df2d205e33ac5.jpg" group-title="Фильмы и сериалы",BCU СССР HD
-http://87.99.87.203:1985/channel/7295b7a5/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
+http://87.99.87.203:1985/channel/7295b7a5/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9ccc6de6ea6ad2661413bc51087d1d74.jpg" group-title="Фильмы и сериалы",BCU Сваты HD
-http://87.99.87.203:1985/channel/n7f3890b4/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.wThWo6rGxlnmIEgY8MoF8V4Fr1Vst2fx3xL-Id1B_jfCFqmDHMIzirtLYsO8xqJ8gSVhkiuTE48xGr04wfgCog 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c2283ed3c146eb7044257fdbf7c8d5b3.jpg" group-title="Фильмы и сериалы",BCU Marvel HD
-https://only.aurabook.site:10000/7/video.m3u8?token=IPTVIN.RU2
-#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2020-02/1581531855_022453f2c25bb1b0847a8f990915c704.jpg" group-title="Фильмы и сериалы",Кинозал Сваты HD
-https://only.aurabook.site:10000/24/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/29b7544aa704d0a69c0df2d205e33ac5.jpg" group-title="Фильмы и сериалы",BCU СССР HD
-https://only.aurabook.site:10000/8/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9500c3bceee76d081884b3a253d98ee2.jpg" group-title="Фильмы и сериалы",BCU RUSerial HD
-https://only.aurabook.site:10000/9/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/2b792c2ed5518804c22fed12ed584692.jpg" group-title="Фильмы и сериалы",BCU Action HD
-https://only.aurabook.site:10000/10/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/179d30db67811263d7507c6630ad6296.jpg" group-title="Фильмы и сериалы",BCU Cinema HD
-https://only.aurabook.site:10000/11/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/bd514397638110cb6833202f4af115bb.jpg" group-title="Фильмы и сериалы",BCU Kids+ HD
-https://only.aurabook.site:10000/12/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/fe8a8586b3d547797fcf95a8db3bd964.jpg" group-title="Фильмы и сериалы",BCU FilMystic HD
-https://only.aurabook.site:10000/13/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c694a4d34b380968a5473da5c73cf6d8.jpg" group-title="Фильмы и сериалы",BCU Comedy HD
-https://only.aurabook.site:10000/14/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/919f6072b7dd06bcaf2394c54d37f088.jpg" group-title="Фильмы и сериалы",BCU Catastrophe HD 
-https://only.aurabook.site:10000/16/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/456750026a8aeafce9278eb61e3c93b3.jpg" group-title="Фильмы и сериалы",BCU History HD
-https://only.aurabook.site:10000/17/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/c56d50fbede5ab938c67f4dfd99cf428.jpg" group-title="Фильмы и сериалы",BCU VHS HD
-https://only.aurabook.site:10000/18/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6e5a8ed9ace4de129515212abff5a533.jpg" group-title="Фильмы и сериалы",BCU Fantastic HD
-https://only.aurabook.site:10000/19/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/f4920c77a4cfe0f61db080fde81cc16d.jpg" group-title="Фильмы и сериалы",BCU Kinorating HD 
-https://only.aurabook.site:10000/38/video.m3u8?token=IPTVIN.RU2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4459.png" tvg-name="FLUX HD" group-title="Фильмы и сериалы",Flux HD
-https://only.aurabook.site:10000/37/video.m3u8?token=IPTVIN.RU2
+http://87.99.87.203:1985/channel/n7f3890b4/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.93gvFGFC--uT1XArdpuFuI4ZKz11NQUm8eKJhdHeZX11fPlGZ5aHoOyDBWpGnvogx09mJxEx8AzlOhhUftlrLA
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9f7574ed22a23d45a33442ea131b8f33.png" group-title="Фильмы и сериалы",BackusTV
+http://stream.backustv.ru/content/39837/index.m3u8 
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6527740275771301004b68475fef81da.png" group-title="Фильмы и сериалы",BackusTV Страшное
+http://stream.backustv.ru/content/39864/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07022021/banners/39005-60201aeea4e59.jpg" group-title="Фильмы и сериалы",КИНОКЛУБ 
+https://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
+https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
@@ -222,7 +196,7 @@ http://31.134.132.245:8080/nashe_novoe_kino_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия HD
 http://45.145.32.11:20014/kinoserija/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Фильмы и сериалы",Кинохит HD
-http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
+http://45.145.32.11:20014/kinoxit/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" tvg-name="Киносемья" group-title="Фильмы и сериалы",Киносемья HD
 http://45.145.32.11:20014/kinosemja/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2519.png" tvg-name="Кинокомедия" group-title="Фильмы и сериалы",Кинокомедия HD
@@ -267,10 +241,12 @@ http://45.145.32.11:20007/paramount_channel/video.m3u8
 http://45.145.32.11:20007/paramount_comedy/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" tvg-name="Индийское Кино" group-title="Фильмы и сериалы",Индийское Кино
 http://212.79.122.24:7202/Indijskoe_Kino
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ntv_hit_0.png" tvg-name="НТВ-ХИТ orig" group-title="Фильмы и сериалы",НТВ Хит  
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" tvg-name="НТВ-ХИТ orig" group-title="Фильмы и сериалы",НТВ Хит  
 http://91.192.168.251:8401
-#EXTINF:-1 tvg-logo="https://www.wifire.ru/uploads/tv_channels/429.jpeg" group-title="Фильмы и сериалы",НТВ Право 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png" tvg-name="НТВ Право" group-title="Фильмы и сериалы",НТВ Право 
 http://45.145.32.11:20016/ntv_pravo/video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2773.png" tvg-name="День Победы HD" group-title="Фильмы и сериалы",День Победы HD
+http://31.210.173.69:8000/play/a011/index.m3u8?token=sdfgfh54v33453fgefgrt3
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" tvg-name="Дом Кино" group-title="Фильмы и сериалы",Дом кино 
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png" tvg-name="Дом Кино Премиум HD" group-title="Фильмы и сериалы",Дом кино Премиум HD 
@@ -281,10 +257,6 @@ http://31.128.159.41:8080/mosfilm/index.m3u8?password=946483500620
 http://45.145.32.15:20001/mosfilm/video.m3u8
 #EXTINF:-1 tvg-logo="https://img11.lostpic.net/2020/09/24/7f47a1bb0836c7fab6a984eb7c0ed694.png" group-title="Фильмы и сериалы",СССР HD
 http://1.sr-vk.info/online/sssrhd/index.m3u8?key=file2
-#EXTINF:-1 tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/TOPUSSR200.png" group-title="Фильмы и сериалы",TOP СССР
-https://only.aurabook.site:10000/21/video.m3u8?token=IPTVIN.RU2 
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/17dba64f17bda70fd7c8538b605a4da6.png" group-title="Фильмы и сериалы",Назад в 90е
-https://only.aurabook.site:10000/23/video.m3u8?token=IPTVIN.RU2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2119.png" tvg-name="MAXXI TV" group-title="Украина",НАШ
