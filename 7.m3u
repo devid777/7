@@ -211,7 +211,7 @@ http://45.145.32.15:20001/mosfilm/video.m3u8
 http://1.sr-vk.info/online/sssrhd/index.m3u8?key=file2
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1115.png" group-title="Фильмы и сериалы",Комедия 
 http://sr-vk.info/online/comedy/index.m3u8?key=files 
-#EXTINF:-1 group-title="Фильмы и сериалы",Зарубежные фильмы 
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/5425b99a69a18814fc01e16ff820c755.jpg" group-title="Фильмы и сериалы",Зарубежные фильмы 
 http://sr-vk.info/online/zarubez/index.m3u8?key=files
 #EXTINF:-1 tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/TOPUSSR200.png" group-title="Фильмы и сериалы",TOP СССР 
 https://only.aurabook.site:10000/21/video.m3u8?token=98456306&946483500620
