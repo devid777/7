@@ -30,7 +30,7 @@ http://31.134.132.245:8080/sts-love/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png" tvg-name="ТНТ HD" group-title="Россия",ТНТ HD
 http://flu.ttk.mx:9090/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия",ТНТ
-http://iptv.media-ix.com:11375/19/index.m3u8
+http://195.49.206.244:90/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия", ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
@@ -62,7 +62,7 @@ http://iptv.media-ix.com:11375/16/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" tvg-name="Москва Доверие" group-title="Россия",Москва доверие
 http://flu.ttk.mx:9090/Doverie/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+http://195.49.206.244:90/TVC/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2361.png" tvg-name="Мир" group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2023.png" tvg-name="Мир Premium" group-title="Россия",Мир Premium HD 
@@ -73,6 +73,8 @@ http://51.68.140.190:8081/tv/kvn-tv/playlist.m3u8
 http://flu.ttk.mx:9090/Sarafan/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ 
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=anekdot
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4185.png" tvg-name="Феникс плюс Кино orig" group-title="Фильмы и сериалы",Феникс+Кино
+http://78.30.254.135/1934/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/9f7574ed22a23d45a33442ea131b8f33.png" group-title="Фильмы и сериалы",BackusTV
 http://stream.backustv.ru/content/39837/index.m3u8 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/6527740275771301004b68475fef81da.png" group-title="Фильмы и сериалы",BackusTV Страшное
@@ -213,10 +215,6 @@ http://1.sr-vk.info/online/sssrhd/index.m3u8?key=file2
 http://sr-vk.info/online/comedy/index.m3u8?key=files 
 #EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/04/5425b99a69a18814fc01e16ff820c755.jpg" group-title="Фильмы и сериалы",Зарубежные фильмы 
 http://sr-vk.info/online/zarubez/index.m3u8?key=files
-#EXTINF:-1 tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/TOPUSSR200.png" group-title="Фильмы и сериалы",TOP СССР 
-https://only.aurabook.site:10000/21/video.m3u8?token=98456306&946483500620
-#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/03/17dba64f17bda70fd7c8538b605a4da6.png" group-title="Фильмы и сериалы",Назад в 90е 
-https://only.aurabook.site:10000/23/video.m3u8?token=98456306&946483500620
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2119.png" tvg-name="MAXXI TV" group-title="Украина",НАШ
@@ -299,6 +297,8 @@ http://51.68.140.190:8081/tv/2x2/playlist.m3u8
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4396.png" tvg-name="Дикий" group-title="Мужские",Дикий 
 http://109.200.130.124:15500/dikiy
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4103.png" tvg-name="Трофей HD" group-title="Мужские",Трофей 
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4400.png" tvg-name="Наша тема" group-title="Мужские",Наша Тема 
 http://hlstv.brn.211.ru/239.211.211.172/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2483.png" tvg-name="Дикая охота HD" group-title="Мужские",Дикая охота HD 
@@ -311,6 +311,8 @@ http://78.30.254.135/2197/tracks-v1a1/index.m3u8?token=gelow74
 http://195.49.206.244:90/Ohota_i_rybalka/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1681.png" tvg-name="Охотник и рыболов HD" group-title="Мужские",Охотник и рыболов HD
 http://31.134.132.242:8080/ohot_i_rybolov_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2422.png" tvg-name="HD media orig" group-title="Познавательные",HD Media
+http://94.230.240.12:8080/hdmedia/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" tvg-name="Наука HD" group-title="Познавательные",Наука
 http://195.49.206.244:90/Nauka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png" tvg-name="Приключения HD" group-title="Познавательные",Приключения HD
