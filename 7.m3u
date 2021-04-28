@@ -85,34 +85,22 @@ http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8?token=gelow74
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
 http://89.104.114.7:8080/fox-life/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино HD
-http://moretvlive-vitrina.cdnvideo.ru/hls-livecn1/streams/hls/TV1000_Russian_Kino_HD/index_6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино 
 http://188.43.8.141/play/a04g/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 HD
-http://moretvlive-vitrina.cdnvideo.ru/hls-livecn1/streams/hls/TV1000_HD/index_6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 
 http://188.43.8.141/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Фильмы и сериалы",TV1000 Action HD
-http://moretvlive-vitrina.cdnvideo.ru/hls-livecn1/streams/hls/TV1000_Action_HD/index_6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Фильмы и сериалы",TV1000 Action 
 http://188.43.8.141/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="VIP Comedy" group-title="Фильмы и сериалы",ViP Comedy HD
 http://188.40.68.167/russia/vip_comedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" tvg-name="VIP Megahit" group-title="Фильмы и сериалы",VIP Megahit HD
-http://moretvlive-vitrina.cdnvideo.ru/hls-livecn1/streams/hls/ViP_Megahit_HD/index_6.m3u8
+http://195.189.105.158:9050/133/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" tvg-name="VIP Premiere" group-title="Фильмы и сериалы",ViP Premiere HD
 http://188.43.8.141/play/a04m/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="VIP Serial HD" group-title="Фильмы и сериалы",VIP Serial HD
-http://moretvlive-vitrina.cdnvideo.ru/hls-livecn1/streams/hls/VIP_SERIAL/index_6.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png" tvg-name="Блокбастер HD" group-title="Фильмы и сериалы",Блокбастер HD
-http://85.236.191.231:9981/stream/channelid/910191168
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3295.png" tvg-name="Spike HD" group-title="Фильмы и сериалы",Spike
 http://176.222.190.76/btv/SWM/Spike/Spike.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4185.png" tvg-name="Феникс плюс Кино orig" group-title="Фильмы и сериалы",Феникс+Кино
-https://moretvlive-vitrina.cdnvideo.ru/hls-livecn2/streams/hls/Fenix_Kino/index_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Фильмы и сериалы",Amedia Hit HD
 http://212.79.122.24:7125/amedia_hit
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
@@ -203,6 +191,10 @@ http://89.223.46.189:8080/ntv_pravo/tracks-v1a1/mono.m3u8
 http://89.223.46.189:8080/ntv_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция HD
 http://31.128.159.41:8080/mosfilm/index.m3u8?password=946483500620
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2097.png" tvg-name="СТБ UA" group-title="Украина",СТБ
+http://51.15.176.84/hls/stb-live/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2180.png" tvg-name="Україна" group-title="Украина",Україна
+http://51.15.176.84/hls/ukraina-live/index.m3u8
 #EXTINF:-1 tvg-logo="https://storage.viasat-start.com.ua/5f521e873dad2/200x100-1ii-nezal.png" group-title="Украина",Перший Незалежний 
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2147.png" tvg-name="UA" group-title="Украина",UA:Перший
