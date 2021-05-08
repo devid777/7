@@ -67,6 +67,8 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1
 http://iptv.media-ix.com:11375/16/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" tvg-name="Москва Доверие" group-title="Россия",Москва доверие
 http://31.134.132.245:8080/moskva_doverie/mpegts
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый канал" group-title="Россия",Пятый канал 
+http://46.254.241.94:455/test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
 http://persik.by/stream/6696/480248/237.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2361.png" tvg-name="Мир" group-title="Россия",Мир HD
@@ -360,6 +362,69 @@ http://194.190.78.91:8080/podvodoi/index.m3u8
 http://persik.by/stream/6696/480248/33.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" tvg-name="Матч! Боец" group-title="Спортивные",Матч! Боец
 https://95-213-224-183.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2991.png" tvg-name="Муз ТВ +4" tvg-shift="+2" group-title="Общие",Муз ТВ +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2991.png" tvg-name="Муз ТВ +4" group-title="Общие",Муз ТВ +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2991.png" tvg-name="Муз ТВ +4" tvg-shift="+7" group-title="Общие",Муз ТВ +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3010.png" tvg-name="Домашний +2" group-title="Общие",Домашний +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3011.png" tvg-name="Домашний +4" group-title="Общие",Домашний +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3012.png" tvg-name="Домашний +6" group-title="Общие",Домашний +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2039.png" tvg-name="Звезда (+2)" group-title="Общие",Звезда +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3035.png" tvg-name="Звезда +4" group-title="Общие",Звезда +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3036.png" tvg-name="Звезда +6" group-title="Общие",Звезда +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2033.png" tvg-name="Карусель" tvg-shift="+2" group-title="Общие",Карусель +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2033.png" tvg-name="Карусель" tvg-shift="+4" group-title="Общие",Карусель +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2033.png" tvg-name="Карусель" tvg-shift="+7" group-title="Общие",Карусель +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3019.png" tvg-name="Мир +2" group-title="Общие",Мир +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3020.png" tvg-name="Мир +4" group-title="Общие",Мир +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3021.png" tvg-name="Мир +6" group-title="Общие",Мир +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2036.png" tvg-name="НТВ" tvg-shift="-2" group-title="Общие",НТВ +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2964.png" tvg-name="НТВ +4" group-title="Общие",НТВ +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3028.png" tvg-name="НТВ +6" group-title="Общие",НТВ +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-name="Первый канал" tvg-shift="-2" group-title="Общие",Первый канал +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3025.png" tvg-name="Первый канал +4" group-title="Общие",Первый канал +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3026.png" tvg-name="Первый канал +6" group-title="Общие",Первый канал +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2037.png" tvg-name="РЕН ТВ (+2)" group-title="Общие",Рен ТВ +2
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
@@ -369,30 +434,126 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3034.png" tvg-name="Рен ТВ +6" group-title="Общие",Рен ТВ +7
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" tvg-shift="-4" group-title="Общие",Ю +4 
-http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8?token=gelow74
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3025.png" tvg-name="Первый канал +4" group-title="Общие",Первый канал +3
-https://s1.idata.uz/stch_temp23/tracks-v1a1/mono.m3u8?token=gelow74 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" tvg-shift="-2" group-title="Общие",Россия 1 +2 
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" tvg-shift="-4" group-title="Общие",Россия 1 +4 
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" tvg-shift="-6" group-title="Общие",Россия 1 +6 
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3019.png" tvg-name="Мир +2" group-title="Общие",Мир +2 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8?token=gelow74 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3020.png" tvg-name="Мир +4" group-title="Общие",Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3021.png" shift="+6" tvg-name="Мир +6" group-title="Общие",Мир +6 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8?token=gelow74
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3011.png" tvg-name="Домашний +4" group-title="Общие",Домашний +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2964.png" tvg-name="НТВ +4" group-title="Общие",НТВ +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-shift="+4" tvg-name="Че" group-title="Общие",Че! +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3035.png" tvg-name="Звезда +4" group-title="Общие",Звезда +4
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/zvezda/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3000.png" tvg-name="Россия-1 +2" group-title="Общие",Россия 1 +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3001.png" tvg-name="Россия-1 +4" group-title="Общие",Россия 1 +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3002.png" tvg-name="Россия-1 +6" group-title="Общие",Россия 1 +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3007.png" tvg-name="СТС +2" group-title="Общие",СТС +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3008.png" tvg-name="СТС +4" group-title="Общие",СТС +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3009.png" tvg-name="СТС +6" group-title="Общие",СТС +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" tvg-shift="-2" group-title="Общие",СТС Love +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" tvg-shift="-7" group-title="Общие",СТС Love +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Суббота" tvg-shift="-2" group-title="Общие",Суббота +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Суббота" tvg-shift="-4" group-title="Общие",Суббота +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Суббота" tvg-shift="-7" group-title="Общие",Суббота +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3013.png" tvg-name="ТВ3 +2" group-title="Общие",ТВ-3 +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3014.png" tvg-name="ТВ3 +4" group-title="Общие",ТВ-3 +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3015.png" tvg-name="ТВ3 +6" group-title="Общие",ТВ-3 +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2038.png" tvg-name="ТВЦ (+2)" group-title="Общие",ТВ Центр +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3037.png" tvg-name="ТВЦ +4" group-title="Общие",ТВ Центр +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3038.png" tvg-name="ТВЦ +6" group-title="Общие",ТВ Центр +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3022.png" tvg-name="ТНТ +2" group-title="Общие",ТНТ +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3023.png" tvg-name="ТНТ +4" group-title="Общие",ТНТ +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3024.png" tvg-name="ТНТ +6" group-title="Общие",ТНТ +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-2 tvg-name="ТНТ4" group-title="Общие",ТНТ4 +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-4 tvg-name="ТНТ4" group-title="Общие",ТНТ4 +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-shift=-6 tvg-name="ТНТ4" group-title="Общие",ТНТ4 +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" tvg-shift="-2" group-title="Общие",Че! +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" tvg-shift="-4" group-title="Общие",Че! +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" tvg-shift="-7" group-title="Общие",Че! +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" tvg-shift="-2" group-title="Общие",Ю +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" tvg-shift="-4" group-title="Общие",Ю +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" tvg-shift="-7" group-title="Общие",Ю +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2035.png" tvg-name="Пятый Канал (+2)" group-title="Общие",Пятый канал +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3030.png" tvg-name="5 канал +4" group-title="Общие",Пятый канал +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3031.png" tvg-name="5 канал +6" group-title="Общие",Пятый канал +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3016.png" tvg-name="Пятница +2" group-title="Общие",Пятница! +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3017.png" tvg-name="Пятница +4" group-title="Общие",Пятница! +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3018.png" tvg-name="Пятница +6" group-title="Общие",Пятница! +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" tvg-shift="-2" group-title="Общие",2x2 +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" tvg-shift="-4" group-title="Общие",2x2 +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="2X2" tvg-shift="-7" group-title="Общие",2x2 +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" tvg-shift="-4" group-title="Общие",Канал Disney +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/150.png" tvg-name="Disney" tvg-shift="-4" group-title="Общие",Канал Disney +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2837.png" tvg-name="AIVA HD" group-title="Музыкальные",AIVA HD
 http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
