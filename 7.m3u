@@ -81,6 +81,9 @@ http://86.57.178.105:10822
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341996311860686848/HXPXmV_0_200x200.jpg" group-title="Россия",ТЕО-ТВ HD
 http://82.138.2.50:1935/live/TeoTV.stream_720p/chunklist_w2058732808.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
@@ -357,6 +360,15 @@ http://194.190.78.91:8080/podvodoi/index.m3u8
 http://persik.by/stream/6696/480248/33.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" tvg-name="Матч! Боец" group-title="Спортивные",Матч! Боец
 https://95-213-224-183.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2037.png" tvg-name="РЕН ТВ (+2)" group-title="Общие",Рен ТВ +2
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3033.png" tvg-name="Рен ТВ +4" group-title="Общие",Рен ТВ +4
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3034.png" tvg-name="Рен ТВ +6" group-title="Общие",Рен ТВ +7
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" tvg-shift="-4" group-title="Общие",Ю +4 
 http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3025.png" tvg-name="Первый канал +4" group-title="Общие",Первый канал +3
