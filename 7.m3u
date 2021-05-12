@@ -17,14 +17,12 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b16000
 http://83.222.205.65:8080/zvezda/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" tvg-name="Телеканал Звезда" group-title="Россия",Звезда 
 http://iptv.media-ix.com:11375/17/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" tvg-name="Победа" group-title="Россия",Победа HD 
-http://streamer2.iptvsmotri.ru:9600/pobeda_hd/tracks-v1a1/mono.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" tvg-name="Победа" group-title="Россия",Победа
 http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
-http://persik.by/stream/6696/480248/106.m3u8
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8?telegramm=yossotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3292.png" tvg-name="СТС" group-title="Россия",СТС HD
 http://178.162.205.119:8081/andr/sts-hq.stream/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС
@@ -35,16 +33,16 @@ http://178.162.205.85:8081/andr/stslove.stream/playlist.m3u8?token=gelow74
 http://195.189.238.119:80/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTE0Mzk0ODMsImlhdCI6MTYxMTM1MzA4MywiY2lkIjo2LCJ1aWQiOjQwNTg4NDQ5MCwicmVnIjpmYWxzZSwiaXAiOjYzMDIxMDk5MH0.BP3T-gyIO_4H_FdFAp-tWwrxeH728M79sISa4IuCX8Y&offset=1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ" group-title="Россия",ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 group-title="Россия",ТНТ International 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" group-title="Россия",ТНТ International 
 http://edge04.beetv.kz/btv/SWM/TNT/TNT_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
-http://178.162.218.87:8081/andr/comedytv-hq.stream/playlist.m3u8?token=gelow74
-#EXTINF:-1 group-title="Россия",ТНТ4 International 
+http://94.230.240.17:8080/tnt4/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" group-title="Россия",ТНТ4 International 
 http://edge04.beetv.kz/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" tvg-name="НТВ HD" group-title="Россия",НТВ HD
-http://streamer2.iptvsmotri.ru:9600/ntv_hd/tracks-v1a1/mono.m3u8?version=2
+http://streamer.in-lan.net.ua:8035/ch0029
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
 http://31.128.159.41:8080/ntv/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ Мир" group-title="Россия",НТВ Мир
@@ -54,9 +52,9 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 http://hlstv.kem.211.ru/239.211.211.151/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
-http://persik.by/stream/6696/480248/13.m3u8
+http://82.200.80.142:8080/ren/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
-http://persik.by/stream/6696/480248/385.m3u8
+http://94.230.240.17:8080/che/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
 http://94.230.240.17:8080/yu/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний HD
@@ -86,8 +84,6 @@ http://86.57.178.105:10822
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341996311860686848/HXPXmV_0_200x200.jpg" group-title="Россия",ТЕО-ТВ HD
 http://82.138.2.50:1935/live/TeoTV.stream_720p/chunklist_w2058732808.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD
-http://87.99.87.203:1985/channel/n21a4ce26/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.bllkHwo0mt1mxTjNWzTajo3qs4vTzn2cKQgmsRiz4PnFJHtL-7_tEZYOmWUHn7_5m8OuLyNatVIX0dySlJnJvA
 #EXTINF:-1 tvg-logo="https://backustv.ru/img/ch-1.jpg" group-title="Фильмы и сериалы",BACKUSTV
 http://stream.backustv.ru/content/39837/index.m3u8
 #EXTINF:-1 tvg-logo="https://backustv.ru/img/ch-2.jpg" tvg-name="BACKUSTV Страшное HD" group-title="Фильмы и сериалы",BACKUSTV СТРАШНОЕ
@@ -96,13 +92,13 @@ http://stream.backustv.ru/content/39864/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
-http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+http://hlstv.brn.211.ru/239.211.200.17/stream.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
-http://81.163.39.156:8384/udp/233.166.172.248:1234?token=gelow74
+http://hlstv.kem.211.ru/239.211.211.92/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино 
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8?token=gelow74 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
@@ -132,7 +128,7 @@ http://87.247.44.25:80/btv/SWM/A1/A1_270p_1200kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" tvg-name="Amedia 2" group-title="Фильмы и сериалы",Amedia 2
 https://edge04.beetv.kz/btv/SWM/A2/A2_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4076.png" tvg-name="Кинопоказ HD" group-title="Фильмы и сериалы",Кинопоказ
-http://185.74.7.220:8080/kinopokaz/mpegts
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://televizor.org/img/logopit/Millenium%20TV.png" group-title="Фильмы и сериалы",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2506.png" tvg-name="Кино ТВ" group-title="Фильмы и сериалы",Кино ТВ HD
@@ -164,7 +160,7 @@ http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
 http://212.76.27.27/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png" tvg-name="Наше новое кино" group-title="Фильмы и сериалы",Наше новое кино HD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
+http://87.247.44.26/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="Киносерия" group-title="Фильмы и сериалы",Киносерия HD
 http://176.222.164.72:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Фильмы и сериалы",Кинохит HD
@@ -172,9 +168,9 @@ http://185.74.4.46:8080/stch_temp3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" tvg-name="Киносемья" group-title="Фильмы и сериалы",Киносемья HD
 http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2519.png" tvg-name="Кинокомедия" group-title="Фильмы и сериалы",Кинокомедия HD
-http://178.162.205.85:8081/andr/komediya.stream/playlist.m3u8?token=gelow74
+http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" tvg-name="Киносвидание" group-title="Фильмы и сериалы",Киносвидание HD
-http://185.74.7.220:8080/kinosvidanie/tracks-v1a1/index.m3u8?token=gelow74 
+http://87.247.44.26/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="Кинопремьера HD" group-title="Фильмы и сериалы",Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
@@ -188,7 +184,7 @@ http://v2.catcast.tv/content/38792/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
-http://195.189.238.119:80/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTE0Mzk0ODMsImlhdCI6MTYxMTM1MzA4MywiY2lkIjo2LCJ1aWQiOjQwNTg4NDQ5MCwicmVnIjpmYWxzZSwiaXAiOjYzMDIxMDk5MH0.BP3T-gyIO_4H_FdFAp-tWwrxeH728M79sISa4IuCX8Y&offset=1
+http://hlstv.kem.211.ru/239.211.211.79/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="Sony Sci-Fi" group-title="Фильмы и сериалы",Sony Sci-Fi
 http://streamer.in-lan.net.ua:8035/ch0147
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Фильмы и сериалы",Sony Turbo
@@ -208,7 +204,7 @@ http://87.247.44.26:80/btv/SWM/Bollywood_HD/Bollywood_HD_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3361.png" tvg-name="TRASH HD" group-title="Фильмы и сериалы",TRASH HD
 http://cdn.nexttvnet.ru/hlsl/provide/10/TrashHD/Trash_HD_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
-http://72.255.34.227:8000/play/a02x/tracks-v1a1/index.m3u8
+http://russia2.livetv.az/russia/paramount/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Фильмы и сериалы",Paramount Comedy
 http://212.76.27.27/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" tvg-name="Индийское Кино" group-title="Фильмы и сериалы",Индийское Кино
