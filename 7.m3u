@@ -22,7 +22,7 @@ http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3 HD
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
-http://82.200.80.142:8080/tv3/mono.m3u8
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8?telegramm=yossotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3292.png" tvg-name="СТС" group-title="Россия",СТС HD
 http://178.162.205.119:8081/andr/sts-hq.stream/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Россия",СТС
@@ -51,8 +51,12 @@ http://92.46.127.146:8080/ntv/index.m3u8?token=gelow74
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 http://hlstv.kem.211.ru/239.211.211.151/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
+http://tsn.streaming-elbrus.tk:8080/rentv/video.m3u8?token=iptvout 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://82.200.80.142:8080/ren/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="Россия",Рен ТВ International 
+https://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
 http://94.230.240.17:8080/che/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
@@ -65,6 +69,8 @@ http://cdn.nexttvnet.ru/hlsl/provide/10/Domashniy/Domashniy_3/index.m3u8
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница!" group-title="Россия",Пятница!
 http://iptv.media-ix.com:11375/16/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" group-title="Россия",Пятница! International 
+http://212.76.27.27/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2308.png" tvg-name="Москва Доверие" group-title="Россия",Москва доверие
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
@@ -141,24 +147,6 @@ http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 http://edge04.beetv.kz/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/5e314d2be87b180c4a0c6dc52ed193d1.png" group-title="Фильмы и сериалы",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/fd48379f478ddf1db0e1ba69255247eb.png" group-title="Фильмы и сериалы",Premiere HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/19550 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/26f0316abe69b36560de4a1ab7ca6f65.png" group-title="Фильмы и сериалы",Premium HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/19547 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/9bfc70cfeaa7a840c084673f26ec11dc.png" group-title="Фильмы и сериалы",РуКино HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/19549 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/0aba35a6daa2079dcabbf2d66db1d69e.png" group-title="Фильмы и сериалы",Victory HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/65234 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/b058fde930f32cda05241addecca0b2a.png" group-title="Фильмы и сериалы",Thriller HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/19677 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/83c57a81ab73ed1a3a3e3e5b4cc9127d.jpg" group-title="Фильмы и сериалы",Paradox HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/47349 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/ec89e35d6771419e237664b9789266c4.png" group-title="Фильмы и сериалы",Paradise HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/19551 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/f5e35b21846ab4a21be9c4fd5c92c80d.png" group-title="Фильмы и сериалы",Serial HD 
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/64127
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/2fad40dca38520c923f82c5801d4cff9.png" group-title="Фильмы и сериалы",USSR
-http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
