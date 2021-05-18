@@ -52,9 +52,9 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 http://46.46.127.20:8324
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://tsn.streaming-elbrus.tk:8080/rentv/video.m3u8?token=iptvout 
+http://persik.by/stream/6696/480248/13.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
-http://82.200.80.142:8080/ren/mono.m3u8
+http://178.162.205.119:8081/andr/rentv-hq.stream/playlist.m3u8?token=gelow7
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" group-title="Россия",Рен ТВ International 
 https://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
@@ -78,6 +78,8 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version
 http://46.254.241.94:455/test
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВЦ" group-title="Россия",ТВЦ
 http://persik.by/stream/6696/480248/237.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" group-title="Россия",ТВЦ International 
+http://212.76.29.27/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2361.png" tvg-name="Мир" group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2023.png" tvg-name="Мир Premium" group-title="Россия",Мир Premium HD 
@@ -90,9 +92,9 @@ http://86.57.178.105:10822
 http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
 http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-logo="https://backustv.ru/img/ch-1.jpg" group-title="Фильмы и сериалы",BACKUSTV
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUSTV
 http://stream.backustv.ru/content/39837/index.m3u8
-#EXTINF:-1 tvg-logo="https://backustv.ru/img/ch-2.jpg" tvg-name="BACKUSTV Страшное HD" group-title="Фильмы и сериалы",BACKUSTV СТРАШНОЕ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUSTV Страшное HD" group-title="Фильмы и сериалы",BACKUSTV СТРАШНОЕ
 http://stream.backustv.ru/content/39864/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
@@ -108,7 +110,7 @@ http://45.132.87.69:8080/foxlife/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино 
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
-http://87.99.87.203:1985/channel/24461816/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.0ugMyieCQdkx4dUHWFQQ37NwIOgp69uYbWlvT12TaQMrcmSHJ3Nb91qSvPL4TWnwXxFvLsEFerIJzyqOZC1MVw
+http://87.99.87.203:1985/channel/24461816/index.m3u8?q=eyJ1c2VySWQiOiJzZXJnZWp0c24ifQ.IZ_3s-qomA7fqK-MZgNk-h15bIQVqYpkpxhoGFE2AyTF3E9ZVOpj8GNtDXPXzpc4RadXX8xfUqK6MYcRlJXAFw
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 
 http://185.74.7.220:8080/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV 1000 Action" group-title="Фильмы и сериалы",TV1000 Action 
@@ -171,23 +173,23 @@ http://45.132.87.69:8080/kinouzhas/index.m3u8?bwipaddrlH/variant.m3u8?version=2
 http://45.132.87.69:8080/muzhskoekino/index.m3u8
 #EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/79dcd9ac36648a167fc5fc8a0586ff6a.png" group-title="Фильмы и сериалы",Premium кино 
 http://v2.catcast.tv/content/38792/index.m3u8
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/fd48379f478ddf1db0e1ba69255247eb.png" group-title="Фильмы и сериалы",Premiere HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4719.png" tvg-name="Premiere HD" group-title="Фильмы и сериалы",Premiere HD
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/19550
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/26f0316abe69b36560de4a1ab7ca6f65.png" group-title="Фильмы и сериалы",Premium HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4720.png" tvg-name="Premium HD" group-title="Фильмы и сериалы",Premium HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/19547 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/9bfc70cfeaa7a840c084673f26ec11dc.png" group-title="Фильмы и сериалы",РуКино HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4721.png" tvg-name="РуКино HD" group-title="Фильмы и сериалы",РуКино HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/19549 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/0aba35a6daa2079dcabbf2d66db1d69e.png" group-title="Фильмы и сериалы",Victory HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4722.png" tvg-name="Victory HD" group-title="Фильмы и сериалы",Victory HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/65234 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/b058fde930f32cda05241addecca0b2a.png" group-title="Фильмы и сериалы",Thriller HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4724.png" tvg-name="Thriller HD" group-title="Фильмы и сериалы",Thriller HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/19677 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/83c57a81ab73ed1a3a3e3e5b4cc9127d.jpg" group-title="Фильмы и сериалы",Paradox HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4723.png" tvg-name="Paradox HD" group-title="Фильмы и сериалы",Paradox HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/47349 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/ec89e35d6771419e237664b9789266c4.png" group-title="Фильмы и сериалы",Paradise HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4725.png" tvg-name="Paradise HD" group-title="Фильмы и сериалы",Paradise HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/19551 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/f5e35b21846ab4a21be9c4fd5c92c80d.png" group-title="Фильмы и сериалы",Serial HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4726.png" tvg-name="Serial HD" group-title="Фильмы и сериалы",Serial HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/64127 
-#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/2fad40dca38520c923f82c5801d4cff9.png" group-title="Фильмы и сериалы",USSR HD 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4727.png" tvg-name="USSR" group-title="Фильмы и сериалы",USSR HD 
 http://195.154.242.229:3000/mytelegram/premiere_group_chat/47342
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
@@ -317,7 +319,7 @@ http://iptv.prosto.tv:7000/ch66/video.m3u8
 http://iptv.prosto.tv:7000/ch67/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2203.png" tvg-name="Малятко ТВ" group-title="Детские",Малятко TV
 http://iptv.prosto.tv:7000/ch76/video.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" tvg-name="Мульт" group-title="Детские",Мульт-
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" tvg-name="Мульт" group-title="Детские",Мульт
 http://hlstv.kem.211.ru/239.211.211.6/stream.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/494.png" tvg-name="Jim Jam" group-title="Детские",Jim Jam
 http://russia2.livetv.az/russia/jimjam/playlist.m3u8
@@ -383,8 +385,6 @@ http://hlstest.eltex-media.ru:8085/Match!/index.m3u8
 http://46.174.189.51:80/matchboec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" tvg-name="МАТЧ! СТРАНА" group-title="Спортивные",Матч! Страна HD 
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2480.png" tvg-name="UFC ТВ" group-title="Спортивные",UFC HD 
-https://tsn.auratv.fun/38/video.m3u8?token=f2013e6196cd5564862161aa5d5d8815a5804009-9725250930-1621277074-1621266274
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2991.png" tvg-name="Муз ТВ +4" tvg-shift="+2" group-title="Общие",Муз ТВ +2
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
