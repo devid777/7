@@ -655,3 +655,59 @@ http://194.190.78.91:8080/aivaya/index.m3u8
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3773.png" tvg-name="MTV" group-title="Музыкальные",MTV Russia HD
 http://188.40.68.167/russia/mtv_dance/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.kinotrast.ru/uploads/posts/2020-12/1574688175_godzilla-vs.-kong.jpg" group-title="Медиатека",Годзилла против Конга 2021
+https://test.streamvid.club/05_06_21/05/06/04/OX54AFWQ/CXOHKG76.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=cf18a209fadaa14af71390371e5525bb-l&n=33&w=720&h=1080&q=60" group-title="Медиатека",Мажор 2021
+https://test.streamvid.club/05_26_21/05/26/16/OXF3OYZD/KL76UPE5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=11f7b8c721d6825c7cfdc0602d47730f-l&n=33&w=855&h=1080&q=60" group-title="Медиатека",Лига справедливости Зака Снайдера 2021
+https://test.streamvid.club/05_20_21/05/20/17/T2FNXYYY/PPDWOCUP.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=ba57fa49e8c4eaa3176355dbda0f6785-l&n=33&w=729&h=1080&q=60" group-title="Медиатека",Никто 2021
+https://test.streamvid.club/05_05_21/05/05/04/G4MMSWVP/ALD2UMGE.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=5dc927d92881fc2050877aa4e465106c-l&n=33&w=729&h=1080&q=60" group-title="Медиатека",Гнев человеческий 2021
+https://test.streamvid.club/05_28_21/05/28/18/VIDJSOFC/FET5UAZF.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" group-title="Медиатека",Смертельная зона 2021
+https://test.streamvid.club/05_14_21/05/14/19/U4GOTOOJ/UINNQW7C.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://telecinet.com/wp-content/uploads/2021/02/4CC53671-95AB-4799-849C-59B83EC4BBA7-scaled.jpeg" group-title="Медиатека",Заступник 2021
+https://test.streamvid.club/05_12_21/05/12/18/4Y473QYM/JWPAS7KC.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=6b211e05eff5aaff2fa0d79e25aa1e20-l&n=33&w=762&h=1080&q=60" group-title="Медиатека",Гениальное ограбление 2021
+http://212.113.38.100/hls/4d667883005d7de9b6d35eb4ed1a1ead/fhd/genialnoe.ograblenie.2021.WEB-DL.1080p.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=446636a4a291b8832db61e0216e83037-l&n=33&w=756&h=1080&q=60" group-title="Медиатека",Ниже нуля 2021
+http://212.113.38.100/realhls/st4/fhd/Bajocero.2021.NF.WEB-DL.1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=17f37a2724e173c494b54a61917e756a-l&n=13" group-title="Медиатека",Майор Гром:Чумной Доктор 2021
+http://212.113.38.100/realhls/mst4/fhd/Mayor.Grom.Chumnoy.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=5e9f52709e3951e9edeb487681e08e47-l&n=13" group-title="Медиатека",Армия мертвецов 2021
+http://212.113.38.100/realhls/mst1/fhd/Army.of.the.Dead.2021.1080p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=cc1a04bbfc0b29399872f7d5a58970c2-srl&n=13" group-title="Медиатека",Турист 2021
+http://212.113.38.100/realhls/mst1/fhd/tiyrist.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://multhd.newmulti-torrent.ru/wp-content/uploads/2021/01/Torrent_film_2021_Rozhden_Chempionom_khoroshee_kachestvo_1080.jpg" group-title="Медиатека",Рожденный чемпионом 2021
+https://test.streamvid.club/05_18_21/05/18/13/LT2D2X4R/PTIGLT7N.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://kinopa.net/uploads/posts/2021-05/1622062238_sredotochie-boli_2.jpg" group-title="Медиатека",Средоточие боли 2021
+http://212.113.38.100/realhls/mst3/fhd/Trigger.Point.2021.P.WEB-DL.1080.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/image?id=908088005255&t=50&plc=WEB&tkn=*KkdE0NAB9auicqD2pKg0m-DhUy8&fn=external_8" group-title="Медиатека",Ферри 2021
+http://212.113.38.100/realhls/mst4/fhd/Ferry.2021.WEB-DL.1080p.ExKinoRay.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1045/1*irpah9kXh9nx_cFumjdIPQ.jpeg" group-title="Медиатека",Миссия выполнима 2021
+https://test.streamvid.club/04_29_21/04/29/01/7MXTNWNI/TJFEXDAO.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=d10bc863ed681e618bd254c1d80bccbb-l&n=13" group-title="Медиатека",Пара из будущего 2021
+http://212.113.38.100/realhls/mst1/fhd/Para.iz.budushego.2021.O.WEB-DL.1080p.ELEKTRI4KA.UNIONGANG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/5f/2f/5f2f78d7b20b4e29345d44de48ae1f4c.png" group-title="Медиатека",Друзья:Воссоединение 2021
+http://212.113.38.100/realhls/mst2/fhd/Friends.The.Reunion.2021.1080p.Amedia.WEB-DL.Rus.Eng-EniaHD.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://www.kino-teatr.ru/movie/kadr/145500/1009917.jpg" group-title="Медиатека",Будь моим Кириллом 2021
+http://212.113.38.100/realhls/mst4/fhd/Bud.moim.Kirillom.2021.1080p.WEB-DL.DD5.1.H.264-EniaHD.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/shot/2320242/w1500_46719429.jpg" group-title="Медиатека",Колдун: Мечта о вечности 2021
+https://test.streamvid.club/02_17_21/02/17/15/FCLENBF6/R33U75AZ.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=a184ea676cd55c8bac4d56e73d9aba82-l&n=13" group-title="Медиатека",Музыка крыш 2021
+http://212.113.38.100/realhls/st8/fhd/Muzyka.krish.2021.WEB-DL.1080p.ExKinoRay.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=cc73b80b02ee0aafc313d2a425edc246-l&n=33&w=720&h=1080&q=60" group-title="Медиатека",Перепутанные в Средиземноморье 2021
+https://test.streamvid.club/03_17_21/03/17/10/CQYZ7NAF/ZKMKMYQG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=6a1814bfd151a2b4d623f436ede05a40-l&n=13" group-title="Медиатека",Пара на праздники 2020
+http://212.113.38.100/realhls/mst5/fhd/Holidate.2020.1080p.NF.WEB-DL.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2gBMBfmQvHeOQQ5PiKiuxVdGs77.jpg" group-title="Медиатека",После. Глава 2020
+http://212.113.38.100/realhls/mst2/fhd/After.We.Collided.2020.WEB-DL.1080p.seleZen.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=4f850caab40a85acd30001193c06ff1e-l&n=33&w=810&h=1080&q=60" group-title="Медиатека",Секрет 2020
+https://test.streamvid.club/09_30_20/09/30/08/BEX6MFXC/AVY4YOEY.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://static.hdrezka.ac/i/2020/9/9/d253d2f1f2bc8ud57t68t.png" group-title="Медиатека",Ребекка 2020
+https://test.streamvid.club/02_14_21/02/14/21/PNOU764O/FBQSH245.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://ic.pics.livejournal.com/barikripke/55309386/569682/569682_original.jpg" group-title="Медиатека",Искусственный интеллект 2020
+http://212.113.38.100/realhls/st3/fhd/Superintelligence.2020.WEB-DL.1080p.seleZen.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6ZdZVrYerWjOa1DASzCmcN9Lyg.jpg" group-title="Медиатека",Жизнь за год 2020
+https://test.streamvid.club/05_26_21/05/26/15/VIKXSLUQ/6M5LFIAG.mp4/index-v1-a1.m3u8
