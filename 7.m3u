@@ -50,7 +50,7 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://hlstv.brn.211.ru/239.211.2.50/stream.m3u8
+http://82.200.80.142:8080/ren/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://178.162.205.119:8081/andr/rentv-hq.stream/playlist.m3u8?token=gelow7
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че! HD
@@ -94,6 +94,10 @@ https://edge04.beetv.kz/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8?token=gelow74
 http://185.18.207.154:8080/kvn/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4141.png" tvg-name="Сарафан" group-title="Россия",Сарафан 
 http://86.57.178.105:10822
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3551.png" tvg-name="Gags Network HD" group-title="Россия",Gansnetwork 
+http://81.163.39.156:8384/udp/233.166.172.64:1234?token=gelow74 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ
+http://streamer1.iptvsmotri.ru:9600/anekdot_tv_hguitjnkg/tracks-v1a1/index.m3u8?token=gelow74 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD 
 https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="Фильмы и сериалы",Свежаки HD 
@@ -112,21 +116,17 @@ http://85.143.191.135/777/stream.m3u8
 http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
 http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUS TV
-http://stream.backustv.ru/content/39837/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUS TV Страшное HD" group-title="Фильмы и сериалы",BACKUS TV СТРАШНОЕ
-http://stream.backustv.ru/content/39864/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png" tvg-name="Ultra HD Cinema 4K" group-title="Фильмы и сериалы",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX
-http://45.132.87.69:8080/fox/index.m3u8
+http://hlstv.brn.211.ru/239.211.211.91/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD
 http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life
-http://45.132.87.69:8080/foxlife/index.m3u8
+http://hlstv.brn.211.ru/239.211.211.92/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" tvg-name="TV 1000 Русское кино" group-title="Фильмы и сериалы",TV1000 Русское кино 
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV 1000" group-title="Фильмы и сериалы",TV1000 
@@ -168,9 +168,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/4dc2fb6dbd552246e33e3618fc580642.jpg" group-title="Фильмы и сериалы",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
-https://autopilot.catcast.tv/content/38801/index.m3u8 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" tvg-name="Наше крутое HD orig" group-title="Фильмы и сериалы",Наше крутое HD 
-http://85.143.191.135/129/stream.m3u8
+https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
 http://212.76.27.27/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино
@@ -204,17 +202,17 @@ http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="Кинопремьера HD" group-title="Фильмы и сериалы",Кинопремьера
 http://185.74.7.220:8080/kinopremyera/index.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс HD
-http://45.132.87.69:8080/kinomix/tracks-v1a1/index.m3u8?token=gelow74
+http://persik.by/stream/6696/480248/608.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Фильмы и сериалы",Киномикс
 http://hlstv.kem.211.ru/239.211.211.194/stream.m3u8 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас HD
-http://45.132.87.69:8080/kinouzhas/index.m3u8?bwipaddrlH/variant.m3u8?version=2
+http://81.163.39.156:8384/udp/233.166.172.236:1234?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас HD" group-title="Фильмы и сериалы",Киноужас
 http://hlstv.brn.211.ru/239.211.200.43/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино HD
-http://hlstv.kem.211.ru/239.211.200.31/tracks-v1a1/index.m3u8
+http://persik.by/stream/6696/480248/10025.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Фильмы и сериалы",Мужское кино
-http://45.132.87.69:8080/muzhskoekino/index.m3u8
+http://hlstv.kem.211.ru/239.211.200.31/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" tvg-name="НСТ" group-title="Фильмы и сериалы",НСТ
 http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" tvg-name="TV XXI" group-title="Фильмы и сериалы",TV XXI
@@ -240,7 +238,7 @@ http://cdn.nexttvnet.ru/hlsl/provide/10/TrashHD/Trash_HD_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2774.png" tvg-name="Paramount Channel HD" group-title="Фильмы и сериалы",Paramount Сhannel 
 http://russia2.livetv.az/russia/paramount/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png" tvg-name="Paramount Comedy Russia" group-title="Фильмы и сериалы",Paramount Comedy
-http://212.76.27.27/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+http://hlstv.brn.211.ru/239.211.211.73/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png" tvg-name="Индийское Кино" group-title="Фильмы и сериалы",Индийское Кино
 http://178.162.205.85:8081/andr/indiya.stream/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/6303.png" group-title="Фильмы и сериалы",Film.Ua Drama 
@@ -251,6 +249,8 @@ http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
 http://85.143.191.135/1243/stream.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",CCCP HD 
 http://85.143.191.135/790/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" tvg-name="Наше крутое HD orig" group-title="Фильмы и сериалы",Наше крутое HD 
+http://85.143.191.135/129/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4173.png" tvg-name="Русский бестселлер orig" group-title="Фильмы и сериалы",Русский бестселлер
 http://hlstv.kem.211.ru/239.211.211.137/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" tvg-name="Дорама HD" group-title="Фильмы и сериалы",Дорама HD
@@ -276,9 +276,9 @@ http://94.230.240.17:8080/mirseriala/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png" tvg-name="НТВ-ХИТ orig" group-title="Фильмы и сериалы",НТВ Хит  
 http://91.192.168.251:8401
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png" tvg-name="НТВ Право" group-title="Фильмы и сериалы",НТВ Право 
-http://tsn4.auratv.fun/channel/719b6c60/index.m3u8?q=2fcc3982ec43e494bacff50250b445ca
+http://62.122.88.215:81/udp/239.1.8.33:1234?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png" tvg-name="НТВ Сериал orig" group-title="Фильмы и сериалы",НТВ Сериал
-http://tsn3.auratv.fun/channel/n4910a246/index.m3u8?q=ebc8b3871e46855910b5e0a2db034b1d
+http://62.122.88.215:81/udp/239.1.8.34:1234?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция HD
 http://hlstv.brn.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
@@ -406,7 +406,7 @@ http://94.230.240.12:8080/history/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" tvg-name="H2 HD" group-title="Познавательные",H2 HD 
 http://212.76.27.29:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" tvg-name="H2 HD" group-title="Познавательные",H2
-http://sc.id-tv.kz:80/H2_38_39.m3u8
+http://cdn.ottcdn.online/high/cu1er2kbmp/367.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" tvg-name="HD Life" group-title="Познавательные",HD Life HD
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" tvg-name="HD Life" group-title="Познавательные",HD Life
@@ -681,18 +681,12 @@ http://212.113.38.100/realhls/mst1/fhd/Army.of.the.Dead.2021.1080p.mp4/index-v1-
 http://212.113.38.100/realhls/mst1/fhd/tiyrist.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://multhd.newmulti-torrent.ru/wp-content/uploads/2021/01/Torrent_film_2021_Rozhden_Chempionom_khoroshee_kachestvo_1080.jpg" group-title="Медиатека",Рожденный чемпионом 2021
 https://test.streamvid.club/05_18_21/05/18/13/LT2D2X4R/PTIGLT7N.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://kinopa.net/uploads/posts/2021-05/1622062238_sredotochie-boli_2.jpg" group-title="Медиатека",Средоточие боли 2021
-http://212.113.38.100/realhls/mst3/fhd/Trigger.Point.2021.P.WEB-DL.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/image?id=908088005255&t=50&plc=WEB&tkn=*KkdE0NAB9auicqD2pKg0m-DhUy8&fn=external_8" group-title="Медиатека",Ферри 2021
 http://212.113.38.100/realhls/mst4/fhd/Ferry.2021.WEB-DL.1080p.ExKinoRay.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1045/1*irpah9kXh9nx_cFumjdIPQ.jpeg" group-title="Медиатека",Миссия выполнима 2021
 https://test.streamvid.club/04_29_21/04/29/01/7MXTNWNI/TJFEXDAO.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=d10bc863ed681e618bd254c1d80bccbb-l&n=13" group-title="Медиатека",Пара из будущего 2021
-http://212.113.38.100/realhls/mst1/fhd/Para.iz.budushego.2021.O.WEB-DL.1080p.ELEKTRI4KA.UNIONGANG.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/5f/2f/5f2f78d7b20b4e29345d44de48ae1f4c.png" group-title="Медиатека",Друзья:Воссоединение 2021
 http://212.113.38.100/realhls/mst2/fhd/Friends.The.Reunion.2021.1080p.Amedia.WEB-DL.Rus.Eng-EniaHD.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://www.kino-teatr.ru/movie/kadr/145500/1009917.jpg" group-title="Медиатека",Будь моим Кириллом 2021
-http://212.113.38.100/realhls/mst4/fhd/Bud.moim.Kirillom.2021.1080p.WEB-DL.DD5.1.H.264-EniaHD.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://images.kinorium.com/movie/shot/2320242/w1500_46719429.jpg" group-title="Медиатека",Колдун: Мечта о вечности 2021
 https://test.streamvid.club/02_17_21/02/17/15/FCLENBF6/R33U75AZ.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=a184ea676cd55c8bac4d56e73d9aba82-l&n=13" group-title="Медиатека",Музыка крыш 2021
@@ -701,8 +695,6 @@ http://212.113.38.100/realhls/st8/fhd/Muzyka.krish.2021.WEB-DL.1080p.ExKinoRay.m
 https://test.streamvid.club/03_17_21/03/17/10/CQYZ7NAF/ZKMKMYQG.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=6a1814bfd151a2b4d623f436ede05a40-l&n=13" group-title="Медиатека",Пара на праздники 2020
 http://212.113.38.100/realhls/mst5/fhd/Holidate.2020.1080p.NF.WEB-DL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2gBMBfmQvHeOQQ5PiKiuxVdGs77.jpg" group-title="Медиатека",После. Глава 2020
-http://212.113.38.100/realhls/mst2/fhd/After.We.Collided.2020.WEB-DL.1080p.seleZen.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=4f850caab40a85acd30001193c06ff1e-l&n=33&w=810&h=1080&q=60" group-title="Медиатека",Секрет 2020
 https://test.streamvid.club/09_30_20/09/30/08/BEX6MFXC/AVY4YOEY.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://static.hdrezka.ac/i/2020/9/9/d253d2f1f2bc8ud57t68t.png" group-title="Медиатека",Ребекка 2020
