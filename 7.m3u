@@ -50,7 +50,7 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://82.200.80.142:8080/ren/mono.m3u8
+http://persik.by/stream/6696/480248/13.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 http://178.162.205.119:8081/andr/rentv-hq.stream/playlist.m3u8?token=gelow7
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че! HD
@@ -97,13 +97,21 @@ http://86.57.178.105:10822
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3551.png" tvg-name="Gags Network HD" group-title="Россия",Gansnetwork 
 http://81.163.39.156:8384/udp/233.166.172.64:1234?token=gelow74 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ
-http://streamer1.iptvsmotri.ru:9600/anekdot_tv_hguitjnkg/tracks-v1a1/index.m3u8?token=gelow74 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD 
-https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Фильмы и сериалы",Свежаки HD 
+http://streamer1.iptvsmotri.ru:9600/anekdot_tv_hguitjnkg/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
+http://persik.by/stream/6696/480248/10454.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUS TV
+http://stream.backustv.ru/content/39837/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUS TV Страшное HD" group-title="Фильмы и сериалы",BACKUS TV СТРАШНОЕ
+http://stream.backustv.ru/content/39864/index.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Свежаки HD 
 https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Фильмы и сериалы",Уже видел HD 
+https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4773.png" tvg-name="Sky2000 HD" group-title="Фильмы и сериалы",Sky 2000 HD 
 http://85.143.191.135/887/stream.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2768.png" tvg-name="Арсенал HD" group-title="Фильмы и сериалы",Арсенал HD 
+http://streamer1.iptvsmotri.ru:9600/arsenal_hd_TSN_iptvin.ru_/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4772.png" tvg-name="Lost HD" group-title="Фильмы и сериалы",Lost HD 
 http://85.143.191.135/791/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4780.png" tvg-name="ФАНТАСТИКА HD" group-title="Фильмы и сериалы",Фантастика HD 
@@ -247,10 +255,8 @@ http://212.76.27.29:80/btv/SWM/FilmUADrama/FilmUADrama_576p_2000kbps.m3u8
 http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4747.png" tvg-name="BCU СССР HD" group-title="Фильмы и сериалы",BCU СССР HD 
 http://85.143.191.135/1243/stream.m3u8
-#EXTINF:-1 group-title="Фильмы и сериалы",CCCP HD 
+#EXTINF:-1 tvg-logo="https://ic.wampi.ru/2021/04/14/1f79708c0db058c1a644c250449a3443.jpg" group-title="Фильмы и сериалы",CCCP HD 
 http://85.143.191.135/790/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png" tvg-name="Наше крутое HD orig" group-title="Фильмы и сериалы",Наше крутое HD 
-http://85.143.191.135/129/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4173.png" tvg-name="Русский бестселлер orig" group-title="Фильмы и сериалы",Русский бестселлер
 http://hlstv.kem.211.ru/239.211.211.137/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" tvg-name="Дорама HD" group-title="Фильмы и сериалы",Дорама HD
@@ -340,7 +346,7 @@ http://194.190.78.81:8080/TiJi_OT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4227.png" tvg-name="Рыжий" group-title="Детские",Рыжий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4218.png" tvg-name="Карусель" group-title="Детские",Карусель 
-http://82.200.80.142:8080/karusel/mono.m3u8
+http://persik.by/stream/6696/480248/10456.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
 http://193.33.240.8:8080/sts_kids/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png" tvg-name="О!" group-title="Детские",О!
@@ -368,7 +374,7 @@ http://81.163.39.156:8384/udp/233.166.172.244:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2027.png" tvg-name="В Гостях у сказки" group-title="Детские",В Гостях у сказки
 http://87.247.44.26/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png" tvg-name="FAN" group-title="Детские",FAN HD
-http://94.230.240.17:8080/fan/index.m3u8
+http://176.115.152.6:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3784.png" tvg-name="Nick Jr" group-title="Детские",Nick Jr.HD
 http://iptv.prosto.tv:7000/ch69/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3784.png" tvg-name="Nick Jr" group-title="Детские",Nick Jr.
@@ -406,7 +412,7 @@ http://94.230.240.12:8080/history/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" tvg-name="H2 HD" group-title="Познавательные",H2 HD 
 http://212.76.27.29:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png" tvg-name="H2 HD" group-title="Познавательные",H2
-http://cdn.ottcdn.online/high/cu1er2kbmp/367.m3u8
+http://tsn.streaming-elbrus.tk:8080/h2/video.m3u8?token=iptvin.ru
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" tvg-name="HD Life" group-title="Познавательные",HD Life HD
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png" tvg-name="HD Life" group-title="Познавательные",HD Life
