@@ -40,7 +40,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Россия",ТНТ4
 http://cdn.nexttvnet.ru/hlsl/provide/10/TNT4/TNT4_3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png" tvg-name="НТВ HD" group-title="Россия",НТВ HD
-http://85.143.191.135/4/stream.m3u8 
+http://cdn.nexttvnet.ru/hlsl/provide/10/NTV/NTV_3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/162.png" tvg-name="НТВ" group-title="Россия",НТВ
 http://31.128.159.41:8080/ntv/mpegts
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота HD
@@ -110,12 +110,6 @@ https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
 https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2768.png" tvg-name="Арсенал HD" group-title="Фильмы и сериалы",Арсенал HD 
 http://streamer1.iptvsmotri.ru:9600/arsenal_hd_TSN_iptvin.ru_/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4780.png" tvg-name="ФАНТАСТИКА HD" group-title="Фильмы и сериалы",Фантастика HD 
-http://85.143.191.135/780/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4771.png" tvg-name="BEST Films HD" group-title="Фильмы и сериалы",Films HD 
-http://85.143.191.135/789/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4779.png" tvg-name="СТРАХ HD" group-title="Фильмы и сериалы",Страх HD 
-http://85.143.191.135/777/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Фильмы и сериалы",Amedia Hit HD
 http://edge04.beetv.kz:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
@@ -261,8 +255,6 @@ http://iptv.prosto.tv:7000/ch64/video.m3u8
 http://iptv.prosto.tv:7000/ch56/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4185.png" tvg-name="Феникс плюс Кино orig" group-title="Фильмы и сериалы",Феникс+Кино
 http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4747.png" tvg-name="BCU СССР HD" group-title="Фильмы и сериалы",BCU СССР HD 
-http://85.143.191.135/1243/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4173.png" tvg-name="Русский бестселлер orig" group-title="Фильмы и сериалы",Русский бестселлер
 http://hlstv.brn.211.ru/239.211.211.137/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" tvg-name="Дорама HD" group-title="Фильмы и сериалы",Дорама HD
@@ -442,7 +434,7 @@ http://hlstv.brn.211.ru/239.211.200.23/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/124.png" tvg-name="Travel Channel HD" group-title="Познавательные",Travel Channel HD
 http://188.40.68.167/russia/travel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png" tvg-name="Наука HD" group-title="Познавательные",Наука
-http://85.143.191.135/92/stream.m3u8
+http://193.33.240.8:8080/Nauka/index.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/imagecache/film_poster/tv_channels/logos/tehno24.png" group-title="Познавательные",Техно 24 
 http://185.74.7.220:8080/techno_24/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png" tvg-name="Моя Планета" group-title="Познавательные",Моя планета HD
@@ -456,7 +448,7 @@ http://176.222.187.154:80/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
-http://212.42.193.122:8888/play/a00l/index.m3u8?token=gelow74
+http://80.76.245.198:12284/33
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science HD
 http://217.21.34.160:5500/science
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science
