@@ -57,10 +57,6 @@ http://hlstv.brn.211.ru/239.211.211.100/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ HD-
-http://94.230.240.17:8080/yu/index.m3u8?token=gelow74
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ-
-http://178.162.205.85:8081/andr/yutv.stream/playlist.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний HD
 http://31.128.159.41:8080/domashniy/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Россия",Домашний
@@ -99,7 +95,8 @@ http://81.163.39.156:8384/udp/233.166.172.64:1234?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ
 http://streamer1.iptvsmotri.ru:9600/anekdot_tv_hguitjnkg/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
-http://persik.by/stream/6696/480248/10454.m3u8
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUS TV
 http://stream.backustv.ru/content/39837/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUS TV Страшное HD" group-title="Фильмы и сериалы",BACKUS TV СТРАШНОЕ
@@ -139,12 +136,8 @@ http://iptv.prosto.tv:7000/ch43/video.m3u8
 http://iptv.prosto.tv:7000/ch45/video.m3u8
 #EXTINF:-1 group-title="Фильмы и сериалы",Доку HD 
 https://ed-ru-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2229.png" tvg-name="Epic Drama" group-title="Фильмы и сериалы",Epic Drama HD
-http://e01.plius.tv:64144/n157/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="Фильмы и сериалы",TV3 Film
-http://e01.plius.tv:64144/n156/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3295.png" tvg-name="Spike HD" group-title="Фильмы и сериалы",Spike
-http://176.222.190.76/btv/SWM/Spike/Spike.m3u8
+http://212.76.27.27/btv/SWM/Spike/Spike_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Фильмы и сериалы",Amedia A1 HD 
 http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="Amedia 1" group-title="Фильмы и сериалы",Amedia 1
@@ -230,7 +223,7 @@ http://hlstv.kem.211.ru/239.211.211.89/stream.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png" tvg-name="Еврокино" group-title="Фильмы и сериалы",Еврокино 
 https://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png" tvg-name="Hollywood HD" group-title="Фильмы и сериалы",Hollywood HD
-http://212.79.122.23:8000/play/a00e/index.m3u8
+http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/608.png" tvg-name="Hollywood" group-title="Фильмы и сериалы",Hollywood 
 http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png" tvg-name="Bollywood HD" group-title="Фильмы и сериалы",Bollywood HD 
@@ -697,8 +690,6 @@ https://test.streamvid.club/02_17_21/02/17/15/FCLENBF6/R33U75AZ.mp4/index-v1-a1.
 http://212.113.38.100/realhls/st8/fhd/Muzyka.krish.2021.WEB-DL.1080p.ExKinoRay.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=cc73b80b02ee0aafc313d2a425edc246-l&n=33&w=720&h=1080&q=60" group-title="Медиатека",Перепутанные в Средиземноморье 2021
 https://test.streamvid.club/03_17_21/03/17/10/CQYZ7NAF/ZKMKMYQG.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=6a1814bfd151a2b4d623f436ede05a40-l&n=13" group-title="Медиатека",Пара на праздники 2020
-http://212.113.38.100/realhls/mst5/fhd/Holidate.2020.1080p.NF.WEB-DL.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=4f850caab40a85acd30001193c06ff1e-l&n=33&w=810&h=1080&q=60" group-title="Медиатека",Секрет 2020
 https://test.streamvid.club/09_30_20/09/30/08/BEX6MFXC/AVY4YOEY.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://static.hdrezka.ac/i/2020/9/9/d253d2f1f2bc8ud57t68t.png" group-title="Медиатека",Ребекка 2020
