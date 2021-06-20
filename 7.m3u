@@ -47,8 +47,11 @@ http://31.128.159.41:8080/ntv/mpegts
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Супер" group-title="Россия",Суббота
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="Рен ТВ HD" group-title="Россия",РЕН ТВ HD
-http://hlstv.brn.211.ru/239.211.2.11/stream.m3u8
+http://tsn.streaming-elbrus.tk:8080/rentv/video.m3u8?token=8daafb6b2949923f137f7db9a3fc9f16475b5863-9725250930-1624241425-1624198225
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8?version=2
@@ -95,8 +98,7 @@ http://81.163.39.156:8384/udp/233.166.172.64:1234?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2760.png" tvg-name="Анекдот ТВ" group-title="Россия",Анекдот ТВ
 http://streamer1.iptvsmotri.ru:9600/anekdot_tv_hguitjnkg/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/431.png" tvg-name="Shot TV" group-title="Фильмы и сериалы",Shot TV
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8
+http://37.17.14.149:8905/play/a00m
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUS TV
 http://stream.backustv.ru/content/39837/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUS TV Страшное HD" group-title="Фильмы и сериалы",BACKUS TV СТРАШНОЕ
@@ -164,6 +166,8 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6K96X9.jpg" group-title="Фильмы и сериалы",Фантастика SCIFI 
 https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png" tvg-name="Хит HD" group-title="Фильмы и сериалы",Хит HD
+https://hlss.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино HD
 http://hlstv.brn.211.ru/239.211.211.144/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png" tvg-name="Родное кино" group-title="Фильмы и сериалы",Родное кино
@@ -443,7 +447,7 @@ http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png" tvg-name="Discovery Channel" group-title="Познавательные",Discovery Channel
 http://80.76.245.198:12284/33
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science HD
-http://217.21.34.160:5500/science
+https://s1.idata.uz/stch_temp10/tracks-v1a1/rewind-7200.m3u8?token=gelow74
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png" tvg-name="Discovery Science" group-title="Познавательные",Discovery Science
 http://185.74.4.46:8080/stch_temp10/mpegts 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3752.png" tvg-name="Nat Geo Wild" group-title="Познавательные",Nat Geo Wild HD
@@ -676,8 +680,6 @@ http://212.113.38.100/realhls/st4/fhd/Bajocero.2021.NF.WEB-DL.1080p.mp4/index-v1
 http://212.113.38.100/realhls/mst4/fhd/Mayor.Grom.Chumnoy.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=5e9f52709e3951e9edeb487681e08e47-l&n=13" group-title="Медиатека",Армия мертвецов 2021
 http://212.113.38.100/realhls/mst1/fhd/Army.of.the.Dead.2021.1080p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://im0-tub-ru.yandex.net/i?id=cc1a04bbfc0b29399872f7d5a58970c2-srl&n=13" group-title="Медиатека",Турист 2021
-http://212.113.38.100/realhls/mst1/fhd/tiyrist.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://multhd.newmulti-torrent.ru/wp-content/uploads/2021/01/Torrent_film_2021_Rozhden_Chempionom_khoroshee_kachestvo_1080.jpg" group-title="Медиатека",Рожденный чемпионом 2021
 https://test.streamvid.club/05_18_21/05/18/13/LT2D2X4R/PTIGLT7N.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1045/1*irpah9kXh9nx_cFumjdIPQ.jpeg" group-title="Медиатека",Миссия выполнима 2021
@@ -698,3 +700,39 @@ https://test.streamvid.club/02_14_21/02/14/21/PNOU764O/FBQSH245.mp4/index-v1-a1.
 http://212.113.38.100/realhls/st3/fhd/Superintelligence.2020.WEB-DL.1080p.seleZen.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q6ZdZVrYerWjOa1DASzCmcN9Lyg.jpg" group-title="Медиатека",Жизнь за год 2020
 https://test.streamvid.club/05_26_21/05/26/15/VIKXSLUQ/6M5LFIAG.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Кинозали",01 - Все мульты
+https://5656.ga/ch1/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",02 - Все сериалы
+https://5656.ga/ch2/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",03 - Другие сериалы
+https://5656.ga/ch3/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",04 - X-Files
+https://5656.ga/ch4/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",05 - Полный метр
+https://5656.ga/ch5/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",06 - Полный метр
+https://5656.ga/ch6/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",07 - Полный метр
+https://5656.ga/ch7/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",08 - Полный метр
+https://5656.ga/ch8/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",09 - Популярные мульты и сериалы вместе
+https://5656.ga/ch9/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",10 - Друзья
+https://5656.ga/ch10/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",11 - Еще сериалы
+https://5656.ga/ch11/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",12 - И еще сериалы
+https://5656.ga/ch12/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",13 - Больше каналов с фильмами
+https://5656.ga/ch13/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",14 - Больше каналов с фильмами
+https://5656.ga/ch14/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",15 - Непопулярные сериалы
+https://5656.ga/ch15/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",16 - Непопулярные сериалы
+https://5656.ga/ch16/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",17 - Сериалы
+https://5656.ga/ch17/1FA7.m3u8
+#EXTINF:-1 group-title="Кинозали",18 - Сериалы
+https://5656.ga/ch18/1FA7.m3u8
