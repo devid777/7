@@ -7,18 +7,15 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" tvg-name="Россия 1" group-title="Россия",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2547.png" tvg-name="РТР" group-title="Россия",Россия РТР
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия-24" group-title="Россия",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8?telegramm=yossotv
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Россия-Культура" group-title="Россия",Россия К 
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" tvg-name="Телеканал Звезда" group-title="Россия",Звезда
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png" tvg-name="Победа" group-title="Россия",Победа
-https://sc.id-tv.kz/Pobeda_36_37.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ3" group-title="Россия",ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2
@@ -43,9 +40,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю ТВ" group-title="Россия",Ю ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/18.png" tvg-name="РЕН ТВ" group-title="Россия",РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8?version=2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Россия",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
@@ -65,25 +62,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2023.png" tvg-name="Мир Premium" group-title="Россия",Мир Premium HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4662.png" tvg-name="BACKUS TV Страшное HD" group-title="Фильмы и сериалы",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4770.png" tvg-name="BACKUS TV HD" group-title="Фильмы и сериалы",BACKUS TV
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/774.png" tvg-name="FlixSnip" group-title="Фильмы и сериалы",FlixSnip
-http://145.249.228.229:8000/play/40
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png" tvg-name="Остросюжетное HD" group-title="Фильмы и сериалы",Остросюжетное HD
-http://37.187.28.95:2022/ostrosygetnoe/mpegts
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="AMEDIA HIT" group-title="Фильмы и сериалы",Amedia Hit HD
-http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#http://185.228.135.48:8080/tv_amedia_hit_sd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png" tvg-name="Amedia Premium HD" group-title="Фильмы и сериалы",Amedia Premium HD
-http://31.173.178.110:8004/play/a0br/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png" tvg-name="Fox HD" group-title="Фильмы и сериалы",FOX HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/720p.m3u8
-#https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/464.png" tvg-name="Fox Life" group-title="Фильмы и сериалы",Fox Life HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
-#https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/fox/fox.m3u8
 #EXTINF:-1 tvg-logo="http://televizor.org/img/logopit/Millenium%20TV.png" group-title="Фильмы и сериалы",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png" tvg-name="TV1000 World Kino" group-title="Фильмы и сериалы",TV1000 World Kino
@@ -258,7 +238,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч ТВ" group-title="Спортивные",Матч ТВ HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?token=gelow74
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png" tvg-name="МАТЧ! СТРАНА" group-title="Спортивные",Матч! Страна HD 
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ MUSIC" group-title="Музыкальные",ТНТ Music HD
